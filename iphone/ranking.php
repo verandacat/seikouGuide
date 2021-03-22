@@ -253,7 +253,7 @@
                                 <img src="./img/n_img/badge_ranking_02.png" width="70" />
                             </div>
 
-                            <?php include "item/tablet-k.php"; ?>
+                            <?php include "item/tablet-s.php"; ?>
 
       <!--
             ★★★★★★★★★★★★★★★★★★★★★★★★★★
@@ -270,7 +270,7 @@
                                 <img src="./img/n_img/badge_ranking_03.png" width="70" />
                             </div>
 
-                            <?php include "item/tablet-s.php"; ?>
+                            <?php include "item/tablet-k.php"; ?>
 
 
 
