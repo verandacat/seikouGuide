@@ -71,7 +71,7 @@
                     <th>ユーザー評価</th>
                 </tr>
                 <tr>
-                    <td>4,730円</td>
+                    <td>4,730円(税込)</td>
                     <td>48包/24日分</td>
                     <td>
                         <img alt="" src="./img/review_4.gif" />

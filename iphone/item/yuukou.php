@@ -78,7 +78,7 @@
                       <th>ユーザー評価</th>
                     </tr>
                     <tr>
-                      <td>7452円</td>
+                      <td>7,452円(税込)</td>
                       <td>550㎖×2本（18日分）</td>
                       <td>
                         <img alt="" src="./img/review_4.gif" />

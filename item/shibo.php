@@ -64,7 +64,7 @@
             </p>
 
             <p>
-                加齢と共に落ちづらくなっていくお腹の脂肪にしっかりアプローチ！値段も<span class="bold">一日たったの93円</span>だから続けやすい！
+                加齢と共に落ちづらくなっていくお腹の脂肪にしっかりアプローチ！値段も<span class="bold">一日たったの97円</span>だから続けやすい！
             </p>
 
             <p>
@@ -75,7 +75,7 @@
             <a target="_blank"
                 href="./links/sibo.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
                 target="_blank">
-                <span class="link_txt">一日たった93円！<?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+                <span class="link_txt">一日たった97円！<?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
             </a>
 
         </div>
@@ -88,7 +88,7 @@
                     <th>ユーザー評価</th>
                 </tr>
                 <tr>
-                    <td>2808円(定期)</td>
+                    <td>2,918円(税込)</td>
                     <td>120粒</td>
                     <td>
                     <?php if ($_GET['pat'] == "a" || $_GET['pat'] == "c") : ?>
@@ -116,7 +116,7 @@
                     <td>
                     <?php if ($_GET['pat'] == "l") : ?>
                     <?php else : ?>
-                        93円
+                        97円
                     <?php endif; ?>
                     </td>
                 </tr>

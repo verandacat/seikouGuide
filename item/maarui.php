@@ -66,13 +66,13 @@
                 サポートもしてくれる！
             </p>
             <p>
-                値段も初回たったの907円で、2回目以降もずっと25％OFF！<br>
+                値段も初回たったの980円（税込）で、2回目以降もずっと25％OFF！<br>
                 しかも15日間の返金保証付きだからとっても試しやすい！
             </p>
             <a target="_blank"
                 href="./links/maarui.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
                 target="_blank">
-                <span class="link_txt">初回907円！<?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+                <span class="link_txt">980円（税込）<?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
             </a>
 
         </div>
@@ -85,7 +85,7 @@
                     <th>ユーザー評価</th>
                 </tr>
                 <tr>
-                    <td>3980円</td>
+                    <td>3980円(税込)</td>
                     <td>60粒</td>
                     <td>
                         <img alt="" src="./img/review_5.gif" />
@@ -109,7 +109,7 @@
                     <td>
                     <?php if ($_GET['pat'] == "l") : ?>
                     <?php else : ?>
-                        110円
+                        107円
                     <?php endif; ?>
                     </td>
                 </tr>

@@ -85,7 +85,7 @@
                         <th>ユーザー評価</th>
                     </tr>
                     <tr>
-                        <td>3980円</td>
+                        <td>4,298円(税込)</td>
                         <td>60粒</td>
                         <td>
                             <img alt="" src="./img/review_4.gif" />

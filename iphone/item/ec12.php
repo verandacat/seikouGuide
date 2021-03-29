@@ -71,7 +71,7 @@
                         <th>ユーザー評価</th>
                     </tr>
                     <tr>
-                        <td>900円（初回）</td>
+                        <td>2,970円(税込)</td>
                         <td>120粒（30日分）</td>
                         <td>
                             <img alt="" src="./img/review_35.gif" />

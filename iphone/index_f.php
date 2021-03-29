@@ -292,13 +292,15 @@
                           <td>
                               <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                               <!-- <p>10,200円</p> -->
-                              <p>6,750円</p>
+                              <p>7,425円</p>
+
                           </td>
 
                           <td>
                               <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                               <!-- <p>7,452円</p> -->
-                              <p>5,980円+税</p>
+                              <p>6,578円</p>
+
                           </td>
 
                         </tr>
@@ -321,13 +323,15 @@
                           <td>
                               <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                               <!-- <p>10,200円<br>（ドリンク2本、サプリ1袋）</p> -->
-                              <p>初回500円</p>
+                              <p>初回550円</p>
+
                           </td>
 
                           <td>
                               <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                               <!-- <p>初回6,372円<br>（ハーフボトル2本）</p> -->
-                              <p>初回1980円</p>
+                              <p>初回2,178円</p>
+
 
                           </td>
 

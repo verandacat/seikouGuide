@@ -74,7 +74,7 @@
         <th>ユーザー評価</th>
     </tr>
     <tr>
-        <td>4,212円</td>
+        <td>4,212円(税込)</td>
         <td>180g</td>
         <td><img alt="4.5" src="./img/review_5.gif"></td>
     </tr>
