@@ -29,7 +29,7 @@
 
             <ul class="r-list">
 
-                <li>トライアルパックが<span class="red bold">550円(税込)</span>で試しやすい！</li>
+                <li>トライアルパックが<span class="red bold">540円(税込)</span>で試しやすい！</li>
 
                 <li>サラシノールが<span class="bold">糖の吸収を抑える</span><sup>※1</sup></li>
 
@@ -58,7 +58,7 @@
 </p>
 
 <p>
-    <span class="bold">14日分トライアルパックがたったの550円(税込)</span>だから試しやすい！
+    <span class="bold">14日分トライアルパックがたったの540円(税込)</span>だから試しやすい！
     サラシア由来の「サラシノール」が<span class="bold">食事の糖の吸収を抑え</span>
     おなかの中のビフィズス菌を増やし、さらに本品の継続摂取により<span class="bold">BMIが高めの方のおなかの脂肪・体重を減らします！</span>
 </p>
@@ -72,7 +72,7 @@
 <a target="_blank"
     href="./links/meta.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
     target="_blank">
-    <span class="link_txt">初回550円(税込)　<?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+    <span class="link_txt">初回540円(税込)　<?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
 </a>
 
 </div>
@@ -85,7 +85,7 @@
         <th>ユーザー評価</th>
     </tr>
     <tr>
-        <td>5,027円(税込)</td>
+        <td>4,441円(税込)</td>
         <td>240粒</td>
         <td>
         <?php if ($_GET['pat'] == "a" || $_GET['pat'] == "c") : ?>
@@ -115,7 +115,7 @@
         <td>
         <?php if ($_GET['pat'] == "l") : ?>
         <?php else : ?>
-            167円
+            148円
         <?php endif; ?>
         </td>
     </tr>

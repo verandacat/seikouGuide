@@ -78,7 +78,7 @@
                     <th>ユーザー評価</th>
                 </tr>
                 <tr>
-                    <td>4,378円(税込)</td>
+                    <td>4,298円(税込)</td>
                     <td>60粒</td>
                     <td>
                         <img alt="" src="./img/review_4.gif" />
@@ -96,7 +96,7 @@
                 <tr>
                     <td>酵素サプリ</td>
                     <td>麹菌、乳酸菌</td>
-                    <td>145円</td>
+                    <td>143円</td>
                 </tr>
 
             </tbody>
