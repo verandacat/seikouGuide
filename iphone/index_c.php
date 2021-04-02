@@ -303,7 +303,7 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回1,058円</p>
+                        <p>初回980円</p>
 
                     </td>
 
