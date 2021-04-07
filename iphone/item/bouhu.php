@@ -63,7 +63,7 @@
         ※上記、クーポンコードを購入確認画面でご入力ください。
     </div>
     <a target="_blank" href="./links/bouhu.php<?php echo "?" . $query2; ?>" target="_blank">
-        <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+        <span class="link_txt">クーポン付きキャンペーンページはこちら</span>
     </a>
 
 </div>

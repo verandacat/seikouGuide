@@ -64,7 +64,7 @@
     </div>
 
     <a target="_blank" href="./links/bouhu.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
-        <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+        <span class="link_txt">クーポン付きキャンペーンページはこちら</span>
     </a>
 
 </div>
