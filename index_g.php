@@ -134,14 +134,14 @@
                     <th>
                         <p>
                             <a class="link-img" target="_blank"
-                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yorisou.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                                <img src="./img/yorisou.jpg" alt="" />
+                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/easyb.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+                                <img src="./img/easyb.jpg" alt="" />
                             </a>
                         </p>
                         <p>
                             <span class="lbg">
                                 <a target="_blank"
-                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yorisou.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">わたしとよりそうスムージー</a>
+                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/easyb.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">EASY B-BODY</a>
                             </span>
                         </p>
                     </th>
@@ -183,7 +183,7 @@
                             <img src="./img/review_4.gif" alt="" />
                         </p>
 
-                        <p class="f-15">4.0/5.0</p>
+                        <p class="f-15">4.2/5.0</p>
 
                     </td>
 
@@ -209,7 +209,7 @@
                     </td>
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>ホワイトチアシード、特選121種の植物酵素、マキベリー、グルコマンナン</p>
+                        <p>大豆イソフラボン、ワイルドヤム配合、10種のビタミン、レタス1.2個分の食物繊維</p>
                     </td>
 
                 </tr>
@@ -288,7 +288,7 @@
                     <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
                         <!-- <p>7,452円</p> -->
-                        <p>5,087円</p>
+                        <p>7,150円</p>
 
                     </td>
 
@@ -317,7 +317,7 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>初回2,980円</p>
+                        <p>初回2,106円</p>
 
                     </td>
 
@@ -349,7 +349,7 @@
 
                     <td>
                         <a target="_blank"
-                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yorisou.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/easyb.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
