@@ -80,7 +80,11 @@
             <td>初回4290円（税込）定期6490円（税込）</td>
             <td>90包/30日分</td>
             <td>
+            <?php if($_GET['pat'] == 'a' || $_GET['pat'] == '') : ?>
+                <img alt="" src="./img/review_4.gif" />
+            <?php else : ?>
                 <img alt="" src="./img/review_5.gif" />
+            <?php endif; ?>
             </td>
         </tr>
         <tr>
