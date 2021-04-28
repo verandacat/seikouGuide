@@ -89,7 +89,7 @@
                         <td>2,918円(税込)</td>
                         <td>120粒</td>
                         <td>
-                        <?php if ($_GET['pat'] == "a" || $_GET['pat'] == "c") : ?>
+                        <?php if ($_GET['pat'] == "a" || $_GET['pat'] == "" || $_GET['pat'] == "c") : ?>
                         <img alt="" src="./img/review_5.gif" />
                         <?php else : ?>
                         <img alt="" src="./img/review_4.gif" />
