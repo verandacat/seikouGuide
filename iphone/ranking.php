@@ -336,7 +336,7 @@
                                 <img src="./img/n_img/badge_ranking_05.png" width="70" />
                             </div>
 
-                            <?php include "item/shibo.php"; ?>
+                            <?php include "item/easytablet.php"; ?>
 
         </div>
         <!--#tab4 end-->

@@ -333,7 +333,7 @@
                                                                                                 width="100" />
                                                                                         </div>
 
-                                                                                        <?php include "item/shibo.php"; ?>
+                                                                                        <?php include "item/easytablet.php"; ?>
 
 
 
