@@ -60,8 +60,6 @@
                             </div>
                             <?php include "item/wild.php"; ?>
 
-
-
             <!--
             ★★★★★★★★★★★★★★★★★★★★★★★★★★
             #tab1 4位-->
@@ -72,15 +70,10 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_04.png" width="70" />
                             </div>
-
-                            <?php include "item/fura-test.php"; ?>
-
-
-
-
+                            <?php include "item/bouhu.php"; ?>
 
 
             <!--
@@ -96,8 +89,8 @@
                             <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_05.png" width="70" />
                             </div>
-
-                            <?php include "item/bouhu.php"; ?>
+                            <?php include "item/eg.php"; ?>
+           
 
         </div>
         <!-- #tab1 中身-->
@@ -273,8 +266,7 @@
 
                             <?php include "item/meta.php"; ?>
 
-
-            <!--
+      <!--
             ★★★★★★★★★★★★★★★★★★★★★★★★★★
             #tab4 2位-->
 
@@ -289,11 +281,9 @@
                                 <img src="./img/n_img/badge_ranking_02.png" width="70" />
                             </div>
 
-                            <?php include "item/slilin.php"; ?>
+                            <?php include "item/tablet-s.php"; ?>
 
-
-
-            <!--
+      <!--
             ★★★★★★★★★★★★★★★★★★★★★★★★★★
             #tab4 3位-->
 
@@ -308,7 +298,45 @@
                                 <img src="./img/n_img/badge_ranking_03.png" width="70" />
                             </div>
 
-                            <?php include "item/shibo.php"; ?>
+                            <?php include "item/tablet-k.php"; ?>
+
+
+
+            <!--
+            ★★★★★★★★★★★★★★★★★★★★★★★★★★
+            #tab4 4位-->
+
+
+            <table class="r-table" cellspacing="0">
+
+                <tbody>
+
+                    <tr>
+                        <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                                <img src="./img/n_img/badge_ranking_04.png" width="70" />
+                            </div>
+
+                            <?php include "item/slilin.php"; ?>
+
+
+
+            <!--
+            ★★★★★★★★★★★★★★★★★★★★★★★★★★
+            #tab4 5位-->
+
+
+            <table class="r-table" cellspacing="0">
+
+                <tbody>
+
+                    <tr>
+                        <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                                <img src="./img/n_img/badge_ranking_05.png" width="70" />
+                            </div>
+
+                            <?php include "item/easytablet.php"; ?>
 
         </div>
         <!--#tab4 end-->
@@ -391,7 +419,7 @@
                                 <img src="./img/n_img/badge_ranking_01.png" width="70" />
                             </div>
 
-                            <?php include "item/konbutsya.php"; ?>
+                            <?php include "item/shibogoldsmoothie.php"; ?>
                             
 
 
@@ -429,7 +457,7 @@
                                 <img src="./img/n_img/badge_ranking_03.png" width="70" />
                             </div>
 
-                            <?php include "item/beltakousou.php"; ?>
+                            <?php include "item/oneday.php"; ?>
 
         </div>
         <!--#tab6 end-->
@@ -471,7 +499,7 @@
                                     <img src="./img/n_img/badge_ranking_02.png" width="60" />
                                 </div>
 
-                                <?php include "item/easesmoothie.php"; ?>
+                                <?php include "item/easyb.php"; ?>
 
 
                 <!--
@@ -488,11 +516,9 @@
                                     <img src="./img/n_img/badge_ranking_03.png" width="60" />
                                 </div>
 
-                                <?php include "item/yorisousmt.php"; ?>
+                                <?php include "item/oneday.php"; ?>
 
-
-                                
-
+          
 
                 </div>
                 <!--#tab7 end-->
@@ -511,11 +537,8 @@
 
                         <tr>
                             <th class="r-title" colspan="2">
-                                <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                    <img src="./img/n_img/badge_ranking_01.png" width="60" />
-                                </div>
 
-                                <?php include "item/bouhu.php"; ?>
+                                <?php include "item/bouhu-test.php"; ?>
 
 
 
@@ -530,11 +553,8 @@
 
                         <tr>
                             <th class="r-title" colspan="2">
-                                <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                    <img src="./img/n_img/badge_ranking_02.png" width="60" />
-                                </div>
 
-                                <?php include "item/eg.php"; ?>
+                                <?php include "item/eg-test.php"; ?>
 
 
                 
@@ -547,14 +567,7 @@
 
                         <tr>
                             <th class="r-title" colspan="2">
-                                <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                    <img src="./img/n_img/badge_ranking_03.png" width="60" />
-                                </div>
-
-                                <?php include "item/tsumura.php"; ?>
-
-
-                                
+                                <?php include "item/teishi.php"; ?>
 
 
                 </div> 

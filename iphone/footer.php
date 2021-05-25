@@ -160,7 +160,11 @@
 
     
 <script src="countdown.js?<?php echo time(); ?>"></script>
-
+<?php if($_GET['pat'] == "a"|| $_GET['pat'] == "" || $_GET['pat'] == "c") : ?>
+    <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-iagzybmk.js"></script>
+<?php elseif($_GET['pat'] == "d") : ?>
+    <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-mwwsbpqr.js"></script>
+<?php endif; ?>
 </body>
 
 </html>

@@ -1,19 +1,23 @@
-<!-- <div id="banner-wrap">
-      <a href="./contact.php">
+
+<?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d") : ?>
+<?php else : ?>
+<div id="banner-wrap">
+    <a href="./contact.php">
         <img src="./img/sub-header-bn-sp.png" alt="" width="100%">
-      </a>
-      <a href="./supple.php">
+    </a>
+    <a href="./supple.php">
         <img src="./img/sub-header-01-sp.png" alt="" width="100%">
-      </a>
-      <a href="./column.php">
+    </a>
+    <a href="./column.php">
         <img src="./img/sub-header-02-sp.png" alt="" width="100%">
-      </a>
+    </a>
 
-      <a href="./qna.php">
+    <a href="./qna.php">
         <img src="./img/sub-header-03-sp.png" alt="" width="100%">
-      </a>
+    </a>
 
-      </div> -->
+</div>
+<?php endif; ?>
 
 <div id="menu">
 
@@ -38,9 +42,12 @@
 
 
 <footer>
-
+    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d") : ?>
     Copyright (C) 2019 <br>成功ガイド All Rights Reserved.
-
+    <?php else :?>
+    Copyright (C) 2019 <br>ダイエット成功ガイド All Rights Reserved.
+    <?php endif; ?>
+    
     <script type="text/javascript">
     window._pt_lt = new Date().getTime();
     window._pt_sp_2 = [];
@@ -72,7 +79,6 @@
     ga('send', 'pageview');
     </script>
 
-    <!--19/12/11 mira 追加 スマホのみ-->
 
     <script>
     var itemHeights = []; //
@@ -99,8 +105,6 @@
         }
     });
     </script>
-
-
 
     <script>
     $(".ham-btn").click(function() {
@@ -140,16 +144,21 @@
         }
         var accordion1 = new Accordion1($('.menu-list-wrap'), false);
     });
+    
+    </script>
+    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d") : ?>
 
+    <script>
     $(function() {
         $('#wrapper').css({
             marginTop: 0
         });
     })
     </script>
-
+    <?php endif; ?>
 </footer>
 
+    
 <script src="countdown.js?<?php echo time(); ?>"></script>
 
 </body>

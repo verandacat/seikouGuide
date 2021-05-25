@@ -2,6 +2,10 @@
      <div id="pagetop">
               <a href="#wrapper">このページの先頭へ戻る</a>
      </div>
+
+     <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d") : ?>
+
+     <?php else : ?>
     
     <div id="banner-wrap">
     <a href="./contact.php">
@@ -20,6 +24,7 @@
     </a>
 
     </div>
+     <?php endif; ?>
 
     
     <div id="menu">
@@ -71,6 +76,8 @@
         </script>
     </footer>
 
+   
+
     <script>
     $(".ham-btn").click(function() {
        $("#ham-menu").addClass("open"); 
@@ -111,6 +118,17 @@ $(function() {
 });
 </script>
 
+<?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d") : ?>
+
+<script>
+$(function() {
+        $('#wrapper').css({
+          marginTop: 0
+        });
+    })
+</script>
+<?php endif; ?>
+<script type="text/javascript" src="js/countdown.js?<?php echo time(); ?>"></script>
 
 </body>
 
