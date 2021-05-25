@@ -426,7 +426,7 @@
             <li rel="tab5" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-d.png'">酵素<br>サプリ</li>
             <li class="active" rel="tab6" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-e.png'">酵素<br>ドリンク</li>
             <li rel="tab7" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-g.png'">ダイエット<br>スムージー</li>
-            <li rel="tab8" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-h.png'">防風通聖散</li>
+            <li rel="tab8" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-h-new.jpg'">防風通聖散</li>
 
 
         </ul>

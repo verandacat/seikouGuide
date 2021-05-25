@@ -73,7 +73,7 @@
                             <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_04.png" width="70" />
                             </div>
-                            <?php include "item/tablet-k.php"; ?>
+                            <?php include "item/tablet-s.php"; ?>
 
 
             <!--
@@ -537,12 +537,7 @@
 
                         <tr>
                             <th class="r-title" colspan="2">
-<<<<<<< HEAD
-=======
-                                <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                    <img src="./img/n_img/badge_ranking_01.png" width="60" />
-                                </div>
->>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
+                        
 
                                 <?php include "item/bouhu.php"; ?>
 
@@ -559,12 +554,6 @@
 
                         <tr>
                             <th class="r-title" colspan="2">
-<<<<<<< HEAD
-=======
-                                <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                    <img src="./img/n_img/badge_ranking_02.png" width="60" />
-                                </div>
->>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
 
                                 <?php include "item/eg.php"; ?>
 
@@ -579,19 +568,10 @@
 
                         <tr>
                             <th class="r-title" colspan="2">
-<<<<<<< HEAD
+
 
                                 <?php include "item/teishi.php"; ?>
-=======
-                                <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                    <img src="./img/n_img/badge_ranking_03.png" width="60" />
-                                </div>
 
-                                <?php include "item/tsumura.php"; ?>
->>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
-
-
-                                
 
 
                 </div> 

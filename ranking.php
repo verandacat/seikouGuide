@@ -74,7 +74,7 @@
                                 width="100" />
                         </div>
 
-                        <?php include "item/tablet-k.php"; ?>
+                        <?php include "item/tablet-s.php"; ?>
 
 
                         <!--

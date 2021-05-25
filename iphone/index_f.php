@@ -408,7 +408,7 @@
                       <li class="tab5 swiper-slide"><a href="#tab5" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-d.png'">酵素<br>サプリ</a></li>
                       <li class="tab6 swiper-slide active"><a href="#tab6" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-e.png'">酵素<br>ドリンク</a></li>
                       <li class="tab7 swiper-slide"><a href="#tab7" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-g.png'">ダイエット<br>スムージー</a></li>
-                      <li class="tab8 swiper-slide"><a href="#tab8" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-h.png'">防風通聖散</a></li>
+                      <li class="tab8 swiper-slide"><a href="#tab8" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-h-new.jpg'">防風通聖散</a></li>
                       <li class="swiper-slide"></li>
                     </ul>
               </div>

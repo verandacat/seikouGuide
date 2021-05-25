@@ -4,11 +4,7 @@
 
     <header>
         <div class="img-wrap">
-<<<<<<< HEAD
             <img src="./img/top-banner-pc-new-h-new.png" />
-=======
-            <img src="./img/top-banner-pc-new-h.png" />
->>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
         </div>
     </header>
 
@@ -25,11 +21,7 @@
 
             <h1 class="right">とお悩みの方へ</span></h1>
 
-<<<<<<< HEAD
             <h1 class="center">本当におすすめ！<br>厳選！防風通聖散おすすめ3選を大公開</span></h1>
-=======
-            <h1 class="center">本当におすすめ！<br>厳選！防風通聖散人気ランキングベスト３を大公開</span></h1>
->>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
 
         </div>
         <!--.title-wrap end-->
@@ -51,278 +43,8 @@
 
 
 
-<<<<<<< HEAD
     <div class="img-wrap">
         <img id="rank_bn" src="./img/n_img/ranking-banner-pc-h-new.jpg" />
-=======
-
-    <section id="section-02">
-
-        <!--比較表START-->
-
-        <table class="table-01" cellspacing="1">
-
-            <tbody>
-                <tr>
-                    <th class="crown">
-                    </th>
-                    <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_01.png" width="100" alt="" />
-                        </p>
-                    </th>
-                    <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_02.png" width="100" alt="" />
-                        </p>
-                    </th>
-                    <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_03.png" width="100" alt="" />
-                        </p>
-                    </th>
-                </tr>
-
-
-                <!-- 1行目 -->
-                <tr>
-                    <th class="table-title">
-                        <h6>商品名</h6>
-                        </p>
-                    </th>
-                    <th>
-                        <p>
-                            <a class="link-img" target="_blank"
-                                href="./links/bouhu.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                                <img src="./img/bouhu.jpg" alt="" />
-                            </a>
-                        </p>
-                        <p>
-                            <span class="lbg">
-                                <a target="_blank"
-                                    href="./links/bouhu.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">生漢煎「防風通聖散」</a>
-                            </span>
-                        </p>
-                    </th>
-                    <th>
-                        <p>
-                            <a class="link-img" target="_blank"
-                                href="./links/eg.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                                <img src="./img/eg.jpg" alt="" />
-                            </a>
-                        </p>
-                        <p>
-                            <span class="lbg">
-                                <a target="_blank"
-                                    href="./links/eg.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">EGタイトLight</a>
-                            </span>
-                        </p>
-                    </th>
-                    <th>
-                        <p>
-                            <a class="link-img" target="_blank"
-                                href="./links/tsumura.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                                <img src="./img/tsumura.jpg" alt="">
-                            </a>
-                        </p>
-                        <p>
-                            <span class="lbg">
-                                <a target="_blank"
-                                    href="./links/tsumura.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">ツムラ漢方防風通聖散</a>
-                            </span>
-                        </p>
-                    </th>
-                </tr>
-
-
-                <!-- 2行目 -->
-                <tr>
-                    <td class="table-title">
-                        <h6>ユーザー評価</h6>
-                    </td>
-                    <td>
-                        <p>
-                            <img src="./img/review_5.gif" alt="" />
-                        </p>
-                        <p class="f-15">4.8/5.0</p>
-                    </td>
-                    <td>
-                        <p>
-                            <img src="./img/review_45.gif" alt="" />
-                        </p>
-                        <p class="f-15">4.6/5.0</p>
-                    </td>
-                    <td>
-                        <p>
-                            <img src="./img/review_4.gif" alt="" />
-                        </p>
-                        <p class="f-15">3.8/5.0</p>
-                    </td>
-                </tr>
-
-
-                <!-- 3行目 -->
-
-                <tr>
-                    <td class="table-title">
-                        <h6 class="table-title">口コミ満足度</h6>
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                    </td>
-                </tr>
-
-
-                <!-- 4行目 -->
-                <tr>
-                    <td class="table-title">
-                        <h6 class="table-title">どんな人に<br>おすすめ</h6>
-                    </td>
-                    <td>
-                        <p>医薬品を使って本気で痩せたい</p>
-                    </td>
-                    <td>
-                        <p>防風通聖散をまずは気軽に試してみたい</p>
-                    </td>
-                    <td>
-                        <p>昔からお馴染みのツムラさんがいい</p>
-                    </td>
-                </tr>
-
-
-                <!-- 5行目 -->
-                <tr>
-                    <td class="table-title">
-                        <h6 class="table-title">処方量</h6>
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>満量処方</p>
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>1/2処方</p>
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>1/2処方</p>
-                    </td>
-                </tr>
-
-
-                <!-- 6行目 -->
-
-                <tr>
-                    <td class="table-title">
-                        <h6 class="table-title">容量</h6>
-                    </td>
-                    <td>
-                        <p>90包/30日分</p>
-                    </td>
-                    <td>
-                        <p>180錠/15日分</p>
-                    </td>
-                    <td>
-                        <p>48包/24日分</p>
-                    </td>
-                </tr>
-
-
-                <!-- 7行目 -->
-
-                <tr>
-
-                    <td class="table-title">
-                        <h6>キャンペーン</h6>
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回4,290円</p>
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回1,058円</p>
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>なし<br>希望小売価格：4,730円</p>
-                    </td>
-                </tr>
-
-
-                <!-- 8行目 -->
-                <tr>
-                    <td class="table-title">
-                        <h6>定期コース割引</h6>
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>ずっと2,090円OFF<br><span class="rred">しかも公式サイト限定で1,100円（税込）OFFクーポン付き</span></p>
-                    </td>
-
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>ずっと30%OFF</p>
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>なし</p>
-                    </td>
-
-                </tr>
-
-                <!-- 9行目 -->
-
-                <tr class="btn" style="height: 50px;">
-                    <td class="table-title">
-                        <h6 class="table-title">公式サイト</h6>
-                    </td>
-                    <td>
-                        <a target="_blank" href="./links/bouhu.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                            <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                        </a>
-                    </td>
-                    <td>
-                        <a target="_blank" href="./links/eg.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                            <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                        </a>
-                    </td>
-                    <td>
-                        <a target="_blank" href="./links/tsumura.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                            <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                        </a>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-
-        <!--比較表END-->
-
-    </section>
-    <!--#section-02 end-->
-
-
-
-
-    <section id="section-03">
-
-        <h1 class="midashi">厳選！防風通聖散選びで失敗しないための３つのポイント</h1>
-
-        <?php include('point.php'); ?>
-
-    </section>
-    <!--#section-03 end-->
-
-
-    <div class="img-wrap">
-        <img id="rank_bn" src="./img/n_img/ranking-banner-pc-h.png" />
->>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
     </div>
 
 
@@ -340,22 +62,18 @@
             <li rel="tab5" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-d.png'">酵素<br>サプリ</li>
             <li rel="tab6" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-e.png'">酵素<br>ドリンク</li>
             <li rel="tab7" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-g.png'">ダイエット<br>スムージー</li>
-            <li class="active" rel="tab8" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-h.png'">防風通聖散</li>
+            <li class="active" rel="tab8" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-h-new.jpg'">防風通聖散</li>
         </ul>
 
         <?php include 'ranking.php'; ?>
 
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
     </section>
     <!--#section-04 end-->
 
     <!----------------------------RANKING-------------------------->
 
-<<<<<<< HEAD
+
     <section id="section-03">
 
         <h1 class="midashi">厳選！防風通聖散選びで失敗しないための３つのポイント</h1>
@@ -417,53 +135,7 @@
             </p>
         </div>
     </section>
-=======
 
-
-
-    <!-- <section id="section-05">
-
-
-    <img src="./img/n_img/last_banner.png" alt="" width="100%">
-
-
-    <div class="last-container">
-
-
-      <div class="last-txt bg-wh border-r">
-        <p>当サイトでご紹介している酵素サプリは、効果はもちろんですが、
-          <span class="bold">できるかぎり多くの「ダイエットしたい」「毎朝すっきりしたい」とお悩みの方に試していただきたい</span>という気持ちから、
-          <span class="bold red">お得に試せるかどうか</span>、という点も重要視して選ばせていただきました。</p><br>
-
-        <p>酵素サプリランキング第１位の<span class="bold">uka</span>は今なら <span class="bold blue">初回５００円モニター募集中！</span>なんと、
-          <span class="bold red">１日わずか１０円 </span>で試すことが出来ちゃいます。</p><br>
-
-        <p>このめっちゃお得な特別オファーは、<span class="bold">今だけの特別オファーなのですぐに募集が終了してしまう可能性が高い</span>です。</p><br>
-
-        <p>さらに、<span class="bold red">今だけAmazonギフト券（５００円分）応募券付き！ </span>試してみようとお考えの方は、
-          <span class="bold red">お得な特別オファーが終了する前に手に入れてくださいね！</span>
-        </p>
-
-        <div class="center">
-          <img src="./img/n_img/item-d.png" width="350">
-        </div>
-
-        <a target="_blank" href="./links/kou.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>" target="_blank">
-          <img alt="" src="./img/n_img/btn_site_go_last_ko.png" width="100%" />
-        </a>
-
-
-      </div>
-
-    </div>
-
-
-
-  </section>
- -->
-
-
->>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
 
 
     <!----------------------------SEARCH-------------------------->
