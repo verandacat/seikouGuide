@@ -73,7 +73,7 @@
                             <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_04.png" width="70" />
                             </div>
-                            <?php include "item/bouhu.php"; ?>
+                            <?php include "item/tablet-k.php"; ?>
 
 
             <!--
