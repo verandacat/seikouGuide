@@ -537,9 +537,6 @@
 
                         <tr>
                             <th class="r-title" colspan="2">
-                                <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                    <img src="./img/n_img/badge_ranking_01.png" width="60" />
-                                </div>
 
                                 <?php include "item/bouhu.php"; ?>
 
@@ -556,9 +553,6 @@
 
                         <tr>
                             <th class="r-title" colspan="2">
-                                <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                    <img src="./img/n_img/badge_ranking_02.png" width="60" />
-                                </div>
 
                                 <?php include "item/eg.php"; ?>
 
@@ -573,11 +567,8 @@
 
                         <tr>
                             <th class="r-title" colspan="2">
-                                <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                    <img src="./img/n_img/badge_ranking_03.png" width="60" />
-                                </div>
 
-                                <?php include "item/tsumura.php"; ?>
+                                <?php include "item/teishi.php"; ?>
 
 
                                 
