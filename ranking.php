@@ -20,12 +20,17 @@
 
 
 
+<<<<<<< HEAD
                         <!--
+=======
+        <!--
+>>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab1 2位-->
 
 
 
+<<<<<<< HEAD
                         <table class="r-table" cellspacing="0">
 
                             <tbody>
@@ -94,6 +99,74 @@
                                                                                         </div>
 
                                                                                         <?php include "item/eg.php"; ?>
+=======
+            <table class="r-table" cellspacing="0">
+
+                <tbody>
+
+                    <tr>
+                        <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                                <img src="./img/n_img/badge_ranking_02.png" width="100" />
+                            </div>
+
+                            <?php include "item/meta.php"; ?>
+
+
+
+        <!--
+        ★★★★★★★★★★★★★★★★★★★★★★★★★★
+        #tab1 3位-->
+
+            <table class="r-table" cellspacing="0">
+
+                <tbody>
+
+                    <tr>
+                        <th class="r-title" colspan="2">
+                            <div class="img-center badge"
+                                style="position: absolute; top:10px; left:10px;">
+                                <img src="./img/n_img/badge_ranking_03.png" width="100" />
+                            </div>
+
+                            <?php include "item/wild.php"; ?>
+
+
+        <!--
+        ★★★★★★★★★★★★★★★★★★★★★★★★★★
+        #tab1 4位-->
+
+            <table class="r-table" cellspacing="0">
+
+                <tbody>
+
+                    <tr>
+                        <th class="r-title" colspan="2">
+                            <div class="img-center badge"
+                                style="position: absolute; top:10px; left:10px;">
+                                <img src="./img/n_img/badge_ranking_04.png" width="100" />
+                            </div>
+
+                            <?php include "item/bouhu.php"; ?>
+
+
+        <!--
+        ★★★★★★★★★★★★★★★★★★★★★★★★★★
+        #tab1 5位-->
+
+            <table class="r-table" cellspacing="0">
+
+                <tbody>
+
+                    <tr>
+                        <th class="r-title" colspan="2">
+                            <div class="img-center badge"
+                                style="position: absolute; top:10px; left:10px;">
+                                <img src="./img/n_img/badge_ranking_05.png" width="100" />
+                            </div>
+
+                            <?php include "item/eg.php"; ?>
+>>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
 
 
 
@@ -497,6 +570,7 @@
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab7 2位-->
 
+<<<<<<< HEAD
                         <table class="r-table" cellspacing="0">
 
                             <tbody>
@@ -508,12 +582,26 @@
                                         </div>
 
                                         <?php include "item/easyb.php"; ?>
+=======
+        <table class="r-table" cellspacing="0">
+
+            <tbody>
+
+                <tr>
+                    <th class="r-title" colspan="2">
+                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                            <img src="./img/n_img/badge_ranking_02.png" width="100" />
+                        </div>
+
+                        <?php include "item/easyb.php"; ?>
+>>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
 
 
                                         <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab7 3位-->
 
+<<<<<<< HEAD
                                         <table class="r-table" cellspacing="0">
 
                                             <tbody>
@@ -526,6 +614,20 @@
                                                         </div>
 
                                                         <?php include "item/oneday.php"; ?>
+=======
+        <table class="r-table" cellspacing="0">
+
+            <tbody>
+
+                <tr>
+                    <th class="r-title" colspan="2">
+                        <div class="img-center badge"
+                            style="position: absolute; top:10px; left:10px;">
+                            <img src="./img/n_img/badge_ranking_03.png" width="100" />
+                        </div>
+
+                        <?php include "item/oneday.php"; ?>
+>>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
 
 
     </div>
@@ -547,6 +649,12 @@
 
                 <tr>
                     <th class="r-title" colspan="2">
+<<<<<<< HEAD
+=======
+                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                            <img src="./img/n_img/badge_ranking_01.png" width="100" />
+                        </div>
+>>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
 
                         <?php include "item/bouhu.php"; ?>
 
@@ -563,7 +671,13 @@
 
                                 <tr>
                                     <th class="r-title" colspan="2">
+<<<<<<< HEAD
                                        
+=======
+                                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                                            <img src="./img/n_img/badge_ranking_02.png" width="100" />
+                                        </div>
+>>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
 
                                         <?php include "item/eg.php"; ?>
 
@@ -578,9 +692,18 @@
 
                                                 <tr>
                                                     <th class="r-title" colspan="2">
+<<<<<<< HEAD
                                                        
 
                                                         <?php include "item/teishi.php"; ?>
+=======
+                                                        <div class="img-center badge"
+                                                            style="position: absolute; top:10px; left:10px;">
+                                                            <img src="./img/n_img/badge_ranking_03.png" width="100" />
+                                                        </div>
+
+                                                        <?php include "item/tsumura.php"; ?>
+>>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
 
 
     </div>

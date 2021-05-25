@@ -83,6 +83,7 @@
             <table class="r-r-table" cellspacing="1">
                 <tbody>
                     <tr>
+<<<<<<< HEAD
                         <th colspan="2">価格</th>
                         <th>容量</th>
                     </tr>
@@ -90,6 +91,22 @@
                         <td colspan="2">6,971円(税込)</td>
                         <td>180錠</td>
                         
+=======
+                        <th>価格</th>
+                        <th>容量</th>
+                        <th>ユーザー評価</th>
+                    </tr>
+                    <tr>
+                        <td>6,971円(税込)</td>
+                        <td>180錠</td>
+                        <td>
+                            <?php if ($_GET['pat'] == "h") : ?>
+                            <img alt="" src="./img/review_45.gif" />
+                            <?php else : ?>
+                            <img alt="" src="./img/review_35.gif" />
+                            <?php endif; ?>
+                        </td>
+>>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
                     </tr>
                     <tr>
                         <th>サプリの種類</th>
