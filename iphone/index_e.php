@@ -384,7 +384,7 @@
     <div class="swiper-container">
       <ul class="swiper-wrapper tabs">
         <li class="tab1 swiper-slide"><a href="#tab1" onclick="rank_bn.src='./img/n_img/ranking-banner-sp.png'">ダイエットサプリ<br>総合ランキング</a></li>
-        <li class="tab2 swiper-slide"><a href="#tab2" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-b.png'">腸内フローラ<br>サプリ</a></li>
+        <li class="tab2 swiper-slide"><a href="#tab2" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-b-test.png'">体内フローラ<br>サプリ</a></li>
         <li class="tab3 swiper-slide"><a href="#tab3" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-c.png'">燃焼<br>サプリ</a></li>
         <li class="tab4 swiper-slide"><a href="#tab4" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-f.png'">糖質ケア<br>サプリ</a></li>
         <li class="tab5 swiper-slide active"><a href="#tab5" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-d.png'">酵素<br>サプリ</a></li>

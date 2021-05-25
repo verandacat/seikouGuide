@@ -409,7 +409,7 @@
                 <li class="tab1 swiper-slide"><a href="#tab1"
                         onclick="rank_bn.src='./img/n_img/ranking-banner-sp.png'">総合サプリ<br>ランキング</a></li>
                 <li class="tab2 swiper-slide"><a href="#tab2"
-                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-b.png'">腸内フローラ<br>サプリ</a></li>
+                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-b-test.png'">体内フローラ<br>サプリ</a></li>
                 <li class="tab3 swiper-slide"><a href="#tab3"
                         onclick="rank_bn.src='./img/n_img/ranking-banner-sp-c.png'">体脂肪ケア<br>サプリ</a></li>
                 <li class="tab4 swiper-slide active"><a href="#tab4"

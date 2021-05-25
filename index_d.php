@@ -407,7 +407,7 @@
 
         <ul class="tabs">
             <li rel="tab1" onclick="rank_bn.src='./img/n_img/ranking-banner-pc.png'">総合サプリ<br>ランキング</li>
-            <li rel="tab2" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-b.png'">体内フローラ<br>サプリ</li>
+            <li rel="tab2" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-b-test.png'">体内フローラ<br>サプリ</li>
             <li rel="tab3" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-c.png'">体脂肪ケア<br>サプリ</li>
             <li class="active" rel="tab4" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-f.png'">糖質ケア<br>サプリ</li>
             <li rel="tab5" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-d.png'">酵素<br>サプリ</li>
