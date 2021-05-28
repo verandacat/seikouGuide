@@ -28,12 +28,10 @@
                     <td>
 
                         <ul class="r-list">
-                                <li>先着1000名限定で、<span class="red">メラメラサポートサプリ「スリリンファイア」もセット</span>で付いてくる</li>
+                                <li><span class="red">今回限り初回特別価格500円（税込）・送料無料</span>で食べたことをなかったコトに！</li>
                                 <li>ターミナリアベリリカ由来没食子酸が<span class="bold">糖や脂肪の吸収を抑える</span></li>
                                 <li><span class="bold">乳酸菌や活性炭</span>も同時に摂ることが出来る</li>
                                 <li><span class="bold">機能性表示食品</span></li>
-
-
                         </ul>
 
                     </td>

@@ -24,7 +24,7 @@
 
             <h1 class="right">とお悩みの方へ</span></h1>
 
-            <h1 class="center">本当におすすめ！<br>厳選ダイエッターサポートサプリランキング<br>ベスト３を大公開！</span></h1>
+            <h1 class="center">本当におすすめ！<br>厳選ダイエッターサポートサプリランキング<br>ベスト5を大公開！</span></h1>
 
         </div>
         <!--.title-wrap end-->
@@ -110,23 +110,6 @@
                                     href="./links/sibo.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">シボヘール</a>
                             </span>
                         </p>
-
-                    </th>
-
-
-                    <th>
-                        <p>
-                            <a class="link-img" target="_blank"
-                                href="./links/meta.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                                <img src="./img/meta.jpg" alt="" />
-                            </a>
-                        </p>
-                        <p>
-                            <span class="lbg">
-                                <a target="_blank"
-                                    href="./links/meta.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">メタバリアEX</a>
-                            </span>
-                        </p>
                     </th>
 
 
@@ -145,6 +128,21 @@
                         </p>
                     </th>
 
+
+                    <th>
+                        <p>
+                            <a class="link-img" target="_blank"
+                                href="./links/eg.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+                                <img src="./img/eg.jpg" alt="" />
+                            </a>
+                        </p>
+                        <p>
+                            <span class="lbg">
+                                <a target="_blank"
+                                    href="./links/eg.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">EGタイトLight</a>
+                            </span>
+                        </p>
+                    </th>
 
 
 
@@ -198,12 +196,12 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>サラシノール</p>
+                        <p>エラグ酸</p>
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>エラグ酸</p>
+                        <p>ボウフウを含む18種の生薬</p>
                     </td>
 
 
@@ -252,14 +250,11 @@
                     </td>
 
                     <td>
-                        <p>
-                        ・サラシノールが糖の吸収を抑える<br>・サラシノールの継続摂取により腸内環境を整える<sup>（※1）</sup><br>・継続摂取により高めのBMIを改善する<sup>（※2）</sup>
-                        
-                        </p>
+                        <p>・体脂肪、血中中性脂肪を減らしたい人<br>・まだワイルドマンゴーを試したことがない<br>・機能性表示食品を試したい</p>
                     </td>
 
                     <td>
-                        <p>・体脂肪、血中中性脂肪を減らしたい人<br>・まだワイルドマンゴーを試したことがない<br>・機能性表示食品を試したい</p>
+                        <p>・脂肪を燃焼させたい<br>・多少高くても安心の医薬品でしっかり痩せたい</p>
                     </td>
 
 
@@ -283,13 +278,12 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>30日分 4,441円</p>
-
+                        <p>3,808円</p>
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>3,808円</p>
+                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+                        <p>6,971円(税込)</p>
 
                     </td>
 
@@ -314,17 +308,13 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>14日分(初回限定・お一人様1回1個限り) 540円</p>
+                        <p>初回980円</p>
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回980円</p>
-
+                        <p>初回1,078円</p>
                     </td>
-
-
-
 
 
                 </tr>
@@ -347,15 +337,14 @@
 
                     <td>
                         <a target="_blank"
-                            href="./links/meta.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+                            href="./links/wild.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
 
-
                     <td>
                         <a target="_blank"
-                            href="./links/wild.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+                            href="./links/eg.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
@@ -368,17 +357,6 @@
 
         </table>
 
-        <div class="meta-notes">
-
-        <p>
-        ※1 糖の吸収を抑える機能性と、継続摂取により腸内環境を整える(おなかの中のビフィズス菌を増やす)機能性は機能性関与成分サラシノールによる研究レビュー<br>
-        </p>
-        <p>
-        ※2 継続摂取によりBMIが高めの方のおなかの脂肪（体脂肪・内臓脂肪）・体重を減らすことで高めのBMIを改善する機能は、最終製品を用いた臨床試験
-        </p>
-
-
-        </div>
         <!--比較表END-->
 
     </section>

@@ -22,7 +22,7 @@
 
             <h1 class="right">とお悩みの方へ</span></h1><br>
 
-            <h1>本当におすすめ！<br>厳選ダイエッターサポート<br>サプリランキング<br>ベスト３を大公開！</span></h1>
+            <h1>本当におすすめ！<br>厳選ダイエッターサポート<br>サプリランキング<br>ベスト5を大公開！</span></h1>
 
         </div>
         <!--.title-wrap end-->
@@ -109,20 +109,6 @@
                         </p>
                     </th>
 
-                    <th>
-                        <p>
-                            <a class="link-img" target="_blank"
-                                href="./links/meta.php<?php echo "?" . $query2; ?>">
-                                <img src="./img/meta.jpg" alt="" />
-                            </a>
-                        </p>
-                        <p>
-                            <span class="lbg">
-                                <a target="_blank"
-                                    href="./links/meta.php<?php echo "?" . $query2; ?>">メタバリアEX</a>
-                            </span>
-                        </p>
-                    </th>
 
                     <th>
                         <p>
@@ -140,6 +126,20 @@
                     </th>
 
 
+                    <th>
+                        <p>
+                            <a class="link-img" target="_blank"
+                                href="./links/eg.php<?php echo "?" . $query2; ?>">
+                                <img src="./img/eg.jpg" alt="" />
+                            </a>
+                        </p>
+                        <p>
+                            <span class="lbg">
+                                <a target="_blank"
+                                    href="./links/eg.php<?php echo "?" . $query2; ?>">EGタイトLight</a>
+                            </span>
+                        </p>
+                    </th>
 
                     <!-- 2行目 -->
 
@@ -191,11 +191,11 @@
                     </td>
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>サラシノール</p>
+                        <p>エラグ酸</p>
                     </td>
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>エラグ酸</p>
+                        <p>ボウフウを含む18種の生薬</p>
                     </td>
 
 
@@ -238,13 +238,11 @@
                     </td>
 
                     <td>
-                        <p style="text-align: left">
-                        ・サラシノールが糖の吸収を抑える<br>・サラシノールの継続摂取により腸内環境を整える<sup>（※1）</sup><br>・継続摂取により高めのBMIを改善する<sup>（※2）</sup>
-                        </p>
+                        <p style="text-align: left">・体脂肪、血中中性脂肪を減らしたい人<br>・まだワイルドマンゴーを試したことがない<br>・機能性表示食品を試したい</p>
                     </td>
 
                     <td>
-                    <p style="text-align: left">・体脂肪、血中中性脂肪を減らしたい人<br>・まだワイルドマンゴーを試したことがない<br>・機能性表示食品を試したい</p>
+                        <p style="text-align:left">・脂肪を燃焼させたい<br>・多少高くても安心の医薬品でしっかり痩せたい</p>
                     </td>
 
 
@@ -268,13 +266,12 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>30日分 4,441円</p>
-
+                        <p>3,810円</p>
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>3,810円</p>
+                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+                        <p>6,971円(税込)</p>
 
                     </td>
 
@@ -297,13 +294,12 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>14日分(初回限定・お一人様1回1個限り) 540円</p>
-
+                        <p>初回980円</p>
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回980円</p>
+                        <p>初回1,078円</p>
 
                     </td>
 
@@ -328,18 +324,17 @@
 
                     <td style="width:27%;">
                         <a target="_blank"
-                            href="./links/meta.php<?php echo "?" . $query2; ?>">
+                            href="./links/wild.php<?php echo "?" . $query2; ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
 
                     <td style="width:27%;">
                         <a target="_blank"
-                            href="./links/wild.php<?php echo "?" . $query2; ?>">
+                            href="./links/eg.php<?php echo "?" . $query2; ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
-
 
 
                 </tr>
@@ -349,23 +344,7 @@
         </table>
 
         <!--比較表END-->
-        <div class="meta-notes">
-                        <span class="grad-trigger"></span>
-                            <div class="grad-item">
-                              <p>
-                              ※1 糖の吸収を抑える機能性と、継続摂取により腸内環境を整える(おなかの中のビフィズス菌を増やす)機能性は機能性関与成分サラシノールによる研究レビュー<br>
-                              2019年4月 消費者庁届出情報 錠剤型サプリメントの剤形で以下の3つの機能性を届出した機能性表示食品は日本初。当社調べ。
-                              </p>
-                              <p>
-                              ※2 ①本品の継続摂取により BMI が高めの方のおなかの脂肪(体脂肪・内臓脂肪)・体重を減らすことで高めの BMI を改善する
-                                  ②機能性関与成分サラシノールが食事から摂取した糖の吸収を抑える
-                                  ③機能性関与成分サラシノールの継続摂取により腸内環境を整える(おなかの中のビフィズス菌を増やす)
-                              </p>
-                              <p>
-                              ※3 継続摂取により BMIが高めの方のおなかの脂肪(体脂肪・内臓脂肪)・体重を減らすことで高めのBMIを改善する機能は、最終製品を用いた臨床試裝
-                              </p>
-                            </div>
-                    </div> 
+        
 
     </section>
     <!--#section-02 end-->
