@@ -141,7 +141,7 @@
             </p>
         </div>
         <div class="last-item item1">
-            <p><span class="bold">テイシ防風通聖散</span> … <span class="red bold">「肥満症」</span>に効く<span class="bold red bg-y">大正製薬から新発売の漢方薬！</span></p>
+            <p><span class="bold">テイシ防風通聖散</span> … <span class="bold red">おなかに皮下脂肪が多く、便秘がちな方</span>の<span class="bold red bg-y">肥満症に効く漢方薬！</span></p>
             <p class="right">
                 <a target="_blank" href="./links/teishi.php<?php echo "?" . $query2; ?>">→ テイシ防風通聖散を<br />
                     お得に買える公式サイト
