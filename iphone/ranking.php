@@ -466,14 +466,10 @@
                     <tr>
                         <th class="r-title" colspan="2">
                             <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
-                                <img src="./img/n_img/badge_ranking_02.png" width="100" />
+                                <img src="./img/n_img/badge_ranking_02.png" width="70" />
                             </div>
 
                             <?php include "item/dark.php"; ?>
-
-
-
-
 
             <!--
             ★★★★★★★★★★★★★★★★★★★★★★★★★★
@@ -489,7 +485,40 @@
                                 <img src="./img/n_img/badge_ranking_03.png" width="70" />
                             </div>
 
+                            <?php include "item/yuukou.php"; ?>
+
+
+            <!--
+            ★★★★★★★★★★★★★★★★★★★★★★★★★★
+            #tab6 4位-->
+
+            <table class="r-table" cellspacing="0">
+
+                <tbody>
+
+                    <tr>
+                        <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                                <img src="./img/n_img/badge_ranking_04.png" width="70" />
+                            </div>
+
                             <?php include "item/oneday.php"; ?>
+
+            <!--
+            ★★★★★★★★★★★★★★★★★★★★★★★★★★
+            #tab6 5位-->
+
+            <table class="r-table" cellspacing="0">
+
+                <tbody>
+
+                    <tr>
+                        <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                                <img src="./img/n_img/badge_ranking_05.png" width="70" />
+                            </div>
+
+                            <?php include "item/easyb.php"; ?>
 
         </div>
         <!--#tab6 end-->

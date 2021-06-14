@@ -24,7 +24,7 @@
 
             <h1 class="right">とお悩みの方へ</span></h1>
 
-            <h1 class="center">本当におすすめ！<br>厳選！酵素ドリンク人気ランキングベスト３を大公開</span></h1>
+            <h1 class="center">本当におすすめ！<br>厳選！酵素ドリンク人気ランキングベスト5を大公開</span></h1>
 
         </div>
         <!--.title-wrap end-->
@@ -133,14 +133,14 @@
                     <th>
                         <p>
                             <a class="link-img" target="_blank"
-                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/1day.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
-                                <img src="./img/1day.png" alt="" />
+                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yuu.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
+                                <img src="./img/yuko.jpg" alt="" />
                             </a>
                         </p>
                         <p>
                             <span class="lbg">
                                 <a target="_blank"
-                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/1day.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">ワンデークレンズ</a>
+                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yuu.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">優光泉</a>
                             </span>
                         </p>
                     </th>
@@ -189,27 +189,6 @@
 
 
 
-                <!-- 3行目 -->
-
-                <!-- <tr>
-              <td class="table-title">
-                  <h6 class="table-title">サプリタイプ</h6>
-              </td>
-
-              <td>
-                  <img src="./img/n_img/r_check_01.png" alt="" />                        
-              </td>
-
-              <td>
-                  <img src="./img/n_img/r_check_02.png" alt="" />
-              </td>
-
-              <td>
-                  <img src="./img/n_img/r_check_02.png" alt="" />
-              </td>
-            </tr>-->
-
-
                 <!-- 4行目 -->
 
                 <tr>
@@ -223,13 +202,11 @@
                     </td>
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <!-- <p>野菜、果物、野草などを含む165種の酵素</p> -->
                         <p>チャコール、乳酸菌</p>
                     </td>
                     <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <!-- <p>九州産野菜などを含む60種の酵素</p> -->
-                        <p>40種類以上の植物発酵エキス、国内製造米、ジンジャースープ</p>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>60種類以上の国産野菜</p>
                     </td>
 
                 </tr>
@@ -276,12 +253,10 @@
 
                     <td>
                         <p>・体の内側からキレイになりたい<br>・食事サポート成分で健康になりたい<br>・乳酸菌のチカラでスッキリしたい</p>
-                        <!-- <p>・低カロリーで済ませたい<br>・美容成分も一緒に摂りたい</p> -->
                     </td>
 
                     <td>
-                        <p>・ファスティングダイエットをしたい人<br>・お手軽にファスティングを行いたい人</p>
-                        <!-- <p>・2種類の味で長続きさせたい<br>・酵素のプロが作る酵素飲料に拘りたい</p> -->
+                        <p>・ファスティングダイエットをしたい人<br>・完全無添加の酵素でファスティングをしたい人</p>
                     </td>
 
                 </tr>
@@ -303,14 +278,12 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <!-- <p>10,200円</p> -->
                         <p>5,751円</p>
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <!-- <p>7,452円</p> -->
-                        <p>6,458円</p>
+                        <p>9,180円</p>
 
 
                     </td>
@@ -334,16 +307,13 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <!-- <p>10,200円<br>（ドリンク2本、サプリ1袋）</p> -->
                         <p>初回540円</p>
 
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <!-- <p>初回6,372円<br>（ハーフボトル2本）</p> -->
-                        <p>初回2,138円</p>
-
+                        <p>初回4,590円</p>
 
                     </td>
 
@@ -375,7 +345,7 @@
 
                     <td>
                         <a target="_blank"
-                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/1day.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
+                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yuu.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>

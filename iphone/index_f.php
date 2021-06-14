@@ -1,429 +1,422 @@
 <?php include('header.php'); ?>
 
 
-  <div id="wrapper">
-   
-      <header>  
+<div id="wrapper">
+
+    <header>
         <div class="img-wrap">
-          <img src="./img/top-banner-sp-new-e.png"/>
+            <img src="./img/top-banner-sp-new-e.png" />
         </div>
-      </header>
+    </header>
 
-        <div style="padding:10px 0 0;">
-          <?php get_search_form(); ?>
+    <div style="padding:10px 0 0;">
+        <?php get_search_form(); ?>
+    </div>
+
+
+
+    <section id="section-01">
+
+        <div class="title-wrap center">
+
+            <h1 class="left"><span class="red">「酵素ドリンクを使って効率的にファスティングしたい」<br>「プチ断食でスッキリ脂肪を落としたい」</span></h1>
+
+            <h1 class="right">とお悩みの方へ</span></h1><br>
+
+            <h1 class="center">本当におすすめ！<br>厳選！酵素ドリンク人気ランキングベスト5を大公開</span></h1>
+
         </div>
+        <!--.title-wrap end-->
 
+        <div class="txt-wrap">
 
+            <p>サイトでは数多くの酵素ドリンクの成分や利用者の口コミを徹底調査！</p><br>
 
-        <section id="section-01">
+            <p><span class="bold bg-y">【失敗しない酵素ドリンクの選び方】</span>をご紹介します。
+            </p><br>
 
-            <div class="title-wrap center">
+            <p>「酵素ドリンクで置き換えダイエットしたい」とお考えの方は是非参考にしてみてください。</p><br>
 
-                <h1 class="left"><span class="red">「酵素ドリンクを使って効率的にファスティングしたい」<br>「プチ断食でスッキリ脂肪を落としたい」</span></h1>
-                
-                <h1 class="right">とお悩みの方へ</span></h1><br>
-                
-                <h1 class="center">本当におすすめ！<br>厳選！酵素ドリンク人気ランキングベスト３を大公開</span></h1>
-
-            </div><!--.title-wrap end-->
-
-            <div class="txt-wrap">
-
-                <p>サイトでは数多くの酵素ドリンクの成分や利用者の口コミを徹底調査！</p><br>
-
-                <p><span class="bold bg-y">【失敗しない酵素ドリンクの選び方】</span>をご紹介します。
-                </p><br>
-
-                <p>「酵素ドリンクで置き換えダイエットしたい」とお考えの方は是非参考にしてみてください。</p><br>
-
-                <p>早速、一部を比較表でご紹介します。</p>
-      　　　　　　　　　　　　
+            <p>早速、一部を比較表でご紹介します。</p>
             　　　　　　　　　　　　
-            </div><!--.txt-wrap end-->
-                  
-        </section><!--#section-01 end-->
+            　　　　　　　　　　　　
+        </div>
+        <!--.txt-wrap end-->
+
+    </section>
+    <!--#section-01 end-->
 
 
 
 
 
-        <section id="section-02">
-                
-                <!--比較表START-->
-          
-                    <table class="table-01" cellspacing="1">
-          
-                      <tbody>
+    <section id="section-02">
 
-                        <tr>
+        <!--比較表START-->
 
-                          <th class="crown">
+        <table class="table-01" cellspacing="1">
 
-                          </th>
+            <tbody>
 
-                          <th class="crown">
-                              <p>
-                                <img src="./img/n_img/crown_icon_01.png" width="80" alt="" />
-                              </p>
+                <tr>
 
-                          </th>
+                    <th class="crown">
 
-                          <th class="crown">
-                              <p>
-                                <img src="./img/n_img/crown_icon_02.png" width="80" alt="" />
-                              </p>
-                          </th>
+                    </th>
 
-                          <th class="crown">
-                              <p>
-                                <img src="./img/n_img/crown_icon_03.png" width="80" alt="" />
-                              </p>
-                          </th>
+                    <th class="crown">
+                        <p>
+                            <img src="./img/n_img/crown_icon_01.png" width="80" alt="" />
+                        </p>
+
+                    </th>
+
+                    <th class="crown">
+                        <p>
+                            <img src="./img/n_img/crown_icon_02.png" width="80" alt="" />
+                        </p>
+                    </th>
+
+                    <th class="crown">
+                        <p>
+                            <img src="./img/n_img/crown_icon_03.png" width="80" alt="" />
+                        </p>
+                    </th>
 
 
-                        </tr>
+                </tr>
 
-          
-                        <!-- 1行目 商品名-->
-          
-                        <tr>
-                          <th class="table-title width">
-                            <h6>商品名</h6>
-                            </p>
-                          </th>
-          
-                          <th>
-          
-                            <p>
-                              <a class="link-img" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/gold.php<?php echo "?".$query2; ?>">
+
+                <!-- 1行目 商品名-->
+
+                <tr>
+                    <th class="table-title width">
+                        <h6>商品名</h6>
+                        </p>
+                    </th>
+
+                    <th>
+
+                        <p>
+                            <a class="link-img" target="_blank"
+                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/gold.php<?php echo "?".$query2; ?>">
                                 <img src="./img/gold.jpg" alt="" />
-                              </a>
-                            </p>
-                            
-                            <p>
-                              <span class="lbg">
-                              <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/gold.php<?php echo "?".$query2; ?>">シボヘールGOLDスムージー</a>
-                              </span>
-                            </p>
-                        
-                          </th>
+                            </a>
+                        </p>
+
+                        <p>
+                            <span class="lbg">
+                                <a target="_blank"
+                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/gold.php<?php echo "?".$query2; ?>">シボヘールGOLDスムージー</a>
+                            </span>
+                        </p>
+
+                    </th>
 
 
-                          
-                          <th>
-                            
-                            <p>
-                              <a class="link-img" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/dark.php<?php echo "?".$query2; ?>">
+
+                    <th>
+
+                        <p>
+                            <a class="link-img" target="_blank"
+                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/dark.php<?php echo "?".$query2; ?>">
                                 <img src="./img/dark.png" alt="">
-                              </a>
-                            </p>
-                            <p>
-                                <span class="lbg">
-                                  <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/dark.php<?php echo "?".$query2; ?>">ダーククレンズ</a>
-                                </span>
-                            </p>
-                          </th>
-          
-          
-          
-          
-                          <th>
-                            <p>
-                              <a class="link-img" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/1day.php<?php echo "?".$query2; ?>">
-                                <img src="./img/1day.png" alt="" />
-                              </a>
-                            </p>
-                            <p>
-                              <span class="lbg">
-                                <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/1day.php<?php echo "?".$query2; ?>">ワンデークレンズ</a>
-                              </span>
-                            </p>
-                          </th>
-          
-          
-          
-          
-                          <!-- <th>
-                            
-                            <p>
-                              <a class="link-img" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yuu.php<?php echo "?".$query2; ?>">
-                                <img src="./img/yuko.jpg" alt="">
-                              </a>
-                            </p>
-                            <p>
-                                <span class="lbg">
-                                  <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yuu.php<?php echo "?".$query2; ?>">優光泉</a>
-                                </span>
-                            </p>
-                          </th> -->
-          
-                        </tr>
-          
-          
-                        <!-- 2行目 -->
-          
-                        <tr>
-                          <td class="table-title width">
-                            <h6>ユーザー評価</h6>
-                            
-                          </td>
-          
-                          <td>
-                              <p>
-                                <img src="./img/review_45.gif" alt="" />
-                              </p>
-
-                              <p class="f-13">4.4/5.0</p>
-
-                          </td>
-          
-          
-                          <td>
-                              <p>
-                                <img src="./img/review_45.gif" alt="" />
-                              </p>
-
-                              <p class="f-13">4.3/5.0</p>
-
-                          </td>
-          
-                          <td>
-                              <p>
-                                <img src="./img/review_4.gif" alt="" />
-                              </p>
-                              
-                              <p class="f-13">4.0/5.0</p>
-
-                          </td>
-          
-                        </tr>
-          
-                    
-          
-                        <!-- 4行目 -->
-          
-                        <tr>
-          
-                          <td class="table-title width">
-                              <h6>配合成分</h6>
-                          </td>
-          
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p>グルコマンナン、アフリカマンゴノキ、乳酸菌、食物繊維、アミノ酸、239種の植物発酵エキス</p>
-                          </td>
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <!-- <p>野菜、果物、野草などを含む165種の酵素</p> -->
-                              <p>チャコール、乳酸菌</p>
-                          </td>
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                              <!-- <p>九州産野菜などを含む60種の酵素</p> -->
-                              <p>40種類以上の植物発酵エキス、国内製造米、ジンジャースープ</p>
-                          </td>
-                        </tr>
-          
-          
-                        <!-- 5行目 -->
-          
-                        <tr>
-          
-                          <td class="table-title width">
-                              <h6>即効性</h6>
-                          </td>
-          
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-			                      	<p>（ファスティングと組み合わせれば）</p>
-                          </td>
-          
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-				                      <p>（ファスティングと組み合わせれば）</p>
-                          </td>
-          
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-				                      <p>（ファスティングと組み合わせれば）</p>
-                          </td>
-          
-                        </tr>
-
-                        <!-- 6行目 -->
-          
-                        <tr>
-          
-                          <td class="table-title width">
-                              <h6>こんな人に<br>おすすめ</h6>
-                          </td>
-
-                          <td>
-                              <p style="text-align: left">・空腹のストレスを抑えたい人<br>・自然と食べる量を減らしたい人</p>
-                          </td>
-
-                          <td>
-                              <p style="text-align: left">・体の内側からキレイになりたい<br>・食事サポート成分で健康になりたい<br>・乳酸菌のチカラでスッキリしたい</p>
-                             <!-- <p style="text-align: left">・低カロリーで済ませたい<br>・美容成分も一緒に摂りたい</p> -->
-                          </td>
-
-                          <td>
-                          <p style="text-align: left">・ファスティングダイエットをしたい人<br>・お手軽にファスティングを行いたい人</p>
-                          <!-- <p style="text-align: left">・2種類の味で長続きさせたい<br>・酵素のプロが作る酵素飲料に拘りたい</p> -->
-                          </td>
-
-                        </tr>
-
-
-                        <!-- 7行目 -->
-
-                        <tr>
-
-                          <td class="table-title">
-                              <h6>通常価格</h6>
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p>4,212円</p>
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                              <!-- <p>10,200円</p> -->
-                              <p>5,751円</p>
-
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                              <!-- <p>7,452円</p> -->
-                              <p>6,458円</p>
-
-
-                          </td>
-
-                        </tr>
-
-
-                        <!-- 8行目 -->
-
-                        <tr>
-
-                          <td class="table-title">
-                              <h6>特別オファー</h6>
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                              <p>初回1980円</p>
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <!-- <p>10,200円<br>（ドリンク2本、サプリ1袋）</p> -->
-                              <p>初回540円</p>
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                              <!-- <p>初回6,372円<br>（ハーフボトル2本）</p> -->
-                              <p>初回2,138円</p>
-
-
-                          </td>
-
-                        </tr>
-
-                        
-                        <!-- 9行目 -->
-
-                        <tr class="btn" style="height: 50px;">
-
-                          <td class="table-title">
-                              <h6>公式サイト</h6>
-                          </td>
-
-                          <td>
-                              <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/gold.php<?php echo "?".$query2; ?>">
-                                <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                              </a>                      
-                          </td>
-
-                          <td>
-                              <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/dark.php<?php echo "?".$query2; ?>">
-                                <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                              </a>
-                          </td>
-
-                          <td>
-                              <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/1day.php<?php echo "?".$query2; ?>">
-                                <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                              </a>
-                          </td>
-          
-                        </tr>
-          
-                      </tbody>
-          
-                    </table>
-          
-                   <!--比較表END-->
-          
-      </section><!--#section-02 end-->
-          
+                            </a>
+                        </p>
+                        <p>
+                            <span class="lbg">
+                                <a target="_blank"
+                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/dark.php<?php echo "?".$query2; ?>">ダーククレンズ</a>
+                            </span>
+                        </p>
+                    </th>
 
 
 
-      <section id="section-03">
 
-       
+                    <th>
+                        <p>
+                            <a class="link-img" target="_blank"
+                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yuu.php<?php echo "?".$query2; ?>">
+                                <img src="./img/yuko.jpg" alt="" />
+                            </a>
+                        </p>
+                        <p>
+                            <span class="lbg">
+                                <a target="_blank"
+                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yuu.php<?php echo "?".$query2; ?>">優光泉</a>
+                            </span>
+                        </p>
+                    </th>
+
+
+                </tr>
+
+
+                <!-- 2行目 -->
+
+                <tr>
+                    <td class="table-title width">
+                        <h6>ユーザー評価</h6>
+
+                    </td>
+
+                    <td>
+                        <p>
+                            <img src="./img/review_45.gif" alt="" />
+                        </p>
+
+                        <p class="f-13">4.4/5.0</p>
+
+                    </td>
+
+
+                    <td>
+                        <p>
+                            <img src="./img/review_45.gif" alt="" />
+                        </p>
+
+                        <p class="f-13">4.3/5.0</p>
+
+                    </td>
+
+                    <td>
+                        <p>
+                            <img src="./img/review_4.gif" alt="" />
+                        </p>
+
+                        <p class="f-13">4.0/5.0</p>
+
+                    </td>
+
+                </tr>
+
+
+
+                <!-- 4行目 -->
+
+                <tr>
+
+                    <td class="table-title width">
+                        <h6>配合成分</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>グルコマンナン、アフリカマンゴノキ、乳酸菌、食物繊維、アミノ酸、239種の植物発酵エキス</p>
+                    </td>
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <!-- <p>野菜、果物、野草などを含む165種の酵素</p> -->
+                        <p>チャコール、乳酸菌</p>
+                    </td>
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>60種類以上の国産野菜</p>
+                    </td>
+                </tr>
+
+
+                <!-- 5行目 -->
+
+                <tr>
+
+                    <td class="table-title width">
+                        <h6>即効性</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>（ファスティングと組み合わせれば）</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>（ファスティングと組み合わせれば）</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>（ファスティングと組み合わせれば）</p>
+                    </td>
+
+                </tr>
+
+                <!-- 6行目 -->
+
+                <tr>
+
+                    <td class="table-title width">
+                        <h6>こんな人に<br>おすすめ</h6>
+                    </td>
+
+                    <td>
+                        <p style="text-align: left">・空腹のストレスを抑えたい人<br>・自然と食べる量を減らしたい人</p>
+                    </td>
+
+                    <td>
+                        <p style="text-align: left">・体の内側からキレイになりたい<br>・食事サポート成分で健康になりたい<br>・乳酸菌のチカラでスッキリしたい</p>
+                        <!-- <p style="text-align: left">・低カロリーで済ませたい<br>・美容成分も一緒に摂りたい</p> -->
+                    </td>
+
+                    <td>
+                        <p style="text-align: left">・ファスティングダイエットをしたい人<br>・完全無添加の酵素でファスティングをしたい人</p>
+                    </td>
+
+                </tr>
+
+
+                <!-- 7行目 -->
+
+                <tr>
+
+                    <td class="table-title">
+                        <h6>通常価格</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>4,212円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <!-- <p>10,200円</p> -->
+                        <p>5,751円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>9,180円</p>
+                    </td>
+
+                </tr>
+
+
+                <!-- 8行目 -->
+
+                <tr>
+
+                    <td class="table-title">
+                        <h6>特別オファー</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>初回1980円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>初回540円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>初回4,590円</p>
+                    </td>
+
+                </tr>
+
+
+                <!-- 9行目 -->
+
+                <tr class="btn" style="height: 50px;">
+
+                    <td class="table-title">
+                        <h6>公式サイト</h6>
+                    </td>
+
+                    <td>
+                        <a target="_blank"
+                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/gold.php<?php echo "?".$query2; ?>">
+                            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+                        </a>
+                    </td>
+
+                    <td>
+                        <a target="_blank"
+                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/dark.php<?php echo "?".$query2; ?>">
+                            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+                        </a>
+                    </td>
+
+                    <td>
+                        <a target="_blank"
+                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yuu.php<?php echo "?".$query2; ?>">
+                            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+                        </a>
+                    </td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+        <!--比較表END-->
+
+    </section>
+    <!--#section-02 end-->
+
+
+
+
+    <section id="section-03">
+
+
         <h1 class="midashi">酵素ドリンク選びで<br>失敗しないための５つのポイント</h1>
 
         <?php include('point.php'); ?>
 
 
-      </section><!--#section-03 end-->
+    </section>
+    <!--#section-03 end-->
 
 
 
-      <div class="img-wrap">
-          <img id="rank_bn" src="./img/n_img/ranking-banner-sp-e.png"/>
-      </div>
+    <div class="img-wrap">
+        <img id="rank_bn" src="./img/n_img/ranking-banner-sp-e.png" />
+    </div>
 
     <!----------------------------RANKING-------------------------->
 
-        <section id="section-04">
+    <section id="section-04">
 
-               <div class="swiper-container">
-                    <ul class="swiper-wrapper tabs">
-                      <li class="tab1 swiper-slide"><a href="#tab1" onclick="rank_bn.src='./img/n_img/ranking-banner-sp.png'">ダイエットサプリ<br>総合ランキング</a></li>
-                      <li class="tab2 swiper-slide"><a href="#tab2" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-b-test.png'">体内フローラ<br>サプリ</a></li>
-                      <li class="tab3 swiper-slide"><a href="#tab3" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-c.png'">燃焼<br>サプリ</a></li>
-                      <li class="tab4 swiper-slide"><a href="#tab4" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-f.png'">糖質ケア<br>サプリ</a></li>
-                      <li class="tab5 swiper-slide"><a href="#tab5" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-d.png'">酵素<br>サプリ</a></li>
-                      <li class="tab6 swiper-slide active"><a href="#tab6" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-e.png'">酵素<br>ドリンク</a></li>
-                      <li class="tab7 swiper-slide"><a href="#tab7" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-g.png'">ダイエット<br>スムージー</a></li>
-                      <li class="tab8 swiper-slide"><a href="#tab8" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-h-new.jpg'">防風通聖散</a></li>
-                      <li class="swiper-slide"></li>
-                    </ul>
-              </div>
-              <div class="swiper-pagination"></div>
+        <div class="swiper-container">
+            <ul class="swiper-wrapper tabs">
+                <li class="tab1 swiper-slide"><a href="#tab1"
+                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp.png'">ダイエットサプリ<br>総合ランキング</a></li>
+                <li class="tab2 swiper-slide"><a href="#tab2"
+                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-b-test.png'">体内フローラ<br>サプリ</a></li>
+                <li class="tab3 swiper-slide"><a href="#tab3"
+                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-c.png'">燃焼<br>サプリ</a></li>
+                <li class="tab4 swiper-slide"><a href="#tab4"
+                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-f.png'">糖質ケア<br>サプリ</a></li>
+                <li class="tab5 swiper-slide"><a href="#tab5"
+                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-d.png'">酵素<br>サプリ</a></li>
+                <li class="tab6 swiper-slide active"><a href="#tab6"
+                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-e.png'">酵素<br>ドリンク</a></li>
+                <li class="tab7 swiper-slide"><a href="#tab7"
+                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-g.png'">ダイエット<br>スムージー</a></li>
+                <li class="tab8 swiper-slide"><a href="#tab8"
+                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-h-new.jpg'">防風通聖散</a></li>
+                <li class="swiper-slide"></li>
+            </ul>
+        </div>
+        <div class="swiper-pagination"></div>
 
-              <?php include('ranking.php');?>
+        <?php include('ranking.php');?>
 
 
-        </section><!--#section-04 end-->
-        
+    </section>
+    <!--#section-04 end-->
+
     <!----------------------------RANKING-------------------------->
 
 
 
-        <!-- <section id="section-05">
+    <!-- <section id="section-05">
 
                   
                     <img src="./img/n_img/last_banner.png" alt="" width="100%">
@@ -469,79 +462,77 @@
 
 
 
-      <script>
-              $(function () {
+    <script>
+    $(function() {
 
-              $(".tab_content").hide();
-              $(".tab_content:nth-of-type(5)").show();
+        $(".tab_content").hide();
+        $(".tab_content:nth-of-type(5)").show();
 
-              $("ul.tabs li").click(function () {
-                  $("ul.tabs li").removeClass("active").css("color", "#333");
-                  //$(this).addClass("active").css({"color": "darkred","font-weight": "bold"});
-                  $(this).addClass("active").css("color", "white");
-                  $(".tab_content").hide()
-                  var activeTab = $(this).attr("rel");
-                  $("#" + activeTab).fadeIn()
-              });
-              });
-          </script>
-          <!-- Swiper JS -->
-          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
-
-              <!-- Initialize Swiper -->
-          <script>
-
-          var swiper_1 = new Swiper('.swiper-container', {
-              initialSlide: 4,
-              pagination: '.swiper-pagination',
-              slidesPerView: 3,
-              paginationClickable: true,
-              spaceBetween: 0,
-              freeMode: true,
-              pagination : { // 페이징 설정
-                el : '.swiper-pagination',
-                clickable : true, // 페이징을 클릭하면 해당 영역으로 이동, 필요시 지정해 줘야 기능 작동
-              },
-          });
-          $('.tabs > li > a').on('click', function(e){
-            $(this).parent().addClass('active').siblings().removeClass('active');
-            var tabIdx = $(this).parent().index();
-            swiper_2.slideTo(tabIdx+1, 300);
-            e.preventDefault();
-          });
-
-          var tabLen = $('.tabs > li').length;
-
-          /* 2016-05-13 수정 */
-          var swiper_2 = new Swiper('.swiper-container-2', {
-            initialSlide: 5,
-            autoHeight: true,
-            slidesPerView: 1,
-            spaceBetween: 0,
-            pagination: true,
-            loop: true,
-            noSwiping: true,
-            noSwipingClass: '.swiper-wrapper',
-            onInit: function(swiper){
-			
-		      },
-          onSlideChangeStart: function(swiper){
-          	var idx = swiper.activeIndex-1;
-          	if( idx < 0 ) { 
-          		idx = tabLen - 1;
-          	} else if( idx == tabLen ){
-          		idx = 0;
-          	}
-          	$('.tabs > li').removeClass('active').eq(idx).addClass('active');
-          	if( idx < tabLen ) {
-          		swiper_1.slideTo(idx-1, 300);
-          	}
-          }
-          });
-        /* //2016-05-13 수정 */
-
+        $("ul.tabs li").click(function() {
+            $("ul.tabs li").removeClass("active").css("color", "#333");
+            //$(this).addClass("active").css({"color": "darkred","font-weight": "bold"});
+            $(this).addClass("active").css("color", "white");
+            $(".tab_content").hide()
+            var activeTab = $(this).attr("rel");
+            $("#" + activeTab).fadeIn()
+        });
+    });
     </script>
-     
+    <!-- Swiper JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
 
-      <?php include('footer.php'); ?>
+    <!-- Initialize Swiper -->
+    <script>
+    var swiper_1 = new Swiper('.swiper-container', {
+        initialSlide: 4,
+        pagination: '.swiper-pagination',
+        slidesPerView: 3,
+        paginationClickable: true,
+        spaceBetween: 0,
+        freeMode: true,
+        pagination: { // 페이징 설정
+            el: '.swiper-pagination',
+            clickable: true, // 페이징을 클릭하면 해당 영역으로 이동, 필요시 지정해 줘야 기능 작동
+        },
+    });
+    $('.tabs > li > a').on('click', function(e) {
+        $(this).parent().addClass('active').siblings().removeClass('active');
+        var tabIdx = $(this).parent().index();
+        swiper_2.slideTo(tabIdx + 1, 300);
+        e.preventDefault();
+    });
+
+    var tabLen = $('.tabs > li').length;
+
+    /* 2016-05-13 수정 */
+    var swiper_2 = new Swiper('.swiper-container-2', {
+        initialSlide: 5,
+        autoHeight: true,
+        slidesPerView: 1,
+        spaceBetween: 0,
+        pagination: true,
+        loop: true,
+        noSwiping: true,
+        noSwipingClass: '.swiper-wrapper',
+        onInit: function(swiper) {
+
+        },
+        onSlideChangeStart: function(swiper) {
+            var idx = swiper.activeIndex - 1;
+            if (idx < 0) {
+                idx = tabLen - 1;
+            } else if (idx == tabLen) {
+                idx = 0;
+            }
+            $('.tabs > li').removeClass('active').eq(idx).addClass('active');
+            if (idx < tabLen) {
+                swiper_1.slideTo(idx - 1, 300);
+            }
+        }
+    });
+    /* //2016-05-13 수정 */
+    </script>
+
+
+    <?php include('footer.php'); ?>

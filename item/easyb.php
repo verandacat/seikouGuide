@@ -77,8 +77,11 @@
             <td>初回 2,106円（税込）定期 5,616円（税込）</td>
             <td>180g（30日分）</td>
             <td>
+                <?php if($_GET['pat'] == 'f') : ?>
+                <img alt="" src="./img/review_35.gif" />
+                <?php else : ?>
                 <img alt="" src="./img/review_4.gif" />
-
+                <?php endif; ?>
             </td>
         </tr>
         <tr>
