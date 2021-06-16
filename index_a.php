@@ -420,6 +420,9 @@
 
     <!----------------------------RANKING-------------------------->
 
+    <section id="section-045">
+        <?php include 'pickup.php'; ?>
+    </section>
 
 
 
