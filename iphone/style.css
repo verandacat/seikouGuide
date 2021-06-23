@@ -1,4 +1,4 @@
-body {
+body {#sect
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -264,6 +264,10 @@ th .link-img img {
 
 #section-04 .r-txtbox p {
     margin-bottom: 15px;
+}
+
+#section-04 .r-img a img {
+    max-width: 240px;
 }
 
 .r-txtbox img {

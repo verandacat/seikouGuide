@@ -10,7 +10,7 @@
     <td class="r-img">
 
         <a target="_blank" href="./links/yuu.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
-            <img src="./img/yuko.jpg" alt="" />
+            <img src="./img/n-yukou.jpg" alt="" />
         </a>
 
     </td>

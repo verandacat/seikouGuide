@@ -138,7 +138,7 @@
                         <p>
                             <a class="link-img" target="_blank"
                                 href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yuu.php<?php echo "?".$query2; ?>">
-                                <img src="./img/yuko.jpg" alt="" />
+                                <img src="./img/n-yukou-s.jpg" alt="" />
                             </a>
                         </p>
                         <p>
