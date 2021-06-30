@@ -26,7 +26,7 @@
             <li>食後の血糖値が気になる方におすすめ！</li>
             <li>サラシア由来サラシノール配合の機能性表示食品！</li>
             <li>糖の吸収を抑えてくれる！</li>
-            <li>定期購入は初回限定75%OFF！</li>
+            <li>定期購入は初回限定77%OFF！</li>
         </ul>
 
     </td>
@@ -42,7 +42,7 @@
     <br><br>
     <span class="bold red">糖の吸収を抑え、食後の血糖値上昇をゆるやかにする</span>機能があることが報告されているサラシア由来サラシノールが配合されています。
     <br><br>
-    今なら<span class="bold red">定期購入初回限定75%OFF送料無料、2回目以降も毎回10%OFF</span>と続けやすくなっていますので、食後の血糖値が気になる方は<span
+    今なら<span class="bold red">定期購入初回限定77%OFF送料無料、2回目以降も毎回10%OFF</span>と続けやすくなっていますので、食後の血糖値が気になる方は<span
         class="bold red">「食事の前に1粒」の手軽な血糖値対策</span>をぜひ普段の食生活に取り入れましょう。
         
     <a target="_blank" href="./links/tablet-s.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">

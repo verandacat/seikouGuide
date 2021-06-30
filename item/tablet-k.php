@@ -26,7 +26,7 @@
             <li>高めの空腹時血糖値を下げるナリンジン含有！</li>
             <li>日本唯一のナリンジン含有の機能性表示食品！</li>
             <li>大正製薬の血糖値対策サプリ！</li>
-            <li>定期お届けコースは初回限定78%OFF！</li>
+            <li>定期お届けコースは初回限定79%OFF！</li>
         </ul>
 
     </td>
@@ -42,7 +42,7 @@
     <span class="bold red">日本唯一！</span>機能性関与成分ナリンジンを含有した機能性表示食品です。<br><br>
     ナリンジンには<span class="bold red">高めの空腹時血糖値を下げる</span>機能が報告されており、空腹時の血糖値が気になる方におすすめの粒タイプのタブレットです。<br><br>
     <span class="bold red">健康診断で測定するのは空腹時血糖値</span>なので、食後血糖値だけではなく、空腹時血糖値の値を気にすることも大切です。<br><br>
-    定期購入は<span class="bold red">初回限定78%OFF</span>とお手頃価格なので、大正製薬が提案する空腹時の血糖値対策をお試しください！
+    定期購入は<span class="bold red">初回限定79%OFF</span>とお手頃価格なので、大正製薬が提案する空腹時の血糖値対策をお試しください！
 
     <a target="_blank" href="./links/tablet-k.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
         <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
