@@ -242,7 +242,7 @@
                     </td>
 
                     <td>
-                        <p style="text-align:left">・脂肪を燃焼させたい<br>・多少高くても安心の医薬品でしっかり痩せたい</p>
+                        <p style="text-align:left">・脂肪を燃焼させたい<br>・むくみ、便秘も気になる</p>
                     </td>
 
 
