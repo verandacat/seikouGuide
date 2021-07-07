@@ -20,24 +20,24 @@
 
         <div class="title-wrap">
 
-            <h1 class="left">「もっとスリムになりたい！」<br>「燃焼サプリで効率的にスッキリしたい！」</span></h1>
+            <h1 class="left">「お腹の脂肪が気になる！」<br>「年々お腹の脂肪が落ちづらくなっている･･･」</span></h1>
 
             <h1 class="right">とお悩みの方へ</span></h1>
 
-            <h1 class="center">本当におすすめ！<br>厳選ダイエッターサポートサプリランキング<br>ベスト5を大公開！</span></h1>
+            <h1 class="center">本当におすすめ！<br>厳選ダイエタリーライフサポートサプリランキング<br>ベスト３を大公開！</span></h1>
 
         </div>
         <!--.title-wrap end-->
 
         <div class="txt-wrap">
 
-            <p>当サイトでは数多くのダイエッターサポートサプリの成分や利用者の口コミを徹底調査！</p><br>
+            <p>当サイトでは数多くのダイエタリーライフサポートサプリの成分や利用者の口コミを徹底調査！</p><br>
 
-            <p><span class="bold bg-y">【失敗しないダイエッターサポートサプリの正しい選び方】</span>と<br><span
-                    class="bold bg-y">【厳選！おすすめのダイエッターサポートサプリ】</span>をご紹介します。
+            <p><span class="bold bg-y">【失敗しないサプリの正しい選び方】</span>と<br><span
+                    class="bold bg-y">【厳選！おすすめのダイエタリーライフサポートサプリ】</span>をご紹介します。
             </p><br>
 
-            <p>「本気でダイエッターサポートサプリを挑戦したい」とお考えの方は是非参考にしてみてください。</p><br>
+            <p>「本気でダイエタリーライフサポートサプリを挑戦したい」とお考えの方は是非参考にしてみてください。</p><br>
 
             <p>早速、一部を比較表でご紹介します。</p>
             　　　　　　　　　　　　
@@ -132,14 +132,14 @@
                     <th>
                         <p>
                             <a class="link-img" target="_blank"
-                                href="./links/eg.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                                <img src="./img/eg.jpg" alt="" />
+                                href="./links/slilin.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+                                <img src="./img/slilin.jpg" alt="" />
                             </a>
                         </p>
                         <p>
                             <span class="lbg">
                                 <a target="_blank"
-                                    href="./links/eg.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">EGタイトLight</a>
+                                    href="./links/slilin.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">スリリンW</a>
                             </span>
                         </p>
                     </th>
@@ -176,12 +176,8 @@
                         </p>
                         <p class="f-15">4.4/5.0</p>
                     </td>
-
-
-
                 </tr>
 
-                <!-- 4行目 -->
 
                 <tr>
 
@@ -191,78 +187,28 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>葛の花由来イソフラボン</p>
+                        <p>葛の花由来イソフラボン配合
+                        </p>
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>エラグ酸</p>
+                        <p>
+                        エラグ酸
+                        </p>
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>ボウフウを含む18種の生薬</p>
+                        <p>
+                        ターミナリアベリリカ由来没食子酸
+                        </p>
                     </td>
-
-
-
-
 
                 </tr>
 
 
 
-                <!-- 5行目 -->
-
-                <tr>
-
-                    <td class="table-title width">
-                        <h6>即効性</h6>
-                    </td>
-
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                    </td>
-
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                    </td>
-
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                    </td>
-
-
-                </tr>
-
-
-
-                <!-- 6行目 -->
-
-                <tr>
-
-                    <td class="table-title width">
-                        <h6>こんな人に<br>おすすめ</h6>
-                    </td>
-
-                    <td>
-                        <p>・脂肪を燃焼させたい<br>・ダイエッターサポートサプリを手軽に試したい<br>・安心の機能性表示食品を試したい</p>
-                    </td>
-
-                    <td>
-                        <p>・体脂肪、血中中性脂肪を減らしたい人<br>・まだワイルドマンゴーを試したことがない<br>・機能性表示食品を試したい</p>
-                    </td>
-
-                    <td>
-                        <p>・脂肪を燃焼させたい<br>・むくみ、便秘も気になる</p>
-                    </td>
-
-
-                </tr>
-
-
-
-                <!-- 7行目 -->
 
                 <tr>
 
@@ -272,28 +218,22 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>2,918円</p>
+                        <p>2,918円（定期）</p>
 
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>3,808円</p>
+                        <p>3,808円（定期）</p>
                     </td>
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>6,971円(税込)</p>
+                        <p>7,980円（定期）</p>
 
                     </td>
-
-
-
-
                 </tr>
 
-
-                <!-- 8行目 -->
 
                 <tr>
 
@@ -313,14 +253,51 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回1,078円</p>
+                        <p>初回500円</p>
                     </td>
-
 
                 </tr>
 
 
-                <!-- 9行目 -->
+                <tr>
+                    <td class="table-title">
+                        <h6>返金保証</h6>
+                    </td>
+
+                    <td>
+                        <p><span class="red">初回全額返金保証</span></p>
+                    </td>
+
+                    <td>
+                        <p>30日間返金保証付き</p>
+                    </td>
+
+                    <td>
+                        <p>120日間全額返金保証</p>
+                    </td>
+                </tr>
+
+
+                <tr>
+
+                    <td class="table-title ">
+                        <h6>こんな人に<br>おすすめ</h6>
+                    </td>
+
+                    <td>
+                        <p>・お腹の脂肪が気になる<br>・ダイエタリーライフサポートサプリを手軽に試したい<br>・安心の機能性表示食品を試したい</p>
+                    </td>
+
+                    <td>
+                        <p>・体脂肪、血中中性脂肪を減らしたい人<br>・まだワイルドマンゴーを試したことがない<br>・機能性表示食品を試したい</p>
+                    </td>
+
+                    <td>
+                        <p>・乳酸菌１億個・活性炭<br>・手ごろな価格で体内フローラサプリを試したい<br>・食べる前に２粒ダケ！脂肪や糖の吸収も抑えたい</p>
+                    </td>
+
+                </tr>
+
 
                 <tr class="btn" style="height: 50px;">
 
@@ -349,8 +326,6 @@
                         </a>
                     </td>
 
-
-
                 </tr>
 
             </tbody>
@@ -368,7 +343,7 @@
     <section id="section-03">
 
 
-        <h1 class="midashi">ダイエッターサポートサプリ選びで失敗しないための５つのポイント</h1>
+        <h1 class="midashi">ダイエタリーライフサポートサプリ選びで失敗しないための５つのポイント</h1>
 
         <?php include('point.php');  ?>
 
@@ -378,7 +353,7 @@
 
 
     <div class="img-wrap">
-        <img id="rank_bn" src="./img/n_img/ranking-banner-pc-c.png" />
+        <img id="rank_bn" src="./img/ranking/ranking-banner-pc-c.png" />
     </div>
 
 
@@ -389,14 +364,14 @@
     <section id="section-04">
 
         <ul class="tabs">
-            <li rel="tab1" onclick="rank_bn.src='./img/n_img/ranking-banner-pc.png'">総合<br>人気ランキング</li>
-            <li rel="tab2" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-b-test.png'">体内フローラ<br>サプリ</li>
-            <li class="active" rel="tab3" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-c.png'">燃焼<br>サプリ</li>
-            <li rel="tab4" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-f.png'">糖質ケア<br>サプリ</li>
-            <li rel="tab5" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-d.png'">酵素<br>サプリ</li>
-            <li rel="tab6" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-e.png'">酵素<br>ドリンク</li>
-            <li rel="tab7" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-g.png'">ダイエット<br>スムージー</li>
-            <li rel="tab8" onclick="rank_bn.src='./img/n_img/ranking-banner-pc-h-new.jpg'">防風通聖散</li>
+            <li rel="tab1" onclick="rank_bn.src='./img/ranking/ranking-banner-pc.png'">総合<br>人気ランキング</li>
+            <li rel="tab2" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-b.png'">体内フローラ<br>サプリ</li>
+            <li class="active" rel="tab3" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-c.png'">燃焼<br>サプリ</li>
+            <li rel="tab4" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-f.png'">糖質ケア<br>サプリ</li>
+            <li rel="tab5" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-d.png'">酵素<br>サプリ</li>
+            <li rel="tab6" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-e.png'">酵素<br>ドリンク</li>
+            <li rel="tab7" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-g.png'">ダイエット<br>スムージー</li>
+            <li rel="tab8" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-h.png'">防風通聖散</li>
 
         </ul>
 
@@ -409,10 +384,10 @@
     <!--#section-04 end-->
 
     <!----------------------------RANKING-------------------------->
-
-    <section id="section-045">
-        <?php include 'pickup.php'; ?>
-    </section>
+ 
+    <!--<section id="section-045">
+        <?php //include 'pickup.php'; ?>
+    </section> -->
 
 
 
@@ -428,7 +403,7 @@
             <div class="last-txt bg-wh border-r">
 
 
-                <p>当サイトでご紹介しているダイエッターサポートサプリは、効果はもちろんですが、
+                <p>当サイトでご紹介しているダイエタリーライフサポートサプリは、効果はもちろんですが、
 
                     <span class="bold">できるかぎり多くの「スリムになりたい」とお悩みの方に試していただきたい</span>という気持ちから、
 

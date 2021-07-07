@@ -48,7 +48,7 @@
 
 
     <div class="img-wrap">
-        <img id="rank_bn" src="./img/n_img/ranking-banner-sp-h-new.jpg" />
+        <img id="rank_bn" src="./img/ranking/ranking-banner-sp-h.png" />
 
     </div>
 
@@ -59,21 +59,21 @@
         <div class="swiper-container">
             <ul class="swiper-wrapper tabs">
                 <li class="tab1 swiper-slide"><a href="#tab1"
-                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp.png'">ダイエットサプリ<br>総合ランキング</a></li>
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp.png'">総合<br>人気ランキング</li>
                 <li class="tab2 swiper-slide"><a href="#tab2"
-                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-b-test.png'">体内フローラ<br>サプリ</a></li>
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-b.png'">体内フローラ<br>サプリ</a></li>
                 <li class="tab3 swiper-slide"><a href="#tab3"
-                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-c.png'">燃焼<br>サプリ</a></li>
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-c.png'">燃焼<br>サプリ</a></li>
                 <li class="tab4 swiper-slide"><a href="#tab4"
-                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-f.png'">糖質ケア<br>サプリ</a></li>
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-d.png'">糖質ケア<br>サプリ</a></li>
                 <li class="tab5 swiper-slide"><a href="#tab5"
-                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-d.png'">酵素<br>サプリ</a></li>
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-e.png'">酵素<br>サプリ</a></li>
                 <li class="tab6 swiper-slide"><a href="#tab6"
-                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-e.png'">酵素<br>ドリンク</a></li>
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-f.png'">酵素<br>ドリンク</a></li>
                 <li class="tab7 swiper-slide"><a href="#tab7"
-                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-g.png'">ダイエット<br>スムージー</a></li>
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-g.png'">ダイエット<br>スムージー</a></li>
                 <li class="tab8 swiper-slide active"><a href="#tab8"
-                        onclick="rank_bn.src='./img/n_img/ranking-banner-sp-h-new.jpg'">防風通聖散</a></li>
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-h.png'">防風通聖散</a></li>
                 <li class="swiper-slide"></li>
             </ul>
         </div>
