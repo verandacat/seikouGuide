@@ -16,12 +16,6 @@ if ($_GET['pat'] == "a") {
     include_once('./index_g.php');
 } elseif ($_GET['pat'] == "h") {
     include_once('./index_h.php');
-} elseif ($_GET['pat'] == "i") {
-    include_once('./index_i.php');
-} elseif ($_GET['pat'] == "j") {
-    include_once('./index_j.php');
-} elseif ($_GET['pat'] == "g") {
-    include_once('./index_g.php');
 } else {
     include_once('./index_a.php');
 }

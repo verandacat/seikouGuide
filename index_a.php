@@ -6,7 +6,7 @@
 
     <header>
         <div class="img-wrap">
-            <img src="./img/top-banner-pc-new-orange.png?ver=<?php echo time(); ?>" />
+            <img src="./img/fv/seikou_topBn_pc-a.png?ver=<?php echo time(); ?>" />
         </div>
     </header>
 

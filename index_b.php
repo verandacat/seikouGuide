@@ -8,7 +8,7 @@
 
     <header>
         <div class="img-wrap">
-            <img src="./img/top-banner-pc-new-b.png" />
+            <img src="./img/fv/seikou_topBn_pc-b.png" />
         </div>
     </header>
 

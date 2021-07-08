@@ -122,7 +122,7 @@ span.underline {
 
     <header>
         <div class="img-wrap">
-            <img src="./img/top-banner-sp-new-l.png" />
+            <img src="./img/fv/seikou_topBn_sp-l.png" />
         </div>
     </header>
 

@@ -4,7 +4,7 @@
 
     <header>
         <div class="img-wrap">
-            <img src="./img/top-banner-sp-new-orange.png" width="100%" />
+            <img src="./img/fv/seikou_topBn_sp-a.png" width="100%" />
         </div>
     </header>
 
@@ -545,4 +545,4 @@
 
 
 
-    <?php include('footer-test.php'); ?>
+    <?php include('footer.php'); ?>

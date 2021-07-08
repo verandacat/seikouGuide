@@ -4,7 +4,7 @@
 
   <header>
     <div class="img-wrap">
-      <img src="./img/top-banner-pc-new-d.png" />
+      <img src="./img/fv/seikou_topBn_pc-e.png" />
     </div>
   </header>
 

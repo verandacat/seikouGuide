@@ -146,7 +146,7 @@
     });
     
     </script>
-    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d") : ?>
+    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d" || $_SERVER['REQUEST_URI']=="/" ) : ?>
 
     <script>
     $(function() {
@@ -160,11 +160,7 @@
 
     
 <script src="countdown.js?<?php echo time(); ?>"></script>
-<<<<<<< HEAD
 <?php if($_GET['pat'] == "a"|| $_SERVER['REQUEST_URI']=="/" || $_GET['pat'] == "c") : ?>
-=======
-<?php if($_GET['pat'] == "a"|| $_GET['pat'] == "" || $_GET['pat'] == "c") : ?>
->>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
     <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-iagzybmk.js"></script>
 <?php elseif($_GET['pat'] == "d") : ?>
     <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-mwwsbpqr.js"></script>
