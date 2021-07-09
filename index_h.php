@@ -104,7 +104,7 @@
     #special .last-item a:hover {
         text-decoration: none;
     }
-    #section-04 table.r-table th.r-title {
+    #section-04 #tab8 table.r-table th.r-title {
         padding-left: 37px;
     }
     </style>
