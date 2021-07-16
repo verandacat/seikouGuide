@@ -199,6 +199,28 @@
                 </tr>
 
 
+                
+                <tr>
+                    <td class="table-title">
+                        <h6>サプリタイプ</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>機能性表示食品</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>機能性表示食品</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>機能性表示食品</p>
+                    </td>
+                </tr>
+
 
                 
 
