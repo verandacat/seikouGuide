@@ -146,7 +146,7 @@
     });
     
     </script>
-    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d" || $_SERVER['REQUEST_URI']=="/" ) : ?>
+    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_SERVER['REQUEST_URI']=="/" ) : ?>
 
     <script>
     $(function() {

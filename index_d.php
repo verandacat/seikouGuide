@@ -23,7 +23,7 @@
 
             <h1 class="right">とお悩みの方へ</span></h1>
 
-            <h1 class="center">本当におすすめ！<br>厳選糖質ケアサプリランキングベスト５を大公開！</span></h1>
+            <h1 class="center">本当におすすめ！<br>厳選糖質ケアサプリランキングベスト４を大公開！</span></h1>
 
         </div>
         <!--.title-wrap end-->
@@ -96,14 +96,14 @@
                     <th style="vertical-align: top">
                         <p>
                             <a class="link-img" target="_blank"
-                                href="./links/meta.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
-                                <img src="./img/metax.jpg" alt="" />
+                                href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
+                                <img src="./img/tablet-k.jpg" alt="" width="150" />
                             </a>
                         </p>
                         <p>
                             <span class="lbg">
                                 <a target="_blank"
-                                    href="./links/meta.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">メタバリアEX</a>
+                                    href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">空腹時血糖値が気になる方のタブレット</a>
                             </span>
                         </p>
                     </th>
@@ -127,21 +127,17 @@
                     <th style="vertical-align: top">
                         <p>
                             <a class="link-img" target="_blank"
-                                href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
-                                <img src="./img/tablet-k.jpg" alt="" />
+                                href="./links/slilin.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
+                                <img src="./img/slilin.jpg" alt="" />
                             </a>
                         </p>
                         <p>
                             <span class="lbg">
                                 <a target="_blank"
-                                    href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">空腹時血糖値が気になる方のタブレット</a>
+                                    href="./links/slilin.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">スリリンW</a>
                             </span>
                         </p>
                     </th>
-
-                    
-
-
                 </tr>
 
 
@@ -196,20 +192,20 @@
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>サラシノール</p>
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>
-                            サラシノール
-                        </p>
-                    </td>
-                    <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                         <p>ナリンジン</p>
                     </td>
-                   
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>サラシノール</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>ターミナリアベリリカ由来没食子酸</p>
+                    </td>
+
                 </tr>
 
 
@@ -234,9 +230,7 @@
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                     </td>
-                    <!-- <td>
-                  <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-              </td> -->
+
 
                 </tr>
 
@@ -251,19 +245,17 @@
                     </td>
 
                     <td>
+                        <p class="left ml-5">・健康診断で血糖値が高めの人<br>・今の血糖値対策に満足していない人</p>
+                    </td>
+
+                    <td>
                         <p class="left ml-5">
                             ・サラシノールが糖の吸収を抑える<br>・サラシノールの継続摂取により腸内環境を整える<sup>（※1）</sup><br>・継続摂取により高めのBMIを改善する<sup>（※2）</sup>
                         </p>
                     </td>
 
                     <td>
-                        <p class="left ml-5">
-                        ・食後の血糖値が気になる人<br>・糖の吸収を抑えたい人
-                        </p>
-                    </td>
-
-                    <td>
-                        <p class="left ml-5">・健康診断で血糖値が高めの人<br>・今の血糖値対策に満足していない人</p>
+                        <p　class="left ml-5">・乳酸菌１億個・活性炭<br>・手ごろな価格で体内フローラサプリを試したい<br>・食べる前に２粒ダケ！脂肪や糖の吸収も抑えたい</p>
                     </td>
 
                 </tr>
@@ -280,8 +272,7 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>30日分 4,441円（税込）</p>
-
+                        <p>4,374円（税込）</p>
                     </td>
 
                     <td>
@@ -290,8 +281,8 @@
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>4,374円（税込）</p>
+                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+                        <p>7,980円（定期）</p>
                     </td>
 
                 </tr>
@@ -305,22 +296,19 @@
                         <h6>特別オファー</h6>
                     </td>
 
-                    <td>
-
+                    <td style="width:27%">
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>14日分(初回限定・お一人様1回1個限り) 540円（税込）</p>
-
+                        <p>初回980円（税込）</p>
                     </td>
 
                     <td style="width:27%">
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>初回980円（税込）</p>
-
                     </td>
 
                     <td style="width:27%">
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>初回980円（税込）</p>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>初回500円（税込）</p>
                     </td>
 
                 </tr>
@@ -335,27 +323,23 @@
                     </td>
 
                     <td>
-                        <a target="_blank"
-                            href="./links/meta.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
+                        <a target="_blank" href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
 
                     <td>
-                        <a target="_blank"
-                            href="./links/tablet-s.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
+                        <a target="_blank" href="./links/tablet-s.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
 
 
                     <td>
-                        <a target="_blank"
-                            href="./links/tablet-k.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
+                        <a target="_blank" href="./links/slilin.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
-
 
                 </tr>
 
@@ -364,19 +348,6 @@
         </table>
 
         <!--比較表END-->
-
-        <div class="meta-notes">
-
-            <p>
-                ※1 糖の吸収を抑える機能性と、継続摂取により腸内環境を整える(おなかの中のビフィズス菌を増やす)機能性は機能性関与成分サラシノールによる研究レビュー<br>
-            </p>
-            <p>
-                ※2 継続摂取によりBMIが高めの方のおなかの脂肪（体脂肪・内臓脂肪）・体重を減らすことで高めのBMIを改善する機能は、最終製品を用いた臨床試験
-            </p>
-
-
-        </div>
-
 
     </section>
     <!--#section-02 end-->

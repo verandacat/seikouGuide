@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<div id="wrapper">
+<div id="wrapper" style="margin-top: 60px;">
 
     <header>
         <div class="img-wrap">
@@ -23,7 +23,7 @@
 
             <h1 class="right">とお悩みの方へ</span></h1><br>
 
-            <h1>本当におすすめ！<br>厳選糖質ケアサプリキング<br>ベスト５を大公開！</span></h1>
+            <h1>本当におすすめ！<br>厳選糖質ケアサプリキング<br>ベスト４を大公開！</span></h1>
 
         </div>
         <!--.title-wrap end-->
@@ -96,23 +96,19 @@
                         <h6>商品名</h6>
                         </p>
                     </th>
-
                     <th>
-
                         <p>
-                            <a class="link-img" target="_blank" href="./links/meta.php<?php echo "?".$query2; ?>">
-                                <img src="./img/metax.jpg" alt="" />
+                            <a class="link-img" target="_blank" href="./links/tablet-k.php<?php echo "?".$query2; ?>">
+                                <img src="./img/tablet-k.jpg" alt="" />
                             </a>
                         </p>
-
                         <p>
                             <span class="lbg">
-                                <a target="_blank" href="./links/meta.php<?php echo "?".$query2; ?>">メタバリアEX</a>
+                                <a target="_blank"
+                                    href="./links/tablet-k.php<?php echo "?".$query2; ?>">空腹時血糖値が気になる方のタブレット</a>
                             </span>
                         </p>
-
                     </th>
-
 
 
                     <th>
@@ -131,22 +127,18 @@
 
                     <th>
                         <p>
-                            <a class="link-img" target="_blank" href="./links/tablet-k.php<?php echo "?".$query2; ?>">
-                                <img src="./img/tablet-k.jpg" alt="" />
+                            <a class="link-img" target="_blank" href="./links/slilin.php<?php echo "?".$query2; ?>">
+                                <img src="./img/slilin.jpg" alt="" />
                             </a>
                         </p>
                         <p>
                             <span class="lbg">
-                                <a target="_blank"
-                                    href="./links/tablet-k.php<?php echo "?".$query2; ?>">空腹時血糖値が気になる方のタブレット</a>
+                                <a target="_blank" href="./links/slilin.php<?php echo "?".$query2; ?>">スリリンW</a>
                             </span>
                         </p>
                     </th>
 
                 </tr>
-
-
-
 
 
 
@@ -199,19 +191,20 @@
                     </td>
 
                     <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>ナリンジン</p>
+                    </td>
+
+                    <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>サラシノール</p>
                     </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>ナリンジン</p>
-                    </td>
+
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>
-                            サラシノール
-                        </p>
+                        <p>ターミナリアベリリカ由来没食子酸</p>
                     </td>
+
                 </tr>
 
 
@@ -235,10 +228,6 @@
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                     </td>
-                    <!-- <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                          </td> -->
-
 
                 </tr>
 
@@ -252,7 +241,7 @@
 
                     <td>
                         <p style="text-align: left">
-                            ・サラシノールが糖の吸収を抑える<br>・サラシノールの継続摂取により腸内環境を整える<sup>（※1）</sup><br>・継続摂取により高めのBMIを改善する<sup>（※2）</sup>
+                            健康診断で血糖値が高めの人<br>・今の血糖値対策に満足していない人
                         </p>
                     </td>
 
@@ -264,8 +253,11 @@
                     </td>
 
                     <td>
-                        <p style="text-align: left">・健康診断で血糖値が高めの人<br>・今の血糖値対策に満足していない人</p>
+                        <p style="text-align: left">
+                            乳酸菌１億個・活性炭<br>・手ごろな価格で体内フローラサプリを試したい<br>・食べる前に２粒ダケ！脂肪や糖の吸収も抑えたい
+                        </p>
                     </td>
+
 
                 </tr>
 
@@ -280,8 +272,7 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>30日分 4,441円（税込）</p>
-
+                        <p>4,374円（税込）</p>
                     </td>
 
                     <td>
@@ -290,8 +281,8 @@
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>4,374円（税込</p>
+                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+                        <p>7,980円（定期）</p>
                     </td>
 
                 </tr>
@@ -307,20 +298,18 @@
 
                     <td style="width:27%">
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>14日分(初回限定・お一人様1回1個限り) 540円（税込）</p>
-
-
+                        <p>初回980円（税込）</p>
                     </td>
 
                     <td style="width:27%">
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>初回980円（税込）</p>
 
                     </td>
 
                     <td style="width:27%">
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回980円（税込）</p>
+                        <p>初回500円（税込）</p>
                     </td>
 
                 </tr>
@@ -335,7 +324,7 @@
                     </td>
 
                     <td>
-                        <a target="_blank" href="./links/meta.php<?php echo "?".$query2; ?>">
+                        <a target="_blank" href="./links/tablet-k.php<?php echo "?".$query2; ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
@@ -348,7 +337,7 @@
 
 
                     <td>
-                        <a target="_blank" href="./links/tablet-k.php<?php echo "?".$query2; ?>">
+                        <a target="_blank" href="./links/slilin.php<?php echo "?".$query2; ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
@@ -360,23 +349,8 @@
         </table>
 
         <!--比較表END-->
-        <div class="meta-notes">
-            <span class="grad-trigger"></span>
-            <div class="grad-item">
-                <p>
-                    ※1 糖の吸収を抑える機能性と、継続摂取により腸内環境を整える(おなかの中のビフィズス菌を増やす)機能性は機能性関与成分サラシノールによる研究レビュー<br>
-                    2019年4月 消費者庁届出情報 錠剤型サプリメントの剤形で以下の3つの機能性を届出した機能性表示食品は日本初。当社調べ。
-                </p>
-                <p>
-                    ※2 ①本品の継続摂取により BMI が高めの方のおなかの脂肪(体脂肪・内臓脂肪)・体重を減らすことで高めの BMI を改善する
-                    ②機能性関与成分サラシノールが食事から摂取した糖の吸収を抑える
-                    ③機能性関与成分サラシノールの継続摂取により腸内環境を整える(おなかの中のビフィズス菌を増やす)
-                </p>
-                <p>
-                    ※3 継続摂取により BMIが高めの方のおなかの脂肪(体脂肪・内臓脂肪)・体重を減らすことで高めのBMIを改善する機能は、最終製品を用いた臨床試裝
-                </p>
-            </div>
-        </div>
+
+
     </section>
     <!--#section-02 end-->
 
