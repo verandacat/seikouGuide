@@ -125,7 +125,7 @@ print '<?xml version="1.0" encoding="UTF-8"?>';
     <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T329LCK"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
     <!-- End Google Tag Manager (noscript) -->
-    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d" || empty($_GET['pat'])) : ?>
+    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d" || $_SERVER['REQUEST_URI']=="/") : ?>
     <?php else : ?>
     <div id="logo">
         <nav class="logoNav">

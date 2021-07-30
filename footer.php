@@ -135,6 +135,8 @@ $(function() {
 <?php elseif($_GET['pat'] == "d") : ?>
     <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-mwwsbpqr.js"></script>
 <?php endif; ?>
+<!-- FontAwesome -->
+<script src="https://kit.fontawesome.com/339539da33.js" crossorigin="anonymous"></script>
 </body>
 
 </html>

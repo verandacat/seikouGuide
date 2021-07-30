@@ -1,3 +1,6 @@
+@import "css/fonts.css";
+@import "css/boxs.css";
+
 body {
     color: #302f2f;
     margin: 0;
@@ -22,77 +25,22 @@ ul {
 ol {
     list-style-type: decimal;
 }
+
+.link_txt {
+    display: block;
+    margin: 15px 0;
+    text-align: right;
+    font-size: 1.7em;
+    color: orangered;
+    font-weight: bold;
+}
+
 #wrapper {
     width: 900px;
     margin: 0 auto;
     background: #fff;
     box-shadow: 0 0 10px -3px #302f2f;
 }
-
-h1.midashi {
-    position: relative;
-    padding: 0.45em 0;
-    color: #494949;
-    margin: 1em 0;
-    font-size: 1.3em;
-}
-h1.midashi:after {
-    content: "";
-    display: block;
-    height: 4px;
-    margin-top: 10px;
-    background: -webkit-linear-gradient(to right, #e65a5a, transparent);
-    background: linear-gradient(to right, #e65a5a, transparent);
-}
-
-h1.midashi-01 {
-    background: yellowgreen;
-    padding: 10px;
-    color: white;
-    font-size: 1.3em;
-    font-weight: bold;
-}
-
-h1.midashi-02 {
-    background: #e65a5a;
-    padding: 10px;
-    color: white;
-    font-size: 1.3em;
-    font-weight: bold;
-}
-
-h1.midashi-03 {
-    background: #3f70c2;
-    padding: 10px;
-    color: white;
-    font-size: 1.3em;
-    font-weight: bold;
-}
-
-h2.midashi-h2-01 {
-    border-top: 2px solid yellowgreen;
-    border-bottom: 3px solid yellowgreen;
-    padding: 10px;
-    font-size: 1.2em;
-    font-weight: bold;
-}
-
-h2.midashi-h2-02 {
-    border-left: 5px solid #ee9393;
-    background: #efefef;
-    padding: 10px;
-    font-size: 1.2em;
-    font-weight: bold;
-}
-
-h2.midashi-h2-03 {
-    border-left: 5px solid #759cdc;
-    background: #efefef;
-    padding: 10px;
-    font-size: 1.2em;
-    font-weight: bold;
-}
-
 #section-01,
 #section-02,
 #section-03,
@@ -224,81 +172,7 @@ table.r-r-table td {
 .r-txtbox p {
     margin-bottom: 15px;
 }
-p {
-    font-size: 1.1em;
-}
-h1 {
-    display: block;
-    font-size: 1.8em;
-}
-.f-07 {
-    font-size: 0.7em;
-}
-.f-09 {
-    font-size: 0.9em;
-}
-.f-13 {
-    font-size: 1.3em;
-}
-.f-15 {
-    font-size: 1.5em;
-}
-.red {
-    color: orangered;
-    font-weight: bold;
-}
-.rred {
-    color: red;
-    font-weight: bold;
-}
-.pink {
-    color: #e23f61;
-    font-weight: bold;
-}
-.bold {
-    font-weight: bold;
-}
-.blue {
-    color: #3030c7;
-}
-.gray {
-    color: #999;
-}
-.bg-y {
-    background: linear-gradient(transparent 50%, #fff45c 50%);
-}
-.under {
-    text-decoration: underline;
-}
-.left {
-    text-align: left;
-}
-.right {
-    text-align: right;
-}
-.center {
-    text-align: center;
-}
-.link_txt {
-    display: block;
-    margin: 15px 0;
-    text-align: right;
-    font-size: 1.7em;
-    color: orangered;
-    font-weight: bold;
-}
-.tenmetsu {
-    animation: animate 0.5s infinite forwards alternate;
-    padding-left: 180px;
-}
-@keyframes animate {
-    0% {
-        opacity: 0;
-    }
-    30% {
-        opacity: 1;
-    }
-}
+
 #pagetop {
     bottom: 5px;
     clear: both;
@@ -415,6 +289,7 @@ h1 {
 .img-btn img {
     width: 600px;
 }
+
 .arrow {
     text-align: center;
 }
@@ -844,10 +719,7 @@ footer {
     padding-left: 1em;
     font-size: 0.8em;
 }
-sup {
-    color: red;
-    font-size: 0.6em;
-}
+
 
 /* Countdown */
 #countdown_bx {

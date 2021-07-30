@@ -158,13 +158,14 @@
     <?php endif; ?>
 </footer>
 
-    
 <script src="countdown.js?<?php echo time(); ?>"></script>
 <?php if($_GET['pat'] == "a"|| $_SERVER['REQUEST_URI']=="/" || $_GET['pat'] == "c") : ?>
     <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-iagzybmk.js"></script>
 <?php elseif($_GET['pat'] == "d") : ?>
     <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-mwwsbpqr.js"></script>
 <?php endif; ?>
+<!-- FontAwesome -->
+<script src="https://kit.fontawesome.com/339539da33.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
