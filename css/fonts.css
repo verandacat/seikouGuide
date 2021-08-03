@@ -1,0 +1,268 @@
+/* 見出し  *********************************************************************/
+h1 {
+    display: block;
+    font-size: 1.8em;
+}
+h4 {
+    font-size: 1.3em;
+}
+h4.komidashi {
+    margin: 8px 0;
+    padding-left: 10px;
+    position: relative;
+    font-size: 1.3em;
+}
+h4.komidashi:after {
+    position: absolute;
+    width: 70%;
+    height: 1px;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #494949;
+}
+.midashi {
+    position: relative;
+    padding: 0.45em 0;
+    color: #494949;
+    margin: 1em 0;
+    font-size: 1.3em;
+}
+.midashi:after {
+    content: "";
+    display: block;
+    height: 4px;
+    margin-top: 10px;
+    background: -webkit-linear-gradient(to right, #e65a5a, transparent);
+    background: linear-gradient(to right, #e65a5a, transparent);
+}
+
+.midashi-01 {
+    background: yellowgreen;
+    padding: 10px;
+    color: white;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.midashi-02 {
+    background: #e65a5a;
+    padding: 10px;
+    color: white;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.midashi-03 {
+    background: #3f70c2;
+    padding: 10px;
+    color: white;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.midashi-04 {
+    background: #ff4566;
+    padding: 10px;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.midashi-05 {
+    padding: 30px 30px 0;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.midashi-h2-01 {
+    border-top: 2px solid yellowgreen;
+    border-bottom: 3px solid yellowgreen;
+    padding: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.midashi-h2-02 {
+    border-left: 5px solid #ee9393;
+    background: #efefef;
+    padding: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.midashi-h2-03 {
+    border-left: 14px solid #dc2647;
+    border-right: 14px solid #dc2647;
+    background: #ed7288;
+    padding: 10px;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #fff;
+    margin: 8px;
+}
+
+.midashi-h3-01 {
+    border-bottom: 3px double #fb468b;
+    padding: 6px 0;
+    font-size: 1.2em;
+    font-weight: bold;
+    /* margin: 8px 10px; */
+    position: relative;
+    width: 90%;
+    margin: 8px auto;
+    color: #444;
+}
+
+.midashi-h3-01:after {
+    content: "";
+    width: 6px;
+    height: 6px;
+    background-color: #fb468b;
+    border-radius: 50%;
+    position: absolute;
+    left: -2px;
+    bottom: -4px;
+}
+.midashi-h3-01:before {
+    content: "";
+    width: 6px;
+    height: 6px;
+    background-color: #fb468b;
+    border-radius: 50%;
+    position: absolute;
+    right: -2px;
+    bottom: -4px;
+}
+
+.midashi-h3-02 {
+    border-left: 4px double #759cdc;
+    padding: 10px 20px;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+/* FontSize *********************************************************************/
+
+p {
+    font-size: 1.1em;
+}
+
+.f-07 {
+    font-size: 0.7em;
+}
+.f-09 {
+    font-size: 0.9em;
+}
+.f-13 {
+    font-size: 1.3em;
+}
+.f-15 {
+    font-size: 1.5em;
+}
+.font13 {
+    font-size: 13px;
+}
+.font14 {
+    font-size: 14px;
+}
+.font16 {
+    font-size: 16px;
+}
+.font18 {
+    font-size: 18px;
+}
+.font20 {
+    font-size: 20px;
+}
+.font22 {
+    font-size: 22px;
+}
+.font24 {
+    font-size: 24px;
+}
+.font26 {
+    font-size: 26px;
+}
+.font28 {
+    font-size: 28px;
+}
+
+/* Colors *********************************************************************/
+
+.red {
+    color: orangered;
+    font-weight: bold;
+}
+.rred {
+    color: red;
+    font-weight: bold;
+}
+.pink {
+    color: #e23f61;
+    font-weight: bold;
+}
+.kpink {
+    color: #fb468b;
+    font-weight: bold;
+}
+.blue {
+    color: #3030c7;
+    font-weight: bold;
+}
+.kblue {
+    color: #5080c7;
+    font-weight: bold;
+}
+.gray {
+    color: #999;
+}
+
+.bg-y {
+    background: linear-gradient(rgba(255,255,255,0) 50%, #fff45c 50%);
+}
+
+.k-bg-y {
+    background: linear-gradient(rgba(255,255,255,0) 50%, #faf283 50%);
+}
+
+/* Decoration  *********************************************************************/
+
+.under {
+    text-decoration: underline;
+}
+.bold {
+    font-weight: bold;
+}
+
+/* Position  *********************************************************************/
+
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.center {
+    text-align: center;
+}
+
+/* 注釈  *********************************************************************/
+sup {
+    color: red;
+    font-size: 0.6em;
+}
+
+/* Animation  *********************************************************************/
+.tenmetsu {
+    animation: animate 0.5s infinite forwards alternate;
+    padding-left: 180px;
+}
+@keyframes animate {
+    0% {
+        opacity: 0;
+    }
+    30% {
+        opacity: 1;
+    }
+}

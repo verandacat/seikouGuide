@@ -1,0 +1,71 @@
+#kiji__box {
+    padding: 10px 20px;
+    box-sizing: border-box;
+    color: #444;
+}
+
+#kiji__fv img {
+    width: 100%;
+}
+
+#kiji__box p {
+    margin: 20px 50px;
+    line-height: 1.6;
+}
+
+/* リスト */
+.kiji__list {
+    margin: 14px 0;
+    padding: 0;
+}
+.kiji__list li, .kiji__list-num li {
+    margin: 18px 0;
+    position: relative;
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.kiji__list li:before {
+    content: "";
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    background-image: url(img/kiji/kiji_check_icon.svg);
+    background-size: cover;
+    vertical-align: middle;
+    background-position: center 40%;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+/* ボタン */
+.button {
+    margin: 30px 0 50px;
+}
+.button a {
+    position: relative;
+    margin: auto;
+    width: 90%;
+    border-radius: 50px;
+    color: white;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    background-color: #0bb644;
+    padding: 30px 0;
+    font-size: 2.2rem;
+    box-shadow: 0 4px 0 0 rgba(0,0,0,0.2), inset 0 0 0 2px darkgreen, inset 0 0 0 4px white;
+}
+.button a i.fas {
+    display: inline-block;
+    margin-left: 8px;
+}
+.button p {
+    margin: 4px 0!important;
+}
+.button a:hover {
+    top: 1px;
+    box-shadow: 0 2px 0 0 rgba(0,0,0,0.2), inset 0 0 0 2px darkgreen, inset 0 0 0 4px white;;
+}

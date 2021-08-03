@@ -1,0 +1,119 @@
+.mt0 {
+    margin-top: 0!important;
+}
+.boxDeco {
+    width: 95%;
+    margin: 0 auto 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.boxDeco p {
+    margin: 20px 0!important;
+    font-size: 1rem;
+}
+
+.boxDeco p:last-child {
+    margin: 20px 0 0!important;
+}
+
+/* Border Boxs  **********************************************************************/
+.borderBox-gold2 {
+    border: 2px solid #fae5b4;
+}
+.borderBox-pink2 {
+    border: 2px solid pink;
+}
+.borderBox-blue2 {
+    border: 2px solid skyblue;
+}
+.borderBox-green2 {
+    border: 2px solid rgb(150, 218, 155);
+}
+
+.borderBox-gold3 {
+    border: 3px solid #fae5b4;
+}
+.borderBox-gold6 {
+    border: 6px double #d3c4a3
+}
+.borderBox-pink3 {
+    border: 3px solid #dd8292;
+}
+.borderBox-blue3 {
+    border: 3px solid skyblue;
+}
+.borderBox-green3 {
+    border: 3px solid #4da07f;
+}
+
+/* Color Boxs  **********************************************************************/
+/* #ffeabd */
+.yellowBox {
+    background-color: #fefcf7;
+    box-shadow: 6px 6px #fae5b4;
+}
+.greyBox {
+    background-color: rgb(230, 230, 230);
+    box-shadow: 6px 6px #999;
+}
+.pinkBox {
+    background-color: rgb(254, 249, 250);
+    box-shadow: 6px 6px pink;
+}
+.blueBox {
+    background-color: rgb(224, 247, 255);
+    box-shadow: 6px 6px skyblue;
+}
+.greenBox {
+    background-color: rgb(248, 255, 248);
+    box-shadow: 6px 6px rgb(150, 218, 155);
+
+}
+.text-box {
+    margin-bottom: 20px;
+    margin: 20px 8px;
+}
+.text-box img {
+    width: 95%;
+    max-width: 100%;
+    display: block;
+    margin: 20px auto;
+}
+.review-box {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+}
+.review-box:before {
+    content: "";
+    background-color: white;
+    background-size: contain;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid #eee;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.review-box:nth-child(1):before {
+    background-image: url(../img/kiji/review_icon-03.png);
+    background-repeat: no-repeat;
+
+}
+.review-box:nth-child(2):before {
+    background-image: url(../img/kiji/review_icon-02.png);
+    background-repeat: no-repeat;
+
+}
+.review-box:nth-child(3):before {
+    background-image: url(../img/kiji/review_icon-01.png);
+    background-repeat: no-repeat;
+
+}
+.review-box div {
+    width: 75%;
+    background-color: white;
+    padding: 0 10px 10px;
+    border: 1px solid #eee;
+}
