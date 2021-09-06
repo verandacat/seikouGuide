@@ -24,17 +24,17 @@
 
             <h1 class="right">とお悩みの方へ</span></h1>
 
-            <h1 class="center">本当におすすめ！<br>厳選ダイエタリーライフサポートサプリランキング<br>ベスト３を大公開！</span></h1>
+            <h1 class="center">本当におすすめ！<br>厳選！燃焼サプリンキング<br>ベスト３を大公開！</span></h1>
 
         </div>
         <!--.title-wrap end-->
 
         <div class="txt-wrap">
 
-            <p>当サイトでは数多くのダイエタリーライフサポートサプリの成分や利用者の口コミを徹底調査！</p><br>
+            <p>当サイトでは数多くの燃焼サプリの成分や利用者の口コミを徹底調査！</p><br>
 
             <p><span class="bold bg-y">【失敗しないサプリの正しい選び方】</span>と<br><span
-                    class="bold bg-y">【厳選！おすすめのダイエタリーライフサポートサプリ】</span>をご紹介します。
+                    class="bold bg-y">【厳選！おすすめの燃焼サプリ】</span>をご紹介します。
             </p><br>
 
             <p>「本当におすすめのサプリが知りたい」とお考えの方は是非参考にしてみてください。</p><br>
@@ -305,7 +305,7 @@
                     </td>
 
                     <td>
-                        <p>・お腹の脂肪が気になる<br>・ダイエタリーライフサポートサプリを手軽に試したい<br>・安心の機能性表示食品を試したい</p>
+                        <p>・お腹の脂肪が気になる<br>・燃焼サプリを手軽に試したい<br>・安心の機能性表示食品を試したい</p>
                     </td>
 
                     <td>
@@ -363,7 +363,7 @@
     <section id="section-03">
 
 
-        <h1 class="midashi">ダイエタリーライフサポートサプリ選びで失敗しないための５つのポイント</h1>
+        <h1 class="midashi">燃焼サプリ選びで失敗しないための５つのポイント</h1>
 
         <?php include('point.php');  ?>
 
@@ -387,9 +387,9 @@
             <li rel="tab1" onclick="rank_bn.src='./img/ranking/ranking-banner-pc.png'">総合<br>人気ランキング</li>
             <li rel="tab2" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-b.png'">体内フローラ<br>サプリ</li>
             <li class="active" rel="tab3" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-c.png'">燃焼<br>サプリ</li>
-            <li rel="tab4" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-f.png'">糖質ケア<br>サプリ</li>
-            <li rel="tab5" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-d.png'">酵素<br>サプリ</li>
-            <li rel="tab6" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-e.png'">酵素<br>ドリンク</li>
+            <li rel="tab4" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-d.png'">糖質ケア<br>サプリ</li>
+            <li rel="tab5" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-e.png'">酵素<br>サプリ</li>
+            <li rel="tab6" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-f.png'">酵素<br>ドリンク</li>
             <li rel="tab7" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-g.png'">ダイエット<br>スムージー</li>
             <li rel="tab8" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-h.png'">防風通聖散</li>
 
@@ -423,7 +423,7 @@
             <div class="last-txt bg-wh border-r">
 
 
-                <p>当サイトでご紹介しているダイエタリーライフサポートサプリは、効果はもちろんですが、
+                <p>当サイトでご紹介している燃焼サプリは、効果はもちろんですが、
 
                     <span class="bold">できるかぎり多くの「スリムになりたい」とお悩みの方に試していただきたい</span>という気持ちから、
 
