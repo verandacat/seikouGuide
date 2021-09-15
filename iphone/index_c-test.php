@@ -1,571 +1,541 @@
 <?php include('header.php'); ?>
 
-  <div id="wrapper">
-   
-      <header>  
+<div id="wrapper">
+
+    <header>
         <div class="img-wrap">
-          <img src="./img/top-banner-sp-new-c.png"/>
+            <img src="./img/fv/seikou_topBn_sp-c.png" />
         </div>
-      </header>
+    </header>
 
-        <div style="padding:10px 0 0;">
-          <?php get_search_form(); ?>
+    <div style="padding:10px 0 0;">
+        <?php get_search_form(); ?>
+    </div>
+
+
+
+    <section id="section-01">
+
+        <div class="title-wrap center">
+
+            <h1 class="left"><span class="red">「お腹の脂肪が気になる！」<br>「年々お腹の脂肪が落ちづらくなっている･･･」</span></h1>
+
+            <h1 class="right">とお悩みの方へ</span></h1><br>
+
+            <h1>本当におすすめ！<br>厳選！燃焼サプリランキング<br>ベスト５を大公開！</span></h1>
+
         </div>
+        <!--.title-wrap end-->
 
+        <div class="txt-wrap">
 
+            <p>当サイトでは数多くの燃焼サプリの成分や利用者の口コミを徹底調査！</p><br>
 
-        <section id="section-01">
+            <p><span class="bold bg-y">【失敗しないサプリの正しい選び方】</span>と<span
+                    class="bold bg-y">【厳選！おすすめの燃焼サプリ】</span>をご紹介します。
+            </p><br>
 
-            <div class="title-wrap center">
+            <p>「本当におすすめのサプリが知りたい」とお考えの方は是非参考にしてみてください。</p><br>
 
-                <h1 class="left"><span class="red">「絶対に痩せたい！」<br>「ダイエットを成功させたい！」</span></h1>
-                
-                <h1 class="right">とお悩みの方へ</span></h1><br>
-                
-                <h1>本当におすすめ！<br>厳選ダイエットサプリランキング<br>ベスト５を大公開！</span></h1>
-
-            </div><!--.title-wrap end-->
-
-            <div class="txt-wrap">
-
-                <p>当サイトでは数多くのダイエットサプリの成分や利用者の口コミを徹底調査！</p><br>
-
-                <p><span class="bold bg-y">【失敗しないダイエットサプリの正しい選び方】</span>と<span class="bold bg-y">【厳選！おすすめのダイエットサプリ】</span>をご紹介します。
-                </p><br>
-
-                <p>「本気で痩せたい」とお考えの方は是非参考にしてみてください。</p><br>
-
-                <p>早速、一部を比較表でご紹介します。</p>
+            <p>早速、一部を比較表でご紹介します。</p>
             　　　　　　　　　　　　
-            </div><!--.txt-wrap end-->
-                  
-        </section><!--#section-01 end-->
+        </div>
+        <!--.txt-wrap end-->
+
+    </section>
+    <!--#section-01 end-->
 
 
 
 
 
-        <section id="section-02">
-                
-                <!--比較表START-->
-          
-                    <table class="table-01" cellspacing="1">
-          
-                      <tbody>
+    <section id="section-02">
 
-                        <tr>
+        <!--比較表START-->
 
-                          <th class="crown">
+        <table class="table-01" cellspacing="1">
 
-                          </th>
+            <tbody>
 
-                          <th class="crown">
-                              <p>
-                                <img src="./img/n_img/crown_icon_01.png" width="80" alt="" />
-                              </p>
+                <tr>
 
-                          </th>
+                    <th class="crown">
 
-                          <th class="crown">
-                              <p>
-                                <img src="./img/n_img/crown_icon_02.png" width="80" alt="" />
-                              </p>
-                          </th>
+                    </th>
 
-                          <th class="crown">
-                              <p>
-                                <img src="./img/n_img/crown_icon_03.png" width="80" alt="" />
-                              </p>
-                          </th>
+                    <th class="crown">
+                        <p>
+                            <img src="./img/n_img/crown_icon_01.png" width="80" alt="" />
+                        </p>
+
+                    </th>
+
+                    <th class="crown">
+                        <p>
+                            <img src="./img/n_img/crown_icon_02.png" width="80" alt="" />
+                        </p>
+                    </th>
+
+                    <th class="crown">
+                        <p>
+                            <img src="./img/n_img/crown_icon_03.png" width="80" alt="" />
+                        </p>
+                    </th>
 
 
-                        </tr>
+                </tr>
 
-          
-                        <!-- 1行目 商品名-->
-          
-                        <tr>
-                          <th class="table-title width">
-                            <h6>商品名</h6>
-                            </p>
-                          </th>
-          
-                          <th>
-          
-                            <p>
-                              <a class="link-img" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/sibo.php<?php echo "?".$query2; ?>">
+
+                <!-- 1行目 商品名-->
+
+                <tr>
+                    <th class="table-title width">
+                        <h6>商品名</h6>
+                        </p>
+                    </th>
+
+                    <th style="vertical-align: top">
+                        <p>
+                            <a class="link-img" target="_blank"
+                                href="./links/sibo.php<?php echo $query; ?>">
                                 <img src="./img/shiboh.jpg" alt="" />
-                              </a>
-                            </p>
-                            
-                            <p>
-                              <span class="lbg">
-                              <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/sibo.php<?php echo "?".$query2; ?>">シボヘール</a>
-                              </span>
-                            </p>
-                        
-                          </th>
+                            </a>
+                        </p>
+                        <p>
+                            <span class="lbg">
+                                <a target="_blank"
+                                    href="./links/sibo.php<?php echo $query; ?>">シボヘール</a>
+                            </span>
+                        </p>
+                    </th>
 
 
-                                                    
-                          <th>
-                            <p>
-                              <a class="link-img" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/vita.php<?php echo "?".$query2; ?>">
-                                <img src="./img/vita.jpg" alt="" />
-                              </a>
-                            </p>
-                            <p>
-                              <span class="lbg">
-                                <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/vita.php<?php echo "?".$query2; ?>">ターミナリアファースト</a>
-                              </span>
-                            </p>
-                          </th>
-          
-                        
-          
-          
-          
-                          <th>
-                            <p>
-                              <a class="link-img" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/eg.php<?php echo "?".$query2; ?>">
-                                <img src="./img/eg.jpg" alt="" />
-                              </a>
-                            </p>
-                            <p>
-                              <span class="lbg">
-                                <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/eg.php<?php echo "?".$query2; ?>">EGタイトLight</a>
-                              </span>
-                            </p>
-                          </th>
-          
-                          </tr>
+                    <th style="vertical-align: top">
+                        <p>
+                            <a class="link-img" target="_blank"
+                                href="./links/wild.php<?php echo $query; ?>">
+                                <img src="./img/wild.jpg" alt="" />
+                            </a>
+                        </p>
+                        <p>
+                            <span class="lbg">
+                                <a target="_blank"
+                                    href="./links/wild.php<?php echo $query; ?>">ワイルドマンゴーの力A</a>
+                            </span>
+                        </p>
+                    </th>
 
 
-                        <!-- <th>
-                            
-                            <p>
-                              <a class="link-img" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/meta.php<?php echo "?".$query2; ?>">
-                                <img src="./img/meta.jpg" alt="">
-                              </a>
-                            </p>
-                            <p>
-                                <span class="lbg">
-                                  <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/meta.php<?php echo "?".$query2; ?>">メタバリアEX</a>
-                                </span>
-                            </p>
-                          </th> 
-           -->
-          
-                        <!-- 2行目 -->
-          
-                        <tr>
-                          <td class="table-title width">
-                            <h6>「実感した！」<br>ユーザー評価</h6>
-                            
-                          </td>
-          
-                          <td>
-                              <p>
-                                <img src="./img/review_5.gif" alt="" />
-                              </p>
-
-                              <p class="f-13">4.8/5.0</p>
-
-                          </td>
-          
-          
-                          <td>
-                              <p>
-                                <img src="./img/review_45.gif" alt="" />
-                              </p>
-
-                              <p class="f-13">4.5/5.0</p>
-
-                          </td>
-          
-                          <td style="width:27%">
-                              <p>
-                                <img src="./img/review_45.gif" alt="" />
-                              </p>
-                              
-                              <p class="f-13">4.4/5.0</p>
-
-                          </td>
-          
-                        </tr>
-          
-                    
-          
-                        <!-- 4行目 -->
-          
-                        <tr>
-          
-                          <td class="table-title width">
-                              <h6>配合成分</h6>
-                          </td>
-          
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p style="text-align: left">葛の花由来イソフラボン</p>
-                          </td>
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p style="text-align: left">ターミナリアベリリカ由来没食子酸</p>
-                          </td>
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                              <p style="text-align: left">
-                              ボウフウを含む18種の生薬
-                            </p>
-
-                          </td>
-
-                          <!-- <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p style="text-align: left">葛の花由来のイソフラボン配合(脂肪を減らす科学的根拠あり)</p>
-                          </td>
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p style="text-align: left">18種類の生薬（肥満症対策の医学的な根拠あり）</p>
-                          </td>
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p style="text-align: left">
-                              サラシア由来のサラシノール
-                              </p>
-                          </td> -->
-
-                        </tr>
-          
-          
-                        <!-- 5行目 -->
-          
-                        <tr>
-          
-                          <td class="table-title width">
-                              <h6>即効性</h6>
-                          </td>
-          
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-
-                          </td>
-          
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                          </td>
-          
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                          </td>
-
-                          <!-- <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                          </td> -->
-
-          
-                        </tr>
-
-                        <!-- 6行目 -->
-          
-                        <tr>
-          
-                          <td class="table-title width">
-                              <h6>こんな人に<br>おすすめ</h6>
-                          </td>
-
-                          <td>
-                              <p style="text-align: left">・脂肪を減らしたい<br>・ダイエットサプリを手軽に試したい<br>・機能性表示食品を試したい</p>
-                          </td>
-
-                          <td>
-                             <p style="text-align: left">・糖の吸収を抑えたい<br>・脂肪の吸収を抑えたい<br>機能性表示食品を試したい</p>
-                          </td>
-
-                          <td>
-                             <p style="text-align: left">
-                             ・脂肪を燃焼させたい<br>・多少高くても安心の医薬品でしっかり痩せたい                            </p>
-                          </td>
-
-                          <!-- <td>
-                             <p style="text-align: left">
-                             ・糖質の吸収を抑えたい<br>・腸内環境も整えたい<br>・機能性表示食品を試したい
-                            </p>
-                          </td> -->
-
-                        </tr>
+                    <th style="vertical-align: top">
+                        <p>
+                            <a class="link-img" target="_blank"
+                                href="./links/onaka.php<?php echo $query; ?>">
+                                <img src="./img/onaka.jpg" alt="" />
+                            </a>
+                        </p>
+                        <p>
+                            <span class="lbg">
+                                <a target="_blank"
+                                    href="./links/onaka.php<?php echo $query; ?>">お腹の脂肪が気になる方のためのタブレット</a>
+                            </span>
+                        </p>
+                    </th>
 
 
-                        <!-- 7行目 -->
+                <tr>
+                    <td class="table-title width">
+                        <h6>ユーザー評価</h6>
 
-                        <tr>
+                    </td>
 
-                          <td class="table-title">
-                              <h6>通常価格</h6>
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p>2,808円</p>
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                              <p>通常価格3,672円（定期）</p>
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                              <p>6,480円</p>
+                    <td>
+                        <p>
+                            <img src="./img/review_5.gif" alt="" />
+                        </p>
+                        <p class="f-13">4.8/5.0</p>
+                    </td>
 
 
-                          </td>
-                          
+                    <td>
+                        <p>
+                            <img src="./img/review_45.gif" alt="" />
+                        </p>
+                        <p class="f-13">4.5/5.0</p>
 
-                        </tr>
+                    </td>
 
+                    <td style="width:27%">
+                        <p>
+                            <img src="./img/review_45.gif" alt="" />
+                        </p>
+                        <p class="f-13">4.4/5.0</p>
 
-                        <!-- 8行目 -->
+                    </td>
 
-                        <tr>
-
-                          <td class="table-title">
-                              <h6>キャンペーン</h6>
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p>初回980円</p>
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                              <p>初回1500円</p>
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <!-- <p>初回1000円</p> -->
-                              <p>初回980円<br>（15日分）</p>
-
-                          </td>
-
-                        </tr>
-
-                        
-                        <!-- 9行目 -->
-
-                        <tr class="btn" style="height: 50px;">
-
-                          <td class="table-title">
-                              <h6>公式サイト</h6>
-                          </td>
-
-                          <td style="width:27%;">
-                              <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/sibo.php<?php echo "?".$query2; ?>">
-                                <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                              </a>                      
-                          </td>
-
-                          <td style="width:27%;">
-                              <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/vita.php<?php echo "?".$query2; ?>">
-                                <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                              </a>
-                          </td>
-
-                     
-                          <td style="width:27%;">
-                              <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/eg.php<?php echo "?".$query2; ?>">
-                                <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                              </a>
-                          </td>
-                          <!-- <td>
-                              <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/meta.php<?php echo "?".$query2; ?>">
-                                <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                              </a>
-                          </td> -->
-          
-                        </tr>
-          
-                      </tbody>
-          
-                    </table>
-          
-                   <!--比較表END-->
-          
-      </section><!--#section-02 end-->
-          
+                </tr>
 
 
 
-      <section id="section-03">
 
-       
-        <h1 class="midashi">ダイエットサプリ選びで<br>失敗しないための５つのポイント</h1>
+                <tr>
 
-          <?php include('point.php'); ?>
+                    <td class="table-title width">
+                        <h6>配合成分</h6>
+                    </td>
 
-      </section><!--#section-03 end-->
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>葛の花由来イソフラボン配合</p>
+                    </td>
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>エラグ酸</p>
+                    </td>
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>葛の花由来イソフラボン</p>
+                    </td>
+
+                </tr>
+
+
+                
+                <tr>
+                    <td class="table-title">
+                        <h6>サプリタイプ</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>機能性表示食品</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>機能性表示食品</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>機能性表示食品</p>
+                    </td>
+                </tr>
+
+
+                
+
+                <tr>
+
+                    <td class="table-title">
+                        <h6>通常価格</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>2,808円（定期）</p>
+
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>3,808円（定期）</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>3,402円（定期）</p>
+                    </td>
+
+                </tr>
 
 
 
-      <div class="img-wrap">
-          <img id="rank_bn" src="./img/n_img/ranking-banner-sp-c.png"/>
-      </div>
+                <tr>
+
+                    <td class="table-title">
+                        <h6>特別オファー</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>初回980円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>初回980円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>初回540円</p>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="table-title">
+                        <h6>返金保証</h6>
+                    </td>
+
+                    <td>
+                        <p><span class="red">初回全額返金保証</span></p>
+                    </td>
+
+                    <td>
+                        <p>30日間返金保証付き</p>
+                    </td>
+
+                    <td>
+                        <p>なし</p>
+                    </td>
+                </tr>
+
+
+
+
+                <tr>
+
+                    <td class="table-title width">
+                        <h6>こんな人に<br>おすすめ</h6>
+                    </td>
+
+                    <td>
+                        <p>・お腹の脂肪が気になる<br>・燃焼サプリを手軽に試したい<br>・機能性表示食品を試したい</p>
+                    </td>
+
+                    <td>
+                        <p>・体脂肪、血中中性脂肪を減らしたい人<br>・まだワイルドマンゴーを試したことがない<br>・機能性表示食品を試したい</p>
+                    </td>
+
+                    <td>
+                        <p>・体重・脂肪の増加が気になる人<br>・ウエスト周りを減らしたい人<br>・機能性表示食品を試したい人</p>
+                    </td>
+                </tr>
+
+
+                <tr class="btn" style="height: 50px;">
+
+                    <td class="table-title">
+                        <h6>公式サイト</h6>
+                    </td>
+
+                    <td style="width:27%;">
+                        <a target="_blank"
+                            href="./links/sibo.php<?php echo $query; ?>">
+                            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+                        </a>
+                    </td>
+
+                    <td style="width:27%;">
+                        <a target="_blank"
+                            href="./links/wild.php<?php echo $query; ?>">
+                            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+                        </a>
+                    </td>
+
+                    <td style="width:27%;">
+                        <a target="_blank"
+                            href="./links/onaka.php<?php echo $query; ?>">
+                            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+                        </a>
+                    </td>
+
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+        <!--比較表END-->
+        
+
+    </section>
+    <!--#section-02 end-->
+
+
+
+
+    <section id="section-03">
+
+
+        <h1 class="midashi">燃焼サプリ<br>選びで失敗しないための５つのポイント</h1>
+
+        <?php include('point.php'); ?>
+
+    </section>
+    <!--#section-03 end-->
+
+
+
+    <div class="img-wrap">
+        <img id="rank_bn" src="./img/ranking/ranking-banner-sp-c.png" />
+    </div>
 
     <!----------------------------RANKING-------------------------->
 
-        <section id="section-04">
+    <section id="section-04">
 
-              <div class="swiper-container">
-                    <ul class="swiper-wrapper tabs">
-                      <li class="tab1 swiper-slide"><a href="#tab1" onclick="rank_bn.src='./img/n_img/ranking-banner-sp.png'">ダイエットサプリ<br>総合ランキング</a></li>
-                      <li class="tab2 swiper-slide"><a href="#tab2" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-b.png'">腸内フローラ<br>サプリ</a></li>
-                      <li class="tab3 swiper-slide active"><a href="#tab3" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-c.png'">燃焼<br>サプリ</a></li>
-                      <li class="tab4 swiper-slide"><a href="#tab4" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-f.png'">糖質カット<br>サプリ</a></li>
-                      <li class="tab5 swiper-slide"><a href="#tab5" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-d.png'">酵素<br>サプリ</a></li>
-                      <li class="tab6 swiper-slide"><a href="#tab6" onclick="rank_bn.src='./img/n_img/ranking-banner-sp-e.png'">酵素<br>ドリンク</a></li>
-                    </ul>
-              </div>
-              <div class="swiper-pagination"></div>
+        <div class="swiper-container">
+            <ul class="swiper-wrapper tabs">
+                <li class="tab1 swiper-slide"><a href="#tab1"
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp.png'">総合<br>人気ランキング</a></li>
+                <li class="tab2 swiper-slide"><a href="#tab2"
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-b.png'">体内フローラ<br>サプリ</a></li>
+                <li class="tab3 swiper-slide active"><a href="#tab3"
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-c.png'">燃焼<br>サプリ</a></li>
+                <li class="tab4 swiper-slide"><a href="#tab4"
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-d.png'">糖質ケア<br>サプリ</a></li>
+                <li class="tab5 swiper-slide"><a href="#tab5"
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-e.png'">酵素<br>サプリ</a></li>
+                <li class="tab6 swiper-slide"><a href="#tab6"
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-f.png'">酵素<br>ドリンク</a></li>
+                <li class="tab7 swiper-slide"><a href="#tab7"
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-g.png'">ダイエット<br>スムージー</a></li>
+                <li class="tab8 swiper-slide"><a href="#tab8" onclick="rank_bn.src='./img/ranking/ranking-banner-sp-h.png'">防風通聖散</a></li>
+                <li class="swiper-slide"></li>
+            </ul>
+        </div>
+        <div class="swiper-pagination"></div>
 
-              <?php include('ranking-test.php');?>
+        <?php include('ranking-test.php'); ?>
 
 
 
-        </section><!--#section-04 end-->
+    </section>
+    <!--#section-04 end-->
 
     <!----------------------------RANKING-------------------------->
 
 
-
-        <section id="section-05">
-
-                  
-                    <img src="./img/n_img/last_banner.png" alt="" width="100%">
-                  
-
-                  <div class="last-container">
+    <!-- <section id="section-045">
+        <?php //include 'pickup.php'; ?>
+    </section> -->
 
 
-                    <div class="last-txt bg-wh border-r">
-
-                            <p>当サイトでご紹介しているダイエットサプリは、効果はもちろんですが、 
-                            
-                            <span class="bold">できるかぎり多くの「痩せたい」とお悩みの方に試していただきたい</span>という気持ちから、
-                            
-                            <span class="bold red">お得に試せるかどうか</span>、という点も重要視して選ばせていただきました。</p><br>
-
-                            <p>総合人気ランキング第１位の<span class="bold">シボヘール</span>は今なら <span class="bold blue">初回980円モニター募集中！</span>
-                            なんと、 <span class="bold red">１日わずか３２円 </span>で試すことが出来ちゃいます。</p><br>
-
-                            <p>しかも、契約の回数しばりなどはなく、<span class="bold">１回きりでの購入でも大丈夫</span>なんです！</p><br>
-
-                            <p>このめっちゃお得なキャンペーンは、 <span class="bold">今だけのキャンペーンなのですぐに募集が終了してしまう可能性が高い</span>です。</p><br>
-
-                            <p>試してみようとお考えの方は、<span class="bold red"> お得なキャンペーンが終了する前に手に入れてくださいね！</span></p>
+    <section id="section-05">
 
 
-                            <div class="img-wrap-last">
-
-                              <img src="./img/n_img/item-a.png" width="350">
-
-                            </div>
-                      
-                            <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/sibo.php<?php echo "?".$query2; ?>" target="_blank">
-                              <img alt="" src="./img/n_img/btn_site_go_last_s.png" width="100%" />
-                            </a>                             
-                           
-
-                        </div>
-                  
-                      </div>
-                          
-        </section>
+        <img src="./img/n_img/last_banner.png" alt="" width="100%">
 
 
-
-           <script>
-              $(function () {
-
-              $(".tab_content").hide();
-              $(".tab_content:nth-of-type(3)").show();
-
-              $("ul.tabs li").click(function () {
-                  $("ul.tabs li").removeClass("active").css("color", "#333");
-                  //$(this).addClass("active").css({"color": "darkred","font-weight": "bold"});
-                  $(this).addClass("active").css("color", "white");
-                  $(".tab_content").hide()
-                  var activeTab = $(this).attr("rel");
-                  $("#" + activeTab).fadeIn()
-              });
-              });
-          </script>
+        <div class="last-container">
 
 
-          <!-- Swiper JS -->
-          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
+            <div class="last-txt bg-wh border-r">
 
-              <!-- Initialize Swiper -->
-          <script>
+                <p>当サイトでご紹介している燃焼サプリは、効果はもちろんですが、
 
-          var swiper_1 = new Swiper('.swiper-container', {
-              
-              pagination: '.swiper-pagination',
-              slidesPerView: 3,
-              paginationClickable: true,
-              spaceBetween: 0,
-              freeMode: true,
-              pagination : { // 페이징 설정
-                el : '.swiper-pagination',
-                clickable : true, // 페이징을 클릭하면 해당 영역으로 이동, 필요시 지정해 줘야 기능 작동
-              },
-          });
+                    <span class="bold">できるかぎり多くの「スリムになりたい」とお悩みの方に試していただきたい</span>という気持ちから、
 
-          $('.tabs > li > a').on('click', function(e){
-            $(this).parent().addClass('active').siblings().removeClass('active');
-            var tabIdx = $(this).parent().index();
-            swiper_2.slideTo(tabIdx+1, 300);
-            e.preventDefault();
-          });
+                    <span class="bold red">お得に試せるかどうか</span>、という点も重要視して選ばせていただきました。</p><br>
 
-          var tabLen = $('.tabs > li').length;
+                <p>総合人気ランキング第１位の<span class="bold">シボヘール</span>は今なら <span class="bold blue">初回980円モニター募集中！</span>
+                    なんと、 <span class="bold red">１日わずか３２円 </span>で試すことが出来ちゃいます。</p><br>
 
-          /* 2016-05-13 수정 */
-          var swiper_2 = new Swiper('.swiper-container-2', {
-            initialSlide: 2,
-            autoHeight: true,
-            slidesPerView: 1,
-            spaceBetween: 0,
-            pagination: true,
-            loop: true,
-            noSwiping: true,
-            noSwipingClass: '.swiper-wrapper',
-            onInit: function(swiper){
-			
-		      },
-          onSlideChangeStart: function(swiper){
-          	var idx = swiper.activeIndex-1;
-          	if( idx < 0 ) { 
-          		idx = tabLen - 1;
-          	} else if( idx == tabLen ){
-          		idx = 0;
-          	}
-          	$('.tabs > li').removeClass('active').eq(idx).addClass('active');
-          	if( idx < tabLen ) {
-          		swiper_1.slideTo(idx-1, 300);
-          	}
-          }
-          });
-        /* //2016-05-13 수정 */
+                <p>しかも、契約の回数しばりなどはなく、<span class="bold">１回きりでの購入でも大丈夫</span>なんです！</p><br>
 
+                <p>このお得なモニター募集は、 <span class="bold">すぐに募集が終了してしまう可能性が高い</span>です。</p><br>
+
+                <p>試してみようとお考えの方は、<span class="bold red">終了する前に手に入れてくださいね！</span></p>
+
+
+                <div class="img-wrap-last">
+
+                    <img src="./img/n_img/item-a.png" width="350">
+
+                </div>
+
+                <a target="_blank"
+                    href="./links/sibo.php<?php echo $query; ?>"
+                    target="_blank">
+                    <img alt="" src="./img/n_img/btn_site_go_last_s.png" width="100%" />
+                </a>
+
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <script>
+    $(function() {
+
+        $(".tab_content").hide();
+        $(".tab_content:nth-of-type(3)").show();
+
+        $("ul.tabs li").click(function() {
+            $("ul.tabs li").removeClass("active").css("color", "#333");
+            //$(this).addClass("active").css({"color": "darkred","font-weight": "bold"});
+            $(this).addClass("active").css("color", "white");
+            $(".tab_content").hide()
+            var activeTab = $(this).attr("rel");
+            $("#" + activeTab).fadeIn()
+        });
+    });
     </script>
 
-     
 
-     <?php include('footer.php'); ?>
+    <!-- Swiper JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+    var swiper_1 = new Swiper('.swiper-container', {
+
+        pagination: '.swiper-pagination',
+        slidesPerView: 3,
+        paginationClickable: true,
+        spaceBetween: 0,
+        freeMode: true,
+        pagination: { // 페이징 설정
+            el: '.swiper-pagination',
+            clickable: true, // 페이징을 클릭하면 해당 영역으로 이동, 필요시 지정해 줘야 기능 작동
+        },
+    });
+
+    $('.tabs > li > a').on('click', function(e) {
+        $(this).parent().addClass('active').siblings().removeClass('active');
+        var tabIdx = $(this).parent().index();
+        swiper_2.slideTo(tabIdx + 1, 300);
+        e.preventDefault();
+    });
+
+    var tabLen = $('.tabs > li').length;
+
+    /* 2016-05-13 수정 */
+    var swiper_2 = new Swiper('.swiper-container-2', {
+        initialSlide: 2,
+        autoHeight: true,
+        slidesPerView: 1,
+        spaceBetween: 0,
+        pagination: true,
+        loop: true,
+        noSwiping: true,
+        noSwipingClass: '.swiper-wrapper',
+        onInit: function(swiper) {
+
+        },
+        onSlideChangeStart: function(swiper) {
+            var idx = swiper.activeIndex - 1;
+            if (idx < 0) {
+                idx = tabLen - 1;
+            } else if (idx == tabLen) {
+                idx = 0;
+            }
+            $('.tabs > li').removeClass('active').eq(idx).addClass('active');
+            if (idx < tabLen) {
+                swiper_1.slideTo(idx - 1, 300);
+            }
+        }
+    });
+    /* //2016-05-13 수정 */
+    </script>
+
+
+
+    <?php include('footer.php'); ?>
