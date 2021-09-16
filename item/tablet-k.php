@@ -61,7 +61,7 @@
             <td>4,374円（税込）</td>
             <td>120粒</td>
             <td>
-                <img alt="" src="./img/review_4.gif" />
+                <img alt="" src="./img/review_5.gif" />
             </td>
         </tr>
         <tr>

@@ -72,7 +72,7 @@
         <?php if($_GET['pat']=='a') : ?>
         <img alt="" src="./img/review_35.gif" />
         <?php else : ?>
-        <img alt="" src="./img/review_4.gif" />
+        <img alt="" src="./img/review_45.gif" />
         <?php endif; ?>
       </td>
     </tr>

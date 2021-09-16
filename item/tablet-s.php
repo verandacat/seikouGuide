@@ -62,7 +62,7 @@
             <td>3,888円（税込）</td>
             <td>90粒</td>
             <td>
-                <img alt="" src="./img/review_4.gif" />
+                <img alt="" src="./img/review_45.gif" />
             </td>
         </tr>
         <tr>
