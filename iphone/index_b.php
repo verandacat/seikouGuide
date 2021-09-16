@@ -23,7 +23,7 @@
 
             <h1 class="right">とお悩みの方へ</span></h1>
 
-            <h1 class="center">本当におすすめ！<br>厳選！体内フローラサプリ人気ランキングベスト４を大公開</span></h1>
+            <h1 class="center">本当におすすめ！<br>厳選！体内フローラサプリ人気ランキングベスト３を大公開</span></h1>
 
         </div>
         <!--.title-wrap end-->
@@ -98,30 +98,14 @@
                     <th>
                         <p>
                             <a class="link-img" target="_blank"
-                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/beqtto.php<?php echo "?" . $query2; ?>">
-                                <img src="./img/beqtto.jpg" alt="" />
+                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/llulu.php<?php echo "?" . $query2; ?>">
+                                <img src="./img/llulu.png" alt="" />
                             </a>
                         </p>
                         <p>
                             <span class="lbg">
                                 <a target="_blank"
-                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/beqtto.php<?php echo "?" . $query2; ?>">リキュット</a>
-                            </span>
-                        </p>
-                    </th>
-
-                    
-                    <th>
-                        <p>
-                            <a class="link-img" target="_blank"
-                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/eraberu.php<?php echo "?" . $query2; ?>">
-                                <img src="./img/eraberu.jpg" alt="" />
-                            </a>
-                        </p>
-                        <p>
-                            <span class="lbg">
-                                <a target="_blank"
-                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/eraberu.php<?php echo "?" . $query2; ?>">花菜の選べる乳酸菌</a>
+                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/llulu.php<?php echo "?" . $query2; ?>">ラクルル</a>
                             </span>
                         </p>
                     </th>
@@ -140,6 +124,22 @@
                             </span>
                         </p>
                     </th>
+                    
+                    <th>
+                        <p>
+                            <a class="link-img" target="_blank"
+                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/eraberu.php<?php echo "?" . $query2; ?>">
+                                <img src="./img/eraberu.jpg" alt="" />
+                            </a>
+                        </p>
+                        <p>
+                            <span class="lbg">
+                                <a target="_blank"
+                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/eraberu.php<?php echo "?" . $query2; ?>">花菜の選べる乳酸菌</a>
+                            </span>
+                        </p>
+                    </th>
+
 
 
 
@@ -220,32 +220,18 @@
                     
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>ラクリス‐S（有胞子性乳酸菌）、ナノ乳酸菌、酵素、抗酸菌など</p>
-                    </td>
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>短鎖脂肪酸、植物性乳酸菌、有胞子性乳酸菌、ナノ型乳酸菌</p>
+                        <p>スポルス、植物性ナノ型乳酸菌SNK、ヘルパー乳酸菌、オリゴ糖、ホリデキストロース</p>
                     </td>
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                         <p>ユーグレナ・ビフィズス菌B-3、酪酸菌など</p>
                     </td>
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>短鎖脂肪酸、植物性乳酸菌、有胞子性乳酸菌、ナノ型乳酸菌</p>
+                    </td>
+                    
 
-
-                    <!-- <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p>短鎖脂肪酸・ラクリス菌・EC-12・ナノ乳酸菌</p>
-
-                          </td>
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p>10種の乳酸菌・活性炭・238種の生酵素</p>
-                          </td>
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p>ラクトフェリン・ビフィズス菌・フェカリス菌・オリゴ糖</p>
-
-                          </td> -->
 
                 </tr>
 
@@ -281,29 +267,16 @@
                     </td>
 
                     <td>
-                        <p>・乳酸菌や酪酸菌だけでなくラクリス‐Sも摂取したい</p>
+                        <p>・菌活したい人</p>
                     </td>
-
                     <td>
                         <p>・実感力の高い菌を複数摂りたい</p>
                     </td>
-
                     <td>
                         <p>・一緒にユーグレナを摂りたい方</p>
                     </td>
 
-
-                    <!-- <td>
-                              <p>・手ごろな価格で体内フローラサプリを試したい・短鎖脂肪酸をダイレクトに摂りたい</p>
-                          </td>
-
-                          <td>
-                            <p>・体内環境整えるだけでなく、脂肪も燃焼させたい<br>・デブ菌を減らし、ヤセ菌を増やしたい</p>
-                          </td>
-
-                          <td>
-                            <p>・ラクトフェリンと乳酸菌を同時に摂りたい・多少高くてもしっかりと体内フローラを整えたい・シンプルな配合、お子様と一緒に健康になりたい</p>
-                          </td> -->
+                   
 
 
                 </tr>
@@ -319,41 +292,21 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>3,980円（税込）</p>
+                        <p>4,980円（税込）</p>
 
                     </td>
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+                        <p>3,960円（税込）</p>
 
+                    </td>
                     <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
                         <p>4,730円（税込）</p>
 
                     </td>
 
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>3,960円（税込）</p>
-
-                    </td>
-
-
-
-                    <!-- <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p>5,687円</p>
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                              <p>7,980円</p>
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                              <p>7,800円</p>
-
-                          </td> -->
+                   
 
 
                 </tr>
@@ -369,39 +322,21 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>定期初回価格500円（税込）</p>
-                    </td>
+                        <p>初回498円（税込）</p>
 
+                    </td>
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>初回465円（税込）</p>
+
+                    </td>
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>初回2,365円（税込）</p>
 
                     </td>
 
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回465円（税込）</p>
-
-                    </td>
-
-
-                    <!-- <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p>初回500円</p>
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                              <p>初回500円</p>
-
-                          </td>
-
-                          <td>
-                              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                              <p>780円</p>
-
-                          </td> -->
+                  
                 </tr>
 
 
@@ -417,7 +352,14 @@
 
                     <td style="width:28%">
                         <a target="_blank"
-                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/beqtto.php<?php echo "?" . $query2; ?>">
+                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/llulu.php<?php echo "?" . $query2; ?>">
+                            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+                        </a>
+                    </td>
+
+                    <td style="width:28%">
+                        <a target="_blank"
+                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/cubire.php<?php echo "?" . $query2; ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
@@ -428,27 +370,6 @@
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
-
-
-                    <td style="width:28%">
-                        <a target="_blank"
-                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/cubire.php<?php echo "?" . $query2; ?>">
-                            <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                        </a>
-                    </td>
-
-
-
-
-
-                    <!-- <td style="width:28%">
-                              <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/kuro.php<?php echo "?" . $query2; ?>">
-                                <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                              </a>
-                          </td> -->
-
-
-
                 </tr>
 
             </tbody>

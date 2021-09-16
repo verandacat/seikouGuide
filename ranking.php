@@ -1,562 +1,533 @@
 <div class="tab_container">
-    <!-- #tab1 中身-->
-    <div id="tab1" class="tab_content">
+  <!-- #tab1 中身-->
+  <div id="tab1" class="tab_content">
 
 
-        <!--
+    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab1 1位-->
-        <table class="r-table" cellspacing="0">
+    <table class="r-table" cellspacing="0">
 
-            <tbody>
+      <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_01.png" width="100" />
-                        </div>
+        <tr>
+          <th class="r-title" colspan="2">
+            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+              <img src="./img/n_img/badge_ranking_01.png" width="100" />
+            </div>
 
-                        <?php include "item/shibo.php"; ?>
+            <?php include "item/shibo.php"; ?>
 
 
 
-                        <!--
+            <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab1 2位-->
 
 
 
-        <table class="r-table" cellspacing="0">
+            <table class="r-table" cellspacing="0">
 
-            <tbody>
+              <tbody>
 
                 <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_02.png" width="100" />
-                        </div>
+                  <th class="r-title" colspan="2">
+                    <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                      <img src="./img/n_img/badge_ranking_02.png" width="100" />
+                    </div>
 
-                        <?php include "item/wild.php"; ?>
+                    <?php include "item/wild.php"; ?>
 
 
 
-                                        <!--
+                    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab1 3位-->
 
-        <table class="r-table" cellspacing="0">
+                    <table class="r-table" cellspacing="0">
 
-            <tbody>
+                      <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge"
-                            style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_03.png" width="100" />
-                        </div>
+                        <tr>
+                          <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                              <img src="./img/n_img/badge_ranking_03.png" width="100" />
+                            </div>
 
-                        <?php include "item/slilin.php"; ?>
-
-
-
-    </div>
+                            <?php include "item/slilin.php"; ?>
 
 
 
-    <!-- #tab2 中身-->
-    <div id="tab2" class="tab_content">
+  </div>
 
-        <!--
+
+
+  <!-- #tab2 中身-->
+  <div id="tab2" class="tab_content">
+
+    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab2 1位-->
 
-        <table class="r-table" cellspacing="0">
-            <tbody>
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_01.png" width="100" />
-                        </div>
+    <table class="r-table" cellspacing="0">
+      <tbody>
+        <tr>
+          <th class="r-title" colspan="2">
+            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+              <img src="./img/n_img/badge_ranking_01.png" width="100" />
+            </div>
 
-                        <?php include 'item/beqtto.php'; ?>
+            <?php include 'item/lakururu.php'; ?>
 
 
-                        <!--
+             <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab2 2位-->
 
-                        <table class="r-table" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <th class="r-title" colspan="2">
-                                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                            <img src="./img/n_img/badge_ranking_02.png" width="100" />
-                                        </div>
+                    <table class="r-table" cellspacing="0">
+                      <tbody>
+                        <tr>
+                          <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                              <img src="./img/n_img/badge_ranking_03.png" width="100" />
+                            </div>
 
-                                        <?php include 'item/eraberu.php'; ?>
+                            <?php include 'item/cubire.php'; ?>
 
-
-                                        <!--
+            <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab2 3位-->
 
-                                        <table class="r-table" cellspacing="0">
-                                            <tbody>
-                                                <tr>
-                                                    <th class="r-title" colspan="2">
-                                                        <div class="img-center badge"
-                                                            style="position: absolute; top:10px; left:10px;">
-                                                            <img src="./img/n_img/badge_ranking_03.png" width="100" />
-                                                        </div>
+        <table class="r-table" cellspacing="0">
+              <tbody>
+                <tr>
+                  <th class="r-title" colspan="2">
+                    <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                      <img src="./img/n_img/badge_ranking_03.png" width="100" />
+                    </div>
 
-                                                        <?php include 'item/cubire.php'; ?>
+                    <?php include 'item/eraberu.php'; ?>
 
-                                                        <!--
-        ★★★★★★★★★★★★★★★★★★★★★★★★★★
-        #tab2 4位-->
 
-                                                        <table class="r-table" cellspacing="0">
-                                                            <tbody>
-                                                                <tr>
-                                                                    <th class="r-title" colspan="2">
-                                                                        <div class="img-center badge"
-                                                                            style="position: absolute; top:10px; left:10px;">
-                                                                            <img src="./img/n_img/badge_ranking_04.png"
-                                                                                width="100" />
-                                                                        </div>
 
-                                                                        <?php include 'item/lakururu.php'; ?>
+  </div>
+  <!--#tab2 end-->
 
 
 
 
+  <!-- #tab3 中身 -->
+  <div id="tab3" class="tab_content">
 
-    </div>
-    <!--#tab2 end-->
-
-
-
-
-    <!-- #tab3 中身 -->
-    <div id="tab3" class="tab_content">
-
-        <!--
+    <!--
                   ★★★★★★★★★★★★★★★★★★★★★★★★★★
                   #tab3 1位-->
 
-        <table class="r-table" cellspacing="0">
+    <table class="r-table" cellspacing="0">
 
-            <tbody>
+      <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_01.png" width="100" />
-                        </div>
+        <tr>
+          <th class="r-title" colspan="2">
+            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+              <img src="./img/n_img/badge_ranking_01.png" width="100" />
+            </div>
 
-                        <?php include "item/shibo.php"; ?>
+            <?php include "item/shibo.php"; ?>
 
 
-                        <!--
+            <!--
                   ★★★★★★★★★★★★★★★★★★★★★★★★★★
                   #tab3 2位-->
 
 
-                        <table class="r-table" cellspacing="0">
+            <table class="r-table" cellspacing="0">
 
-                            <tbody>
+              <tbody>
 
-                                <tr>
-                                    <th class="r-title" colspan="2">
-                                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                            <img src="./img/n_img/badge_ranking_02.png" width="100" />
-                                        </div>
+                <tr>
+                  <th class="r-title" colspan="2">
+                    <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                      <img src="./img/n_img/badge_ranking_02.png" width="100" />
+                    </div>
 
-                                        <?php include "item/wild.php"; ?>
+                    <?php include "item/wild.php"; ?>
 
 
 
-                                        <!--
+                    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab3 3位-->
 
-    <table class="r-table" cellspacing="0">
+                    <table class="r-table" cellspacing="0">
 
-        <tbody>
+                      <tbody>
 
-            <tr>
-                <th class="r-title" colspan="2">
-                    <div class="img-center badge"
-                        style="position: absolute; top:10px; left:10px;">
-                        <img src="./img/n_img/badge_ranking_03.png" width="100" />
-                    </div>
+                        <tr>
+                          <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                              <img src="./img/n_img/badge_ranking_03.png" width="100" />
+                            </div>
 
-                    <?php include "item/slilin.php"; ?>
-
-    
-    </div>
-
-    <!--#tab3 end-->
+                            <?php include "item/slilin.php"; ?>
 
 
-    <!-- #tab4 中身 -->
-    <div id="tab4" class="tab_content">
+  </div>
 
-        <!--
+  <!--#tab3 end-->
+
+
+  <!-- #tab4 中身 -->
+  <div id="tab4" class="tab_content">
+
+    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab4 1位-->
 
 
-        <table class="r-table" cellspacing="0">
+    <table class="r-table" cellspacing="0">
 
-            <tbody>
+      <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_01.png" width="100" />
-                        </div>
+        <tr>
+          <th class="r-title" colspan="2">
+            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+              <img src="./img/n_img/badge_ranking_01.png" width="100" />
+            </div>
 
-                        <?php include "item/tablet-k.php"; ?>
+            <?php include "item/tablet-k.php"; ?>
 
 
 
-                        <!--
+            <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab4 2位-->
 
 
-        <table class="r-table" cellspacing="0">
+            <table class="r-table" cellspacing="0">
 
-            <tbody>
+              <tbody>
 
                 <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_02.png" width="100" />
-                        </div>
+                  <th class="r-title" colspan="2">
+                    <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                      <img src="./img/n_img/badge_ranking_02.png" width="100" />
+                    </div>
 
-                        <?php include "item/tablet-s.php"; ?>
-
-
+                    <?php include "item/tablet-s.php"; ?>
 
 
-                                        <!--
+
+
+                    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab4 3位-->
 
 
-        <table class="r-table" cellspacing="0">
+                    <table class="r-table" cellspacing="0">
 
-            <tbody>
+                      <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge"
-                            style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_03.png" width="100" />
-                        </div>
+                        <tr>
+                          <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                              <img src="./img/n_img/badge_ranking_03.png" width="100" />
+                            </div>
 
-                        <?php include "item/slilin.php"; ?>
+                            <?php include "item/slilin.php"; ?>
 
 
-        <!--
+                            <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab4 4位-->
 
-        <table class="r-table" cellspacing="0">
+                            <table class="r-table" cellspacing="0">
 
-            <tbody>
+                              <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge"
-                            style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_04.png"
-                                width="100" />
-                        </div>
+                                <tr>
+                                  <th class="r-title" colspan="2">
+                                    <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                                      <img src="./img/n_img/badge_ranking_04.png" width="100" />
+                                    </div>
 
-                        <?php include "item/easytablet.php"; ?>
+                                    <?php include "item/easytablet.php"; ?>
 
-    </div>
-    <!--#tab4 end-->
+  </div>
+  <!--#tab4 end-->
 
 
 
-    <!-- #tab5 中身 -->
-    <div id="tab5" class="tab_content">
+  <!-- #tab5 中身 -->
+  <div id="tab5" class="tab_content">
 
-        <!--
+    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab5 1位-->
-        <table class="r-table" cellspacing="0">
-            <tbody>
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_01.png" width="100" />
-                        </div>
+    <table class="r-table" cellspacing="0">
+      <tbody>
+        <tr>
+          <th class="r-title" colspan="2">
+            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+              <img src="./img/n_img/badge_ranking_01.png" width="100" />
+            </div>
 
-                        <?php include 'item/syunno.php'; ?>
+            <?php include 'item/syunno.php'; ?>
 
 
-                        <!--
+            <!--
                   ★★★★★★★★★★★★★★★★★★★★★★★★★★
                   #tab5 2位-->
 
-                        <table class="r-table" cellspacing="0">
+            <table class="r-table" cellspacing="0">
 
-                            <tbody>
+              <tbody>
 
-                                <tr>
-                                    <th class="r-title" colspan="2">
-                                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                            <img src="./img/n_img/badge_ranking_02.png" width="100" />
-                                        </div>
+                <tr>
+                  <th class="r-title" colspan="2">
+                    <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                      <img src="./img/n_img/badge_ranking_02.png" width="100" />
+                    </div>
 
-                                        <?php include "item/beltacouji.php"; ?>
-
-
+                    <?php include "item/beltacouji.php"; ?>
 
 
 
-                                        <!--
+
+
+                    <!--
                   ★★★★★★★★★★★★★★★★★★★★★★★★★★
                   #tab5 3位-->
 
-                                        <table class="r-table" cellspacing="0">
+                    <table class="r-table" cellspacing="0">
 
-                                            <tbody>
+                      <tbody>
 
-                                                <tr>
-                                                    <th class="r-title" colspan="2">
-                                                        <div class="img-center badge"
-                                                            style="position: absolute; top:10px; left:10px;">
-                                                            <img src="./img/n_img/badge_ranking_03.png" width="100" />
-                                                        </div>
+                        <tr>
+                          <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                              <img src="./img/n_img/badge_ranking_03.png" width="100" />
+                            </div>
 
-                                                        <?php include "item/yokubari.php"; ?>
+                            <?php include "item/yokubari.php"; ?>
 
-    </div>
-    <!--#tab5 end-->
-
+  </div>
+  <!--#tab5 end-->
 
 
 
 
-    <!-- #tab6 中身 -->
-    <div id="tab6" class="tab_content">
-        <!--
+
+  <!-- #tab6 中身 -->
+  <div id="tab6" class="tab_content">
+    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab6 1位-->
 
-        <table class="r-table" cellspacing="0">
+    <table class="r-table" cellspacing="0">
 
-            <tbody>
+      <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_01.png" width="100" />
-                        </div>
+        <tr>
+          <th class="r-title" colspan="2">
+            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+              <img src="./img/n_img/badge_ranking_01.png" width="100" />
+            </div>
 
-                        <?php include "item/shibogoldsmoothie.php"; ?>
+            <?php include "item/shibogoldsmoothie.php"; ?>
 
 
 
-        <!--
+            <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab6 2位-->
 
-        <table class="r-table" cellspacing="0">
+            <table class="r-table" cellspacing="0">
 
-            <tbody>
+              <tbody>
 
                 <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_02.png" width="100" />
-                        </div>
+                  <th class="r-title" colspan="2">
+                    <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                      <img src="./img/n_img/badge_ranking_02.png" width="100" />
+                    </div>
 
-                        <?php include "item/dark.php"; ?>
+                    <?php include "item/dark.php"; ?>
 
 
-        <!--
+                    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab6 3位-->
 
-        <table class="r-table" cellspacing="0">
+                    <table class="r-table" cellspacing="0">
 
-            <tbody>
+                      <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge"
-                            style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_03.png" width="100" />
-                        </div>
+                        <tr>
+                          <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                              <img src="./img/n_img/badge_ranking_03.png" width="100" />
+                            </div>
 
-                        <?php include "item/yuukou.php"; ?>
+                            <?php include "item/yuukou.php"; ?>
 
 
-        <!--
+                            <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab6 4位-->
 
-        <table class="r-table" cellspacing="0">
+                            <table class="r-table" cellspacing="0">
 
-            <tbody>
+                              <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge"
-                            style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_04.png" width="100" />
-                        </div>
+                                <tr>
+                                  <th class="r-title" colspan="2">
+                                    <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                                      <img src="./img/n_img/badge_ranking_04.png" width="100" />
+                                    </div>
 
-                        <?php include "item/oneday.php"; ?>
+                                    <?php include "item/oneday.php"; ?>
 
 
-        <!--
+                                    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab6 5位-->
 
-        <table class="r-table" cellspacing="0">
+                                    <table class="r-table" cellspacing="0">
 
-            <tbody>
+                                      <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge"
-                            style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_05.png" width="100" />
-                        </div>
+                                        <tr>
+                                          <th class="r-title" colspan="2">
+                                            <div class="img-center badge"
+                                              style="position: absolute; top:10px; left:10px;">
+                                              <img src="./img/n_img/badge_ranking_05.png" width="100" />
+                                            </div>
 
-                        <?php include "item/easyb.php"; ?>
-
-
-
-    </div>
-    <!--#tab6 end-->
+                                            <?php include "item/easyb.php"; ?>
 
 
 
+  </div>
+  <!--#tab6 end-->
 
-    <!-- #tab7 中身 -->
-    <div id="tab7" class="tab_content">
 
 
-        <!--
+
+  <!-- #tab7 中身 -->
+  <div id="tab7" class="tab_content">
+
+
+    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab7 1位-->
 
-        <table class="r-table" cellspacing="0">
+    <table class="r-table" cellspacing="0">
 
-            <tbody>
+      <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_01.png" width="100" />
-                        </div>
+        <tr>
+          <th class="r-title" colspan="2">
+            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+              <img src="./img/n_img/badge_ranking_01.png" width="100" />
+            </div>
 
-                        <?php include "item/shibogoldsmoothie.php"; ?>
-
-
+            <?php include "item/shibogoldsmoothie.php"; ?>
 
 
-                        <!--
+
+
+            <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab7 2位-->
 
-                        <table class="r-table" cellspacing="0">
+            <table class="r-table" cellspacing="0">
 
-                            <tbody>
+              <tbody>
 
-                                <tr>
-                                    <th class="r-title" colspan="2">
-                                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                            <img src="./img/n_img/badge_ranking_02.png" width="100" />
-                                        </div>
+                <tr>
+                  <th class="r-title" colspan="2">
+                    <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                      <img src="./img/n_img/badge_ranking_02.png" width="100" />
+                    </div>
 
-                                        <?php include "item/easyb.php"; ?>
+                    <?php include "item/easyb.php"; ?>
 
 
-                                        <!--
+                    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab7 3位-->
 
-                                        <table class="r-table" cellspacing="0">
+                    <table class="r-table" cellspacing="0">
 
-                                            <tbody>
+                      <tbody>
 
-                                                <tr>
-                                                    <th class="r-title" colspan="2">
-                                                        <div class="img-center badge"
-                                                            style="position: absolute; top:10px; left:10px;">
-                                                            <img src="./img/n_img/badge_ranking_03.png" width="100" />
-                                                        </div>
+                        <tr>
+                          <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                              <img src="./img/n_img/badge_ranking_03.png" width="100" />
+                            </div>
 
-                                                        <?php include "item/oneday.php"; ?>
-
-
-    </div>
-    <!--#tab7 end-->
+                            <?php include "item/oneday.php"; ?>
 
 
-
-    <!-- #tab8 中身 -->
-    <div id="tab8" class="tab_content">
+  </div>
+  <!--#tab7 end-->
 
 
 
-        <!--★★★★★★★★★★★★★★★★★★★★★★★★★★
+  <!-- #tab8 中身 -->
+  <div id="tab8" class="tab_content">
+
+
+
+    <!--★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab8 1位-->
 
-        <table class="r-table" cellspacing="0">
+    <table class="r-table" cellspacing="0">
 
-            <tbody>
+      <tbody>
 
-                <tr>
-                    <th class="r-title" colspan="2">
+        <tr>
+          <th class="r-title" colspan="2">
 
-                        <?php include "item/bouhu.php"; ?>
-
-
+            <?php include "item/bouhu.php"; ?>
 
 
-                        <!--
+
+
+            <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab8 2位-->
 
-                        <table class="r-table" cellspacing="0">
+            <table class="r-table" cellspacing="0">
 
-                            <tbody>
+              <tbody>
 
-                                <tr>
-                                    <th class="r-title" colspan="2">
-                                       
-
-                                        <?php include "item/eg.php"; ?>
+                <tr>
+                  <th class="r-title" colspan="2">
 
 
-                                        <!--
+                    <?php include "item/eg.php"; ?>
+
+
+                    <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab8 3位-->
 
-                                        <table class="r-table" cellspacing="0">
+                    <table class="r-table" cellspacing="0">
 
-                                            <tbody>
+                      <tbody>
 
-                                                <tr>
-                                                    <th class="r-title" colspan="2">
-                                                       
-
-                                                        <?php include "item/teishi.php"; ?>
+                        <tr>
+                          <th class="r-title" colspan="2">
 
 
-    </div>
-    <!--#tab8 end-->
+                            <?php include "item/teishi.php"; ?>
+
+
+  </div>
+  <!--#tab8 end-->
 
 
 </div>

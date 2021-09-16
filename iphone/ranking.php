@@ -70,23 +70,24 @@
         <!-- #tab2 中身-->
         <div id="tab2" class="swiper-slide">
 
-                       <!--
+
+            <!--
             ★★★★★★★★★★★★★★★★★★★★★★★★★★
             #tab2 1位-->
-             <table class="r-table" cellspacing="0">
 
-                  <tbody>
+            <table class="r-table" cellspacing="0">
+
+                <tbody>
 
                     <tr>
-                      <th class="r-title" colspan="2">
-                      <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
-                          <img src="./img/n_img/badge_ranking_01.png" width="70" />
-                        </div>
+                        <th class="r-title" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                                <img src="./img/n_img/badge_ranking_01.png" width="70" />
+                            </div>
 
-                       <?php include 'item/beqtto.php'; ?>
+                            <?php include 'item/lakururu.php'; ?>
 
-
-              <!--
+            <!--
             ★★★★★★★★★★★★★★★★★★★★★★★★★★
             #tab2 2位-->
 
@@ -100,16 +101,11 @@
                                 <img src="./img/n_img/badge_ranking_02.png" width="70" />
                             </div>
 
-                            <?php include 'item/eraberu.php'; ?>
+                            <?php include 'item/cubire.php'; ?>
 
-
-
-
-            <!--
+              <!--
             ★★★★★★★★★★★★★★★★★★★★★★★★★★
             #tab2 3位-->
-
-
 
             <table class="r-table" cellspacing="0">
 
@@ -121,30 +117,7 @@
                                 <img src="./img/n_img/badge_ranking_03.png" width="70" />
                             </div>
 
-                            <?php include 'item/cubire.php'; ?>
-
-
-
-
-
-
-            <!--
-            ★★★★★★★★★★★★★★★★★★★★★★★★★★
-            #tab2 4位-->
-
-            <table class="r-table" cellspacing="0">
-
-                <tbody>
-
-                    <tr>
-                        <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
-                                <img src="./img/n_img/badge_ranking_04.png" width="70" />
-                            </div>
-
-                            <?php include 'item/lakururu.php'; ?>
-
-
+                            <?php include 'item/eraberu.php'; ?>
 
         </div>
         <!--#tab2 end-->
