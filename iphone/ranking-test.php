@@ -36,7 +36,7 @@
 
                 <tr>
                     <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                        <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                             <img src="./img/n_img/badge_ranking_02.png" width="70" />
                         </div>
                         <?php include "item/wild.php"; ?>     
@@ -55,7 +55,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_03.png" width="70" />
                             </div>
                             <?php include "item/slilinF.php"; ?>
@@ -71,7 +71,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_04.png" width="70" />
                             </div>
                             <?php include "item/osaeru.php"; ?>
@@ -86,7 +86,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_05.png" width="70" />
                             </div>
                             <?php include "item/slilin.php"; ?>
@@ -111,7 +111,7 @@
 
                     <tr>
                       <th class="r-title" colspan="2">
-                      <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                      <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                           <img src="./img/n_img/badge_ranking_01.png" width="70" />
                         </div>
 
@@ -128,7 +128,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_02.png" width="70" />
                             </div>
 
@@ -149,7 +149,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_03.png" width="70" />
                             </div>
 
@@ -170,7 +170,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_04.png" width="70" />
                             </div>
 
@@ -197,7 +197,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_01.png" width="70" />
                             </div>
 
@@ -214,7 +214,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_02.png" width="70" />
                             </div>
 
@@ -232,7 +232,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_03.png" width="70" />
                             </div>
 
@@ -248,7 +248,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_04.png" width="70" />
                             </div>
 
@@ -264,7 +264,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_05.png" width="70" />
                             </div>
 
@@ -293,7 +293,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_01.png" width="70" />
                             </div>
 
@@ -310,7 +310,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_02.png" width="70" />
                             </div>
 
@@ -327,7 +327,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_03.png" width="70" />
                             </div>
 
@@ -344,7 +344,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_04.png" width="70" />
                             </div>
 
@@ -361,7 +361,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_05.png" width="70" />
                             </div>
 
@@ -387,7 +387,7 @@
 
                 <tr>
                     <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                        <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                             <img src="./img/n_img/badge_ranking_01.png" width="70" />
                         </div>
 
@@ -404,7 +404,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_02.png" width="70" />
                             </div>
 
@@ -421,7 +421,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_03.png" width="70" />
                             </div>
 
@@ -445,7 +445,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_01.png" width="70" />
                             </div>
 
@@ -463,7 +463,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_02.png" width="70" />
                             </div>
 
@@ -479,7 +479,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_03.png" width="70" />
                             </div>
 
@@ -496,7 +496,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_04.png" width="70" />
                             </div>
 
@@ -512,7 +512,7 @@
 
                     <tr>
                         <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:-10px; left:2px;">
+                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
                                 <img src="./img/n_img/badge_ranking_05.png" width="70" />
                             </div>
 

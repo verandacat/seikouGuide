@@ -781,7 +781,8 @@ span.underline {
     <!-- <script src="https://code.jquery.com/jquery-1.11.3.js"></script> -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
+    <script src="swiper.min.js"></script>
+
 
     <!-- Initialize Swiper -->
     <script>
