@@ -945,7 +945,35 @@ sup {
     font-size: 0.9em;
 }
 
+/* footer-new */
 
+.content-menu {
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+} 
+.content-menu ul {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background: #fc4a1a;
+    background: -webkit-linear-gradient( to bottom, #fa6615, #fc4a1a);
+    background: linear-gradient( to bottom, #fa6615, #fc4a1a);
+    padding: 10px;
+}
+.content-menu ul li {
+    margin: 10px 10px 10px 0;
+    width: 45%;
+}
+.content-menu ul li a {
+    color: white;
+    font-weight: bold;
+}
+.content-menu ul li a:before {
+    display: inline-block;
+    content: "▶";
+    margin-right: 10px;
+}
 /* Countdown */
 
 #countdown_bx {

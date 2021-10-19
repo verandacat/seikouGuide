@@ -178,11 +178,12 @@ table.r-r-table td {
     clear: both;
     position: relative;
     right: -5px;
-    bottom: -10px;
+    bottom: -150px;
     z-index: 5;
 }
+
 #pagetop a {
-    background-image: url("img/pagetop_button.png");
+    background-image: url(img/pagetop_button.png);
     background-position: center top;
     background-repeat: no-repeat;
     display: block;
@@ -720,6 +721,35 @@ footer {
     font-size: 0.8em;
 }
 
+/* new-footer */
+
+.content-menu {
+    background: #fc4a1a;
+    background: -webkit-linear-gradient(to bottom, #fa6615, #fc4a1a);
+    background: linear-gradient(to bottom, #fa6615, #fc4a1a);
+}
+.content-menu ul {
+    text-align: center;
+    font-size: 0.8em;
+}
+.content-menu ul li {
+    display: inline-block;
+    margin: 20px;
+}
+.content-menu ul li a {
+    text-decoration: none;
+    color: #fafafa;
+}
+
+.content-menu ul li:after {
+    display: inline-block;
+    content: "|";
+    margin-left: 30px;
+    color: #fafafa;
+}
+.content-menu ul li:last-child:after {
+    content: "";
+}
 
 /* Countdown */
 #countdown_bx {
