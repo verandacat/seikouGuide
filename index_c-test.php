@@ -356,14 +356,14 @@
 
     <h1 class="midashi">燃焼対策サプリ選びで失敗しないための５つのポイント</h1>
 
-    <!-- <div class="txt-wrap center">
+    <div class="txt-wrap center">
 
-      <p>特に最近は詐欺まがいの悪徳サプリもたくさん流通しており<br><span class="bold">「高いお金を払ったのに、全く効果がなかった」
-          「それどころか、体調まで悪くした」</span>なんてことも。。</p><br>
+      <!-- <p>特に最近は詐欺まがいの悪徳サプリもたくさん流通しており<br><span class="bold">「高いお金を払ったのに、全く効果がなかった」
+          「それどころか、体調まで悪くした」</span>なんてことも。。</p><br> -->
 
       <p>そこで、正しい選び方のポイントをまとめました。</p>
 
-    </div> -->
+    </div>
     <!--.txt-wrap .center end-->
 
     <ol class="point-list">

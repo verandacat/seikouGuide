@@ -40,17 +40,18 @@
 
 <div class="r-txtbox">
   <p><span class="bold">おなかまわりの体脂肪、ウエストサイズ、体重が気になる</span>方にオススメ！
-    配合されている「葛の花由来イソフラボン（テクトリゲニン類として）」は<span class="red">「肥満気味<small>※1</small>な方のおなかの脂肪や体重の低減作用」</span>があると研究レビューで報告されています。
+    配合されている「葛の花由来イソフラボン（テクトリゲニン類として）」は<span class="red">「肥満気味<sup>※1</sup>な方のおなかの脂肪や体重の低減作用」</span>があると研究レビューで報告されています。
     <br><br>
-    <span class="red">初回限定で540円（税込）＋送料無料！</span>この値段で30日分<small>※2</small>なのでかなりお得です！
+    <span class="red">初回限定で540円（税込）＋送料無料！</span>この値段で30日分<sup>※2</sup>なのでかなりお得です！
     いつでもおやすみできるので、ライフスタイルにあわせやすいです♪
     <br><br>
     おなかまわりの脂肪が気になっている方はぜひ試してみてくださいね♪
   </p>
-  <p>
-    <small>※1肥満気味＝BMI25以上30未満</small>
-    <small>※2摂取目安量：1日3粒</small>
-  </p>
+  <div class="meta-notes">
+      <small>※1 肥満気味＝BMI25以上30未満</small>
+      <small>※2 摂取目安量：1日3粒</small>
+  </div>
+    
 
   <a target="_blank" href="./links/onaka.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
     <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
