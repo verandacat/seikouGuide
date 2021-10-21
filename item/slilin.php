@@ -74,8 +74,10 @@
                     <td>定期初回500円 (税込) 定期 7,980円(税込)</td>
                     <td>28粒（1袋）</td>
                     <td>
-                    <?php if($_GET['pat'] == "c" || $_GET['pat'] == "d") : ?>
+                        <?php if($_GET['pat'] == "c" || $_GET['pat'] == "d") : ?>
                             <img alt="" src="./img/review_45.gif" />
+                        <?php elseif ($_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
+                            <img alt="" src="./img/review_3.gif" />
                         <?php else : ?>
                             <img alt="" src="./img/review_35.gif" />
                         <?php endif; ?>

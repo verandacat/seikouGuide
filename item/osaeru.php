@@ -67,10 +67,10 @@
       <td>定期初回980円（税込）<br>定期2回目以降3,980円（税込）<br>通常4,600円（税込）</td>
       <td>定期初回56粒（14日分）/ 定期2回目以降120粒（30日分）</td>
       <td>
-        <?php if($_GET['pat']=='a') : ?>
+        <?php if ($_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
         <img alt="" src="./img/review_35.gif" />
-        <?php else : ?>
-        <img alt="" src="./img/review_45.gif" />
+        <?php elseif ($_SERVER['REQUEST_URI']=="/index_d-test.php") : ?>
+        <img alt="" src="./img/review_4.gif" />
         <?php endif; ?>
       </td>
     </tr>

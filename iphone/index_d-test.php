@@ -171,7 +171,7 @@
 
                     <td>
                         <p>
-                            <img src="./img/review_45.gif" alt="" />
+                            <img src="./img/review_4.gif" alt="" />
                         </p>
 
                         <p class="f-13">4.4/5.0</p>

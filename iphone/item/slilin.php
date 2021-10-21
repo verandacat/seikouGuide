@@ -77,6 +77,8 @@
                         <td>
                         <?php if($_GET['pat'] == "c" || $_GET['pat'] == "d") : ?>
                             <img alt="" src="./img/review_45.gif" />
+                        <?php elseif ($_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
+                            <img alt="" src="./img/review_3.gif" />
                         <?php else : ?>
                             <img alt="" src="./img/review_35.gif" />
                         <?php endif; ?>

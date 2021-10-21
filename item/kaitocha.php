@@ -66,7 +66,7 @@
       <td>定期初回1,000円（税込）<br>定期2回目以降4,980円（税込）</td>
       <td>定期初回14袋（14日分）定期2回目以降30袋（30日分）</td>
       <td>
-        <img alt="" src="./img/review_35.gif" />
+        <img alt="" src="./img/review_3.gif" />
       </td>
     </tr>
     <tr>

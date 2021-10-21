@@ -75,7 +75,11 @@
         <td>980円（初回税込）定期: 3,808円（税込）</td>
         <td>60粒（1ヶ月分）</td>
         <td>
+            <?php if ($_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
+            <img alt="" src="./img/review_45.gif" />
+            <?php else : ?>
             <img alt="" src="./img/review_4.gif" />
+            <?php endif; ?>
         </td>
     </tr>
     <tr>
