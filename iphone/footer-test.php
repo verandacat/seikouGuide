@@ -40,9 +40,9 @@
 
 <footer>
     <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d") : ?>
-    Copyright (C) 2019 <br>成功ガイド All Rights Reserved.
+    Copyright (C) <?php echo date('Y'); ?> <br>成功ガイド All Rights Reserved.
     <?php else :?>
-    Copyright (C) 2019 <br>ダイエット成功ガイド All Rights Reserved.
+    Copyright (C) <?php echo date('Y'); ?> <br>ダイエット成功ガイド All Rights Reserved.
     <?php endif; ?>
     
     <script type="text/javascript">

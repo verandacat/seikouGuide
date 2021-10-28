@@ -408,51 +408,51 @@
 
     <!----------------------------RANKING-------------------------->
 
-    <!-- <section id="section-045">
-        <?php // include 'pickup.php'; ?>
-    </section> -->
+    <section id="section-05">
 
 
-
-    <!-- <section id="section-05">
-
-
-    <img src="./img/n_img/last_banner.png" alt="" width="100%">
+        <img src="./img/n_img/last_banner.png" alt="" width="100%">
 
 
-    <div class="last-container">
+        <div class="last-container">
 
 
-      <div class="last-txt bg-wh border-r">
+            <div class="last-txt bg-wh border-r">
 
-        <p>当サイトでご紹介しているダイエッターサポートサプリは、効果はもちろんですが、
-          <span class="bold">できるかぎり多くの「スリムになりたい」「毎朝すっきりしたい」とお悩みの方に試していただきたい</span>という気持ちから、
-          <span class="bold red">お得に試せるかどうか</span>、という点も重要視して選ばせていただきました。</p><br>
 
-        <p>体内フローラサプリランキング第１位の<span class="bold">Lakubi</span>は今なら
-          <span class="bold blue">初回５００円モニター募集中！</span>なんと、 １日わずか１０円 で試すことが出来ちゃいます。</p><br>
+                <p>当サイトでご紹介している燃焼サプリは、効果はもちろんですが、
 
-        <p>このめっちゃお得な特別オファーは、 <span class="bold">今だけの特別オファーなのですぐに募集が終了してしまう可能性が高い</span>です。</p><br>
+                    <span class="bold">できるかぎり多くの「スリムになりたい」とお悩みの方に試していただきたい</span>という気持ちから、
 
-        <p>さらに、<span class="bold red">今だけAmazonギフト券（５００円分）応募券付き！</span> 試してみようとお考えの方は、
-          <span class="bold red">お得な特別オファーが終了する前に手に入れてくださいね！</span></p><br>
+                    <span class="bold red">お得に試せるかどうか</span>、という点も重要視して選ばせていただきました。</p><br>
 
-        <div class="center">
-          <img src="./img/l-laku.png" width="550">
+                <p>総合人気ランキング第１位の<span class="bold">シボヘール</span>は今なら <span class="bold blue">初回980円モニター募集中！</span>
+                    なんと、 <span class="bold red">１日わずか３２円 </span>で試すことが出来ちゃいます。</p><br>
+
+                <p>しかも、契約の回数しばりなどはなく、<span class="bold">１回きりでの購入でも大丈夫</span>なんです！</p><br>
+
+                <p>このお得なモニター募集は、 <span class="bold">すぐに募集が終了してしまう可能性が高い</span>です。</p><br>
+
+                <p>試してみようとお考えの方は、<span class="bold red"> 終了する前に手に入れてくださいね！</span></p>
+
+                <div class="center">
+                    <img src="./img/n_img/item-a.png" width="350">
+                </div>
+
+                <a target="_blank"
+                    href="./links/sibo.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>"
+                    target="_blank">
+                    <img alt="" src="./img/n_img/btn_site_go_last_s.png" width="100%" />
+                </a>
+
+
+            </div>
+
         </div>
 
-        <a target="_blank" href="./links/lakubi_plus.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>" target="_blank">
-          <img alt="" src="./img/n_img/btn_site_go_last_l.png" width="100%" />
-        </a>
 
 
-      </div>
-
-    </div>
-
-
-
-  </section> -->
+    </section>
 
 
 
