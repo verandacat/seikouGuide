@@ -87,7 +87,11 @@
     <p>当サイトでは、上記ポイントを元にサプリを徹底的に調査しました！</p>
     <?php endif; ?>
 
+    <?php if($_SERVER['REQUEST_URI'] == "/index_a-test.php") : ?>
+    <p>本当におすすめのダイエタリーライフサポートサプリ5選をご紹介します！！</p>
+    <?php else : ?>
     <p>ランキング形式で発表します！！</p>
+    <?php endif; ?>
 
     <?php endif; ?>
 

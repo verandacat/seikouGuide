@@ -46,7 +46,7 @@
     <br><br>
     試験によると、<span class="bold">食後の中性脂肪と血糖値の上昇を抑制、さらに糖と脂肪のブロック効果の試験でも、有名成分に軒並み圧勝</span>という結果が得られました。
     <br><br>
-    肥満気味な方や、内臓脂肪とBMIが気になる方にオススメです！<br>
+    肥満気味な方や、内臓脂肪やBMIを減らすのを助ける！<br>
     <span class="red">喜びの声も続々</span>届いており、1日1回食前に4粒でOKの新習慣をぜひ試してみませんか？
   </p>
 
@@ -61,17 +61,19 @@
     <tr>
       <th>価格</th>
       <th>容量</th>
-      <th>ユーザー評価</th>
+      <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
+        <th>おすすめ度</th>
+        <?php else : ?>
+        <th>ユーザー評価</th>
+        <?php endif; ?>
+
     </tr>
     <tr>
       <td>定期初回980円（税込）<br>定期2回目以降3,980円（税込）<br>通常4,600円（税込）</td>
       <td>定期初回56粒（14日分）/ 定期2回目以降120粒（30日分）</td>
       <td>
-        <?php if ($_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
-        <img alt="" src="./img/review_35.gif" />
-        <?php elseif ($_SERVER['REQUEST_URI']=="/index_d-test.php") : ?>
         <img alt="" src="./img/review_4.gif" />
-        <?php endif; ?>
+     
       </td>
     </tr>
     <tr>

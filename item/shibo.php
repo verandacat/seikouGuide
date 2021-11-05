@@ -82,7 +82,12 @@
                 <tr>
                     <th>価格</th>
                     <th>容量</th>
+                    <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
+                    <th>おすすめ度</th>
+                    <?php else : ?>
                     <th>ユーザー評価</th>
+                    <?php endif; ?>
+
                 </tr>
                 <tr>
                     <td>2,808円(税込)</td>

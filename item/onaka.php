@@ -64,13 +64,18 @@
     <tr>
       <th>価格</th>
       <th>容量</th>
-      <th>ユーザー評価</th>
+      <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
+        <th>おすすめ度</th>
+        <?php else : ?>
+        <th>ユーザー評価</th>
+      <?php endif; ?>
+
     </tr>
     <tr>
       <td>定期初回540円（税込）<br>定期2回目以降3,402円（税込）<br>通常価格3,780円（税込）</td>
       <td>90粒（30日分）</td>
       <td>
-        <img alt="" src="./img/review_4.gif" />
+        <img alt="" src="./img/review_45.gif" />
       </td>
     </tr>
     <tr>

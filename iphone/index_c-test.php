@@ -22,7 +22,7 @@
 
       <h1 class="right">とお悩みの方へ</span></h1><br>
 
-      <h1>本当におすすめ！<br>厳選！脂肪対策サプリランキング<br>ベスト５を大公開！</span></h1>
+      <h1>本当におすすめ！<br>厳選！脂肪対策サプリ5選！</h1>
 
     </div>
     <!--.title-wrap end-->
@@ -36,7 +36,7 @@
 
       <p>「本当におすすめのサプリが知りたい」とお考えの方は是非参考にしてみてください。</p><br>
 
-      <p>早速、一部を比較表でご紹介します。</p>
+      <p>早速、比較表でご紹介します。</p>
       　　　　　　　　　　　　
     </div>
     <!--.txt-wrap end-->
@@ -50,300 +50,432 @@
 
   <section id="section-02">
 
-    <!--比較表START-->
-
-    <table class="table-01" cellspacing="1">
-
-      <tbody>
-
-        <tr>
-
-          <th class="crown">
-
-          </th>
-
-          <th class="crown">
-            <p>
-              <img src="./img/n_img/crown_icon_01.png" width="80" alt="" />
-            </p>
+<div id="overBox">
+  <!--比較表START-->
 
-          </th>
+  <table class="table-01 table-over" cellspacing="1">
 
-          <th class="crown">
-            <p>
-              <img src="./img/n_img/crown_icon_02.png" width="80" alt="" />
-            </p>
-          </th>
+    <colgroup width="14%">
+    <colgroup width="35%">
+    <colgroup width="35%">
+    <colgroup width="35%">
+    <colgroup width="35%">
+    <colgroup width="35%">
 
-          <th class="crown">
-            <p>
-              <img src="./img/n_img/crown_icon_03.png" width="80" alt="" />
-            </p>
-          </th>
+    <tbody>
 
+      <tr>
 
-        </tr>
+        <th class="crown table-title">
 
+        </th>
 
-        <!-- 1行目 商品名-->
+        <th class="crown">
+          <p class="center">
+            <span class="red bg-y" style="font-size: 1.2em">人気No.1！</span>
+          </p>
+        </th>
 
-        <tr>
-          <th class="table-title width">
-            <h6>商品名</h6>
-            </p>
-          </th>
+        <th class="crown">
 
-          <th style="vertical-align: top">
-            <p>
-              <a class="link-img" target="_blank" href="./links/sibo.php<?php echo $query; ?>">
-                <img src="./img/shiboh.jpg" alt="" />
-              </a>
-            </p>
-            <p>
-              <span class="lbg">
-                <a target="_blank" href="./links/sibo.php<?php echo $query; ?>">シボヘール</a>
-              </span>
-            </p>
-          </th>
+        </th>
 
+        <th class="crown">
 
-          <th style="vertical-align: top">
-            <p>
-              <a class="link-img" target="_blank" href="./links/wild.php<?php echo $query; ?>">
-                <img src="./img/wild.jpg" alt="" />
-              </a>
-            </p>
-            <p>
-              <span class="lbg">
-                <a target="_blank" href="./links/wild.php<?php echo $query; ?>">ワイルドマンゴーの力A</a>
-              </span>
-            </p>
-          </th>
+        </th>
 
+        <th class="crown">
 
-          <th style="vertical-align: top">
-            <p>
-              <a class="link-img" target="_blank" href="./links/onaka.php<?php echo $query; ?>">
-                <img src="./img/onaka.jpg" alt="" />
-              </a>
-            </p>
-            <p>
-              <span class="lbg">
-                <a target="_blank"
-                  href="./links/onaka.php<?php echo $query; ?>">おなかの脂肪が気になる方のためのタブレット<small>（粒タイプ）</small></a>
-              </span>
-            </p>
-          </th>
+        </th>
 
+        <th class="crown">
 
-        <tr>
-          <td class="table-title width">
-            <h6>ユーザー評価</h6>
+        </th>
+      </tr>
 
-          </td>
 
-          <td>
-            <p>
-              <img src="./img/review_5.gif" alt="" />
-            </p>
-            <p class="f-13">4.8/5.0</p>
-          </td>
+      <!-- 1行目 商品名-->
 
+      <tr>
+        <th class="table-title width">
+          <h6>商品名</h6>
+          </p>
+        </th>
 
-          <td>
-            <p>
-              <img src="./img/review_45.gif" alt="" />
-            </p>
-            <p class="f-13">4.5/5.0</p>
+        <th style="vertical-align: top">
 
-          </td>
-
-          <td style="width:27%">
-            <p>
-              <img src="./img/review_45.gif" alt="" />
-            </p>
-            <p class="f-13">4.4/5.0</p>
-
-          </td>
-
-        </tr>
-
-
-
-
-        <tr>
-
-          <td class="table-title width">
-            <h6>配合成分</h6>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>葛の花由来イソフラボン配合</p>
-          </td>
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>エラグ酸</p>
-          </td>
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-            <p>葛の花由来イソフラボン（テクトリゲニン類として）</p>
-          </td>
-
-        </tr>
-
-
-
-        <tr>
-          <td class="table-title">
-            <h6>サプリタイプ</h6>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>機能性表示食品</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>機能性表示食品</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>機能性表示食品</p>
-          </td>
-        </tr>
-
-
-
-
-        <tr>
-
-          <td class="table-title">
-            <h6>通常価格</h6>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>2,808円（定期）</p>
-
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-            <p>3,808円（定期）</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-            <p>3,402円（定期）</p>
-          </td>
-
-        </tr>
-
-
-
-        <tr>
-
-          <td class="table-title">
-            <h6>特別オファー</h6>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>初回980円</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>初回980円</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>初回540円</p>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="table-title">
-            <h6>返金保証</h6>
-          </td>
-
-          <td>
-            <p><span class="red">初回全額返金保証</span></p>
-          </td>
-
-          <td>
-            <p>30日間返金保証付き</p>
-          </td>
-
-          <td>
-            <p>なし</p>
-          </td>
-        </tr>
-
-
-
-
-        <tr>
-
-          <td class="table-title width">
-            <h6>こんな人に<br>おすすめ</h6>
-          </td>
-
-          <td>
-            <p>・お腹の脂肪が気になる<br>・脂肪対策サプリを手軽に試したい<br>・機能性表示食品を試したい</p>
-          </td>
-
-          <td>
-            <p>・体脂肪、血中中性脂肪を減らしたい人<br>・まだワイルドマンゴーを試したことがない<br>・機能性表示食品を試したい</p>
-          </td>
-
-          <td>
-            <p>・体重・脂肪の増加が気になる人<br>・ウエスト周りを減らしたい人<br>・機能性表示食品を試したい人</p>
-            <p>※BMI25以上30未満の方が対象です</p>
-          </td>
-        </tr>
-
-
-        <tr class="btn" style="height: 50px;">
-
-          <td class="table-title">
-            <h6>公式サイト</h6>
-          </td>
-
-          <td style="width:27%;">
-            <a target="_blank" href="./links/sibo.php<?php echo $query; ?>">
-              <img src="./img/n_img/btn_site_go_s.png" width="100%">
+          <p>
+            <a class="link-img" target="_blank" href="./links/sibo.php<?php echo $query; ?>">
+              <img src="./img/shiboh.jpg" alt="" />
             </a>
-          </td>
+          </p>
 
-          <td style="width:27%;">
-            <a target="_blank" href="./links/wild.php<?php echo $query; ?>">
-              <img src="./img/n_img/btn_site_go_s.png" width="100%">
+          <p>
+            <span class="lbg">
+              <a target="_blank" href="./links/sibo.php<?php echo $query; ?>">シボヘール</a>
+            </span>
+          </p>
+        </th>
+
+
+        <th style="vertical-align: top">
+          <p>
+            <a class="link-img" target="_blank" href="./links/wild.php<?php echo $query; ?>">
+              <img src="./img/wild.jpg" alt="" />
             </a>
-          </td>
+          </p>
+          <p>
+            <span class="lbg">
+              <a target="_blank" href="./links/wild.php<?php echo $query; ?>">ワイルドマンゴーの力A</a>
+            </span>
+          </p>
+        </th>
 
-          <td style="width:27%;">
-            <a target="_blank" href="./links/onaka.php<?php echo $query; ?>">
-              <img src="./img/n_img/btn_site_go_s.png" width="100%">
+
+        <th style="vertical-align: top">
+          <p>
+            <a class="link-img" target="_blank" href="./links/onaka.php<?php echo $query; ?>">
+              <img src="./img/onaka.jpg" alt="" />
             </a>
-          </td>
+          </p>
+          <p>
+            <span class="lbg">
+              <a target="_blank"
+                href="./links/onaka.php<?php echo $query; ?>">おなかの脂肪が気になる方のためのタブレット<small>（粒タイプ）</small></a>
+            </span>
+          </p>
+        </th>
+
+        <th style="vertical-align: top">
+          <p>
+            <a class="link-img" target="_blank" href="./links/slilinF.php<?php echo $query; ?>">
+              <img src="./img/slilinF.jpg" alt="" />
+            </a>
+          </p>
+          <p>
+            <span class="lbg">
+              <a target="_blank" href="./links/slilinF.php<?php echo $query; ?>">スリリンファイア</a>
+            </span>
+          </p>
+        </th>
+
+        <th style="vertical-align: top">
+          <p>
+            <a class="link-img" target="_blank" href="./links/chuihou.php<?php echo $query; ?>">
+              <img src="./img/chuihou.jpg" alt="" />
+            </a>
+          </p>
+          <p>
+            <span class="lbg">
+              <a target="_blank" href="./links/chuihou.php<?php echo $query; ?>">脂肪注意報</a>
+            </span>
+          </p>
+        </th>
+
+      </tr>
 
 
-        </tr>
 
-      </tbody>
+      <!-- 2行目 -->
 
-    </table>
+      <tr>
+        <td class="table-title width">
+          <h6>おすすめ度</h6>
 
-    <!--比較表END-->
+        </td>
+
+        <td>
+          <p>
+            <img src="./img/review_5.gif" alt="" />
+          </p>
+
+          <p class="f-13">4.8/5.0</p>
+
+        </td>
 
 
-  </section>
-  <!--#section-02 end-->
+        <td>
+          <p>
+            <img src="./img/review_45.gif" alt="" />
+          </p>
+
+          <p class="f-13">4.5/5.0</p>
+
+        </td>
+
+        <td style="width:27%">
+          <p>
+            <img src="./img/review_45.gif" alt="" />
+          </p>
+
+          <p class="f-13">4.4/5.0</p>
+
+        </td>
+
+
+        <td style="width:27%">
+          <p>
+            <img src="./img/review_4.gif" alt="" />
+          </p>
+
+          <p class="f-13">4.1/5.0</p>
+        </td>
+
+
+        <td style="width:27%">
+          <p>
+            <img src="./img/review_4.gif" alt="" />
+          </p>
+
+          <p class="f-13">4.0/5.0</p>
+        </td>
+      </tr>
+
+
+
+      <!-- 4行目 -->
+
+      <tr>
+
+        <td class="table-title width">
+          <h6>配合成分</h6>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>葛の花由来イソフラボン</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>
+            エラグ酸
+          </p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+          <p>葛の花由来イソフラボン（テクトリゲニン類として）</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+          <p>アムラ由来”エラグ酸”<br>
+            ブラックジンジャー由来"ポリメトキシフラボン“</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+          <p>METAP（グロビンペプチド）</p>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td class="table-title width">
+          <h6>サプリタイプ</h6>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>機能性表示食品</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>機能性表示食品</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>機能性表示食品</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>機能性表示食品</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>機能性表示食品</p>
+        </td>
+      </tr>
+
+
+      <tr>
+
+        <td class="table-title">
+          <h6>通常価格</h6>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>2,808円（定期）</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+          <p>3,808円（定期）</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+          <p>3,402円（定期）</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+          <p>3,990円（定期）</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+          <p>4,082円（定期）</p>
+        </td>
+      </tr>
+
+
+
+      <tr>
+
+        <td class="table-title">
+          <h6>特別オファー</h6>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>初回980円</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>初回980円</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>初回540円</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+          <p>初回限定500円</p>
+        </td>
+
+        <td>
+          <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+          <p>初回限定1,980円</p>
+        </td>
+
+      </tr>
+
+
+      <tr>
+        <td class="table-title">
+          <h6>返金保証</h6>
+        </td>
+
+        <td>
+          <p><span class="red">初回全額返金保証</span></p>
+        </td>
+
+        <td>
+          <p>30日間返金保証付き</p>
+        </td>
+
+        <td>
+          <p>なし</p>
+        </td>
+
+        <td>
+          <p>30日間返金保証付き</p>
+        </td>
+
+        <td>
+          <p>なし</p>
+        </td>
+
+      </tr>
+
+      <tr>
+
+        <td class="table-title width">
+          <h6>こんな人に<br>おすすめ</h6>
+        </td>
+
+        <td>
+          <p>・お腹の脂肪が気になる<br>・脂肪対策サプリを手軽に試したい<br>・機能性表示食品を試したい</p>
+        </td>
+
+        <td>
+          <p>・体脂肪、血中中性脂肪を減らしたい人<br>・まだワイルドマンゴーを試したことがない<br>・機能性表示食品を試したい</p>
+        </td>
+
+        <td>
+          <p>・体重・脂肪の増加が気になる人<br>・ウエスト周りを減らしたい人<br>・機能性表示食品を試したい人</p>
+          <p>※BMI25以上30未満の方が対象です</p>
+        </td>
+
+        <td>
+          <p>・血流を上げたい人<br>・体温を上げたい人<br>・おなかまわりの脂肪が気になる人</p>
+        </td>
+
+        <td>
+          <p>お腹の脂肪（内臓脂肪・皮下脂肪）を減らしたい人<br>・機能性表示食品を試したい人<br>・手軽に飲みたい人</p>
+        </td>    
+
+      </tr>
+
+
+      <tr class="btn" style="height: 50px;">
+
+        <td class="table-title">
+          <h6>公式サイト</h6>
+        </td>
+
+        <td style="width:27%;">
+          <a target="_blank" href="./links/sibo.php<?php echo $query; ?>">
+            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+          </a>
+        </td>
+
+        <td style="width:27%;">
+          <a target="_blank" href="./links/wild.php<?php echo $query; ?>">
+            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+          </a>
+        </td>
+
+        <td style="width:27%;">
+          <a target="_blank" href="./links/onaka.php<?php echo $query; ?>">
+            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+          </a>
+        </td>
+
+        <td style="width:27%;">
+          <a target="_blank" href="./links/slilinF.php<?php echo $query; ?>">
+            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+          </a>
+        </td>
+
+        <td style="width:27%;">
+          <a target="_blank" href="./links/chuihou.php<?php echo $query; ?>">
+            <img src="./img/n_img/btn_site_go_s.png" width="100%">
+          </a>
+        </td>
+
+      </tr>
+
+    </tbody>
+
+  </table>
+
+</div>
+
+<!--比較表END-->
+
+</section>
+<!--#section-02 end-->
 
 
 
@@ -387,7 +519,7 @@
     <div class="txt-wrap">
 
       <p>当サイトでは、上記ポイントを元にサプリを徹底的に調査しました！</p>
-      <p>ランキング形式で発表します！！</p>
+      <p>本当におすすめの脂肪対策サプリ5選をご紹介します！！</p>
 
       <div class="img-wrap arrow">
         <img src="./img/n_img/new_arrow.png" />
@@ -413,7 +545,7 @@
     <div class="swiper-container">
       <ul class="swiper-wrapper tabs">
         <li class="tab1 swiper-slide"><a href="#tab1"
-            onclick="rank_bn.src='./img/ranking/ranking-banner-sp.png'">総合<br>人気ランキング</a></li>
+            onclick="rank_bn.src='./img/ranking/ranking-banner-sp-a-test.png'">総合<br>人気ランキング</a></li>
         <li class="tab2 swiper-slide"><a href="#tab2"
             onclick="rank_bn.src='./img/ranking/ranking-banner-sp-b.png'">体内フローラ<br>サプリ</a></li>
         <li class="tab3 swiper-slide active"><a href="#tab3"
@@ -466,7 +598,7 @@
           <span class="bold red">お得に試せるかどうか</span>、という点も重要視して選ばせていただきました。
         </p><br>
 
-        <p>総合人気ランキング第１位の<span class="bold">シボヘール</span>は今なら <span class="bold blue">初回980円モニター募集中！</span>
+        <p>人気No.1の<span class="bold">シボヘール</span>は今なら <span class="bold blue">初回980円モニター募集中！</span>
           なんと、 <span class="bold red">１日わずか３２円 </span>で試すことが出来ちゃいます。</p><br>
 
         <p>しかも、契約の回数しばりなどはなく、<span class="bold">１回きりでの購入でも大丈夫</span>なんです！</p><br>

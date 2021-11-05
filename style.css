@@ -100,6 +100,18 @@ th .link-img img {
     width: 170px;
     height: auto;
 }
+#section-02 {
+    width: 90%;
+    margin: auto;
+    padding: 0;
+    overflow: hidden;
+}
+#section-02 #overBox {
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    box-sizing: border-box;
+}
 #section-02 .table-01 {
     border: 1px solid #e5e5e5;
     text-align: center;
@@ -107,6 +119,24 @@ th .link-img img {
     font-size: 10px;
     table-layout: fixed;
 }
+#section-02 .table-over {
+    border: 1px solid #e5e5e5;
+    text-align: center;
+    font-weight: bold;
+    font-size: 10px;
+    table-layout: fixed;
+    width: 140%;
+}
+#section-02 .table-over tbody {
+    position: relative;
+}
+#section-02 .table-over .table-title {
+    position: sticky;
+    left: -1px;
+    z-index:2;
+}
+
+
 #section-02 .table-01 h6 {
     font-size: 1.2em;
 }
@@ -136,6 +166,9 @@ th .link-img img {
     padding: 37px 0 0 125px;
     font-size: 1.3em;
     margin-bottom: 20px;
+}
+#section-04 table.r-table th.r-title.no-ranking {
+    padding: 37px 0 0 37px;
 }
 #section-04 .r-img {
     width: 100%;

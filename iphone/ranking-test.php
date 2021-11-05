@@ -16,9 +16,9 @@
                 <tbody>
 
                     <tr>
-                        <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                                <img src="./img/n_img/badge_ranking_01.png" width="70" />
+                        <th class="r-title no-ranking" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top:0px; left:10px;">
+                                <img src="./img/no1__badge.png" width="50" />
                             </div>
 
                             <?php include "item/shibo.php"; ?>
@@ -35,10 +35,8 @@
             <tbody>
 
                 <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
-                            <img src="./img/n_img/badge_ranking_02.png" width="70" />
-                        </div>
+                    <th class="r-title no-ranking" colspan="2">
+                        
                         <?php include "item/wild.php"; ?>     
 
 
@@ -54,10 +52,8 @@
                 <tbody>
 
                     <tr>
-                        <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
-                                <img src="./img/n_img/badge_ranking_03.png" width="70" />
-                            </div>
+                        <th class="r-title no-ranking" colspan="2">
+                            
                             <?php include "item/slilinF.php"; ?>
   
                             
@@ -70,10 +66,8 @@
                 <tbody>
 
                     <tr>
-                        <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
-                                <img src="./img/n_img/badge_ranking_04.png" width="70" />
-                            </div>
+                        <th class="r-title no-ranking" colspan="2">
+                           
                             <?php include "item/osaeru.php"; ?>
 
             <!--
@@ -85,11 +79,9 @@
                 <tbody>
 
                     <tr>
-                        <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
-                                <img src="./img/n_img/badge_ranking_05.png" width="70" />
-                            </div>
-                            <?php include "item/slilin.php"; ?>
+                        <th class="r-title no-ranking" colspan="2">
+                            
+                            <?php include "item/chuihou.php"; ?>
 
 
 
@@ -196,9 +188,9 @@
                 <tbody>
 
                     <tr>
-                        <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
-                                <img src="./img/n_img/badge_ranking_01.png" width="70" />
+                        <th class="r-title no-ranking" colspan="2">
+                            <div class="img-center badge" style="position: absolute; top: 0; left:2px;">
+                                <img src="./img/no1__badge.png" width="50" />
                             </div>
 
                             <?php include "item/shibo.php"; ?>
@@ -213,10 +205,8 @@
                 <tbody>
 
                     <tr>
-                        <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
-                                <img src="./img/n_img/badge_ranking_02.png" width="70" />
-                            </div>
+                        <th class="r-title no-ranking" colspan="2">
+                           
 
                             <?php include "item/wild.php"; ?>
 
@@ -231,10 +221,8 @@
                 <tbody>
 
                     <tr>
-                        <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
-                                <img src="./img/n_img/badge_ranking_03.png" width="70" />
-                            </div>
+                        <th class="r-title no-ranking" colspan="2">
+                            
 
                             <?php include "item/onaka.php"; ?>
 
@@ -247,10 +235,8 @@
                 <tbody>
 
                     <tr>
-                        <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
-                                <img src="./img/n_img/badge_ranking_04.png" width="70" />
-                            </div>
+                        <th class="r-title no-ranking" colspan="2">
+                           
 
                             <?php include "item/slilinF.php"; ?>
 
@@ -263,10 +249,8 @@
                 <tbody>
 
                     <tr>
-                        <th class="r-title" colspan="2">
-                            <div class="img-center badge" style="position: absolute; top:10px; left:2px;">
-                                <img src="./img/n_img/badge_ranking_05.png" width="70" />
-                            </div>
+                        <th class="r-title no-ranking" colspan="2">
+                           
 
                             <?php include "item/chuihou.php"; ?>
 
