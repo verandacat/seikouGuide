@@ -45,7 +45,9 @@
     定期購入は<span class="bold red">初回限定79%OFF</span>とお手頃価格なので、大正製薬が提案する空腹時の血糖値対策をお試しください！
 
     <a target="_blank" href="./links/tablet-k.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
-        <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+        <p class="link_txt">
+            <span class="link font-link">→ 特別キャンペーンページはこちら</span>
+        </p>
     </a>
 
 </div>

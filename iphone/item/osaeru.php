@@ -42,18 +42,18 @@
 <div class="r-txtbox">
 
   <p>
-    食事に含まれる<span class="red">脂肪や糖の吸収を抑える機能性表示食品</span>がオサエルEXです。
+    食事に含まれる<span class="red">脂肪や糖の吸収を抑える機能性表示食品</span>がオサエルEXです。<br><br>
+    注目成分ターミナリアベリリカを配合しており、同成分配合の機能性表示食品が最近流行っていますが、こちらは<span class="bold">初回限定980円（税込）、定期購入の縛りもないため、かなり気軽に試せるのが大きなポイント</span>です。<br><br>
+    試験では、 <span class="bold">食後の中性脂肪と血糖値の上昇抑制効果にくわえて、さらに、内臓脂肪やBMIを減らすのを助ける効果</span>もみられました。<br><br>
+    肥満気味な方や、内臓脂肪とBMIが気になる方にオススメです！
     <br><br>
-    注目成分ターミナリアベリリカ配合の食品が最近流行っていますが、こちらは<span class="bold">初回限定980円（税込）、定期購入の縛りもないため、かなり気軽に試せるのが大きなポイント</span>です。
-    <br><br>
-    試験によると、<span class="bold">食後の中性脂肪と血糖値の上昇を抑制、さらに糖と脂肪のブロック効果の試験でも、有名成分に軒並み圧勝</span>という結果が得られました。
-    <br><br>
-    肥満気味な方や、内臓脂肪やBMIを減らすのを助ける！<br>
-    <span class="red">喜びの声も続々</span>届いており、1日1回食前に4粒でOKの新習慣をぜひ試してみませんか？
+    喜びの声も続々届いており、<span class="red">1日1回食前に4粒でOK</span>の新習慣をぜひ試してみませんか？
   </p>
 
   <a target="_blank" href="./links/osaeru.php<?php echo $query; ?>" target="_blank">
-    <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+    <p class="link_txt">
+        <span class="link font-link">→ 特別キャンペーンページはこちら</span>
+    </p>
   </a>
 
 </div>

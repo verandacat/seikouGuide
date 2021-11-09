@@ -48,7 +48,9 @@
 
 
     <a target="_blank" href="./links/tablet-k.php<?php echo "?" . $query2; ?>" target="_blank">
-        <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+    <p class="link_txt">
+        <span class="link font-link">→ 特別キャンペーンページはこちら</span>
+    </p>
     </a>
 
 </div>

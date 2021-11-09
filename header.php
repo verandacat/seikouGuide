@@ -80,7 +80,7 @@ print '<?xml version="1.0" encoding="UTF-8"?>'; ?>
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d") : ?>
+    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_GET['pat'] == "d" || $_GET['pat'] == "d" || $_SERVER['REQUEST_URI']=="/index_c-test.php") : ?>
     <?php else : ?>
     <div id="logo">
         <nav class="logoNav">

@@ -67,6 +67,11 @@
                   
                   <a target="_blank" href="./links/oto.php<?php echo "?".$query2; ?>" target="_blank">
                       <span class="link_txt">初回1000円！<br><?php echo date("n"); ?>月の特別<br>キャンペーンページはこちら</span>
+                      <p class="link_txt">
+                        <span class="link">初回1000円！</span><br>
+                        <span class="llink font-link">→ 特別キャンペーンページはこちら</span>
+                      </p>
+
                   </a>
               
                 </div>

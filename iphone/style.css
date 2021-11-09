@@ -27,6 +27,10 @@ ol {
     list-style-type: decimal;
 }
 
+h6 {
+    margin: 0;
+}
+
 .p10 {
     padding: 10px;
 }
@@ -44,7 +48,7 @@ h1.midashi {
     position: relative;
     padding: 0.45em 0;
     color: #d03956;
-    margin: 1em 0 0 0.2em;
+    margin: 1em 0 0.4em 0.2em;
     font-size: 1.2em;
 }
 
@@ -131,13 +135,13 @@ h2.midashi-h2-03 {
 #section-05 .last-container {
     background: #f7cc44;
     padding: 0 0 10px;
-    margin: -10px 0;
+    margin: -10px 0 30px;
 }
 
 #section-05 .last-txt {
     background: #fff;
     margin: 0 5px;
-    padding: 10px 5px;
+    padding: 10px;
     border-radius: 10px;
     border: 1px solid orange;
 }
@@ -146,7 +150,7 @@ h2.midashi-h2-03 {
     padding: 0 3px;
 }
 
-.txt-wrap p {
+.txt-wrap p:not(:last-of-type) {
     margin-bottom: 10px;
 }
 
@@ -183,7 +187,7 @@ th .link-img img {
 }
 
 .r-title p {
-    width: 55%;
+    width: 75%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -208,7 +212,7 @@ th .link-img img {
     border: solid 1px #ccc;
     text-align: center;
     font-weight: bold;
-    width: 200%;
+    width: 170%;
     table-layout: fixed;
 }
 
@@ -263,6 +267,9 @@ th .link-img img {
     table-layout: auto;
     text-align: center;
 }
+#section-04 table.r-table:not(:first-of-type) {
+    margin-top: 40px;
+}
 
 #section-04 table.r-table th.r-title {
     border: solid 1px #ccc;
@@ -274,6 +281,8 @@ th .link-img img {
 #section-04 table.r-table th.r-title.no-ranking {
     padding: 25px 0 0;
 }
+
+
 #section-04 table.r-r-table th {
     background: #ffe8b3;
 }
@@ -295,11 +304,17 @@ th .link-img img {
 #section-04 .r-txtbox p {
     margin-bottom: 15px;
 }
-
+#section-04 td.r-img {
+    padding: 20px 0;
+}
 #section-04 .r-img a img {
     max-width: 240px;
 }
-
+#section-04 .img-btn a img {
+    width: 95%;
+    margin: 20px auto;
+    display: block;
+}
 .r-txtbox img {
     width: 100%;
 }
@@ -379,11 +394,30 @@ h1 {
 
 .link_txt {
     display: block;
-    margin: 15px 0;
+    margin: 35px 0 10px;
     text-align: right;
     font-size: 1.5em;
-    color: orangered;
+    line-height: 1.2;
+}
+.link_txt .link {
+    color: #4887d9;
     font-weight: bold;
+    text-decoration: underline;
+}
+.link_txt .font-link {
+    font-size: 0.9em;
+}
+@media (max-width: 360px) {
+    .link_txt {
+        margin: 25px 0 10px;
+    }
+    .link_txt .font-link {
+        font-size: 0.8em;
+    }
+}
+.link_txt sup {
+    color: #4887d9;
+    text-decoration: none;
 }
 
 .tenmetsu {
@@ -480,9 +514,12 @@ h1 {
     background-image: url("../img/n_img/point_icon.png");
     background-size: contain;
     vertical-align: middle;
-    margin-right: 2px;
+    margin-right: 4px;
 }
 
+.r-list li:not(:last-child) {
+    margin-bottom: 8px;
+}
 .img-wrap img {
     width: 100%;
 }
@@ -918,7 +955,7 @@ sup {
 }
 
 .meta-notes {
-    padding: 5px;
+    padding: 5px 10px;
     color: #333;
     position: relative;
 }

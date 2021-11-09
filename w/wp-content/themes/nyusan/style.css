@@ -40,9 +40,10 @@ color:#000;
 text-decoration:none;
 padding:5px 0;
 margin:0 0 5px;
-}
-.detailnamesp a span{
-border-bottom:1px dotted #000;
+font-size: 20px;
+font-weight: bold;
+color: orangered;
+padding: 10px;
 }
 .detailrate p.rankno1 span{
 font-size:400%;
@@ -81,6 +82,9 @@ position:relative;
 background:#fff;
 border-bottom:1px solid #ccc;
 padding:10px;
+width: 90%;
+margin: 0 auto 30px;
+border: 1px solid #eee;
 }
 .detailimg{
 text-align:center;
@@ -425,7 +429,6 @@ background-size: contain;
 	background-size: contain;
 }
 
-
 #c2 input[type="checkbox"]{
 border:0;
 -moz-appearance: none;
@@ -473,7 +476,6 @@ background-size: contain;
 	background: url(./img/spcheck2-m_on.png) no-repeat;
 	background-size: contain;
 }
-
 #c3 input[type="checkbox"]{
 border:0;
 -moz-appearance: none;
@@ -632,6 +634,7 @@ padding:0 0 0 50px;
 background:#fff;
 border-bottom:1px solid #ccc;
 padding:10px;
+
 }
 .detailimg{
 width:113px;
@@ -647,7 +650,7 @@ width:805px;
 float:left;
 }
 .detail div{
-padding:20px 10px;
+padding: 10px;
 text-align:center;
 float:left;
 }
@@ -828,32 +831,29 @@ background: url(./img/check1_on.png);
 background-size: contain;
 }
 label#cm1 input[type="checkbox"]{
-	-moz-appearance: none;
-	-webkit-appearance: none;
-	appearance: none;
-	position: relative;
-	display: inline-block;
-	width:205px;
-	height: 51px;
-	margin-right: 1px;
-	background: url(./img/check1-m.png);
-	background-size: contain;
-	}
-	label#cm1 input[type="checkbox"]:checked:before {
-	content: "";
-	position: absolute;
-	left: 0px;
-	top: 0px;
-	display: inline-block;
-	width:205px;
-	height: 51px;
-	margin-right: 1px;
-	background: url(./img/check1-m_on.png);
-	background-size: contain;
-	}
-	
-
-
+-moz-appearance: none;
+-webkit-appearance: none;
+appearance: none;
+position: relative;
+display: inline-block;
+width:205px;
+height: 51px;
+margin-right: 1px;
+background: url(./img/check1-m.png);
+background-size: contain;
+}
+label#cm1 input[type="checkbox"]:checked:before {
+content: "";
+position: absolute;
+left: 0px;
+top: 0px;
+display: inline-block;
+width:205px;
+height: 51px;
+margin-right: 1px;
+background: url(./img/check1-m_on.png);
+background-size: contain;
+}
 label#c2 input[type="checkbox"]{
 -moz-appearance: none;
 -webkit-appearance: none;
@@ -879,30 +879,28 @@ background: url(./img/check2_on.png);
 background-size: contain;
 }
 label#cm2 input[type="checkbox"]{
-	-moz-appearance: none;
-	-webkit-appearance: none;
-	appearance: none;
-	position: relative;
-	display: inline-block;
-	width:205px;
-	height: 51px;
-	margin-right: 5px;
-	background: url(./img/check2-m.png);
-	background-size: contain;
-	}
-	label#cm2 input[type="checkbox"]:checked:before {
-	content: "";
-	position: absolute;
-	left: 0px;
-	top: 0px;
-	display: inline-block;
-	width:205px;
-	height: 51px;
-	margin-right: 1px;
-	background: url(./img/check2-m_on.png);
-	}
-
-
+-moz-appearance: none;
+-webkit-appearance: none;
+appearance: none;
+position: relative;
+display: inline-block;
+width:205px;
+height: 51px;
+margin-right: 5px;
+background: url(./img/check2-m.png);
+background-size: contain;
+}
+label#cm2 input[type="checkbox"]:checked:before {
+content: "";
+position: absolute;
+left: 0px;
+top: 0px;
+display: inline-block;
+width:205px;
+height: 51px;
+margin-right: 1px;
+background: url(./img/check2-m_on.png);
+}
 label#c3 input[type="checkbox"]{
 -moz-appearance: none;
 -webkit-appearance: none;

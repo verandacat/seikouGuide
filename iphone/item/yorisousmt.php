@@ -50,7 +50,9 @@
                     <p>「美容」「健康」にもこれ1つでOKのオールインワンスムージーの詳細をぜひチェックしてみてくださいね。</p>
 
                     <a target="_blank" href="links/yorisou.php<?php echo "?" . $query2; ?>" target="_blank">
-                        <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+                        <p class="link_txt">
+                            <span class="link font-link">→ 特別キャンペーンページはこちら</span>
+                        </p>
                     </a>
 
                 </div>

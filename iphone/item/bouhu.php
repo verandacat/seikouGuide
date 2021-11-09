@@ -63,7 +63,10 @@
         ※上記、クーポンコードを購入確認画面でご入力ください。
     </div>
     <a target="_blank" href="./links/bouhu.php<?php echo "?" . $query2; ?>" target="_blank">
-        <span class="link_txt">クーポン付きページはこちら</span>
+        <p class="link_txt">
+            <span class="link font-link">→ クーポン付きページはこちら</span>
+        </p>
+
     </a>
 
 </div>
@@ -71,29 +74,12 @@
 <table class="r-r-table" cellspacing="1">
     <tbody>
         <tr>
-<<<<<<< HEAD
             <th colspan="2">価格</th>
             <th>容量</th>
         </tr>
         <tr>
             <td colspan="2">初回4290円（税込）定期6490円（税込）</td>
             <td>90包/30日分</td>
-=======
-            <th>価格</th>
-            <th>容量</th>
-            <th>ユーザー評価</th>
-        </tr>
-        <tr>
-            <td>初回4290円（税込）定期6490円（税込）</td>
-            <td>90包/30日分</td>
-            <td>
-                <?php if($_GET['pat'] == 'a' || $_GET['pat'] == '') : ?>
-                    <img alt="" src="./img/review_4.gif" />
-                <?php else : ?>
-                    <img alt="" src="./img/review_5.gif" />
-                <?php endif; ?>
-            </td>
->>>>>>> 94c218d4c37318896194ef4a9627975a2bf9fbb0
         </tr>
         <tr>
             <th>サプリの種類</th>

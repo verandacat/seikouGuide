@@ -59,12 +59,12 @@
 
       <table class="table-01 table-over" cellspacing="1">
 
-      <colgroup width="130">
-      <colgroup width="40%">
-      <colgroup width="40%">
-      <colgroup width="40%">
-      <colgroup width="40%">
-      <colgroup width="40%">
+        <colgroup width="130">
+          <colgroup width="40%">
+            <colgroup width="40%">
+              <colgroup width="40%">
+                <colgroup width="40%">
+                  <colgroup width="40%">
                   <tbody>
 
                 <tr>
@@ -539,9 +539,6 @@
   <!-- <section id="section-045">
         <?php // include 'pickup.php'; ?>
     </section> -->
-
-
-
   <section id="section-05">
 
 
@@ -554,7 +551,7 @@
       <div class="last-txt bg-wh border-r">
 
 
-        <p>当サイトでご紹介している燃焼サプリは、効果はもちろんですが、
+        <p>当サイトでご紹介しているダイエタリーライフサポートサプリは、効果はもちろんですが、
 
           <span class="bold">できるかぎり多くの「スリムになりたい」とお悩みの方に試していただきたい</span>という気持ちから、
 
@@ -583,8 +580,9 @@
 
     </div>
 
-  </section>
 
+
+  </section>
 
 
 

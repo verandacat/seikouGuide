@@ -259,7 +259,7 @@ $get_num = $query->post_count;
 
 
 <ul class="bread">
-<li><a href="https://xn--eckalq1hua9ak9609eoj6a.com?logid=<?php echo $_GET['logid']; ?>&cam=<?php echo $_GET['cam']; ?>&gr_no=<?php echo $_GET['gr_no']; ?>&key=<?php echo $_GET['key']; ?>&ad_no=<?php echo $_GET['ad_no']; ?>&link_no=<?php echo $_GET['link_no']; ?>&pat=<?php echo $_GET['pat']; ?>&switch=<?php echo $_GET['switch']; ?>">TOP</a></li>
+<li><a href="https://bi-navi.com?logid=<?php echo $_GET['logid']; ?>&cam=<?php echo $_GET['cam']; ?>&gr_no=<?php echo $_GET['gr_no']; ?>&key=<?php echo $_GET['key']; ?>&ad_no=<?php echo $_GET['ad_no']; ?>&link_no=<?php echo $_GET['link_no']; ?>&pat=<?php echo $_GET['pat']; ?>&switch=<?php echo $_GET['switch']; ?>">TOP</a></li>
 <li><?php if($price){ echo $price."・"; } ?><?php if($onedayprice){ echo $onedayprice."・"; } ?><?php if($contv){ echo number_unit($contv)."以上・"; } ?><?php if($jenre){ echo $jenre."・"; } ?><?php if($plan){ echo $plan."・"; } ?><?php if($ranking == "1"){ echo "1～3位・"; }elseif($ranking == "2"){ echo "4位以下・"; } ?>
 <?php 
 if(isset($_GET['rules'])){
@@ -385,7 +385,7 @@ if(isset($_GET['rules'])){
 
 <div class="sortbox">
   <div class="sortname pc">商品名</div>
-  <div id="sort1" class="sortrate">評価<br>ランキング <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/sortbutton.png" width="11" class="middle pc"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/sortbutton2.png" width="11" class="middle sp"></div>
+  <div id="sort1" class="sortrate">おすすめ度<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/sortbutton.png" width="11" class="middle pc"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/sortbutton2.png" width="11" class="middle sp"></div>
   <div id="sort2" class="sortprice">初回価格<br><span class="pc">(税込)</span> <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/sortbutton.png" width="11" class="middle pc"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/sortbutton2.png" width="11" class="middle sp"></div>
   <div id="sort6" class="sortreguprice">定期価格<br><span class="pc">(税込)</span> <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/sortbutton.png" width="11" class="middle pc"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/sortbutton2.png" width="11" class="middle sp"></div>
   <div id="sort3" class="sortspecialprice">1日あたりの<br>価格<span class="pc">(税込)</span> <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/sortbutton.png" width="11" class="middle pc"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/sortbutton2.png" width="11" class="middle sp"></div>
@@ -436,16 +436,24 @@ jQuery(".sortvolume").click(function(){
   $rank = get_field('rank');
    ?>
 
-
+   <?php if(strpos($url,"bouhu")) : ?>
+   <?php continue; ?>
+   <?php else : ?>
 <div class="detailbox">
-  <div class="sp detailnamesp"><a href="https://xn--eckalq1hua9ak9609eoj6a.com<?php echo $url; ?><?php echo $query2; ?>" target="_blank"><span><?php the_title(); ?></span></a></div>
-  <div class="detailimg"><img src="<?php echo $image_url[0]; ?>" width="100%"><br class="pc"><a class="pc" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com<?php echo $url; ?><?php echo $query2; ?>"><?php the_title(); ?></a></div>
+  <div class="sp detailnamesp"><a href="https://bi-navi.com<?php echo $url; ?><?php echo $query2; ?>" target="_blank"><span><?php the_title(); ?></span></a></div>
+  <div class="detailimg"><img src="<?php echo $image_url[0]; ?>" width="100%"><br class="pc"><a class="pc" target="_blank" href="https://bi-navi.com<?php echo $url; ?><?php echo $query2; ?>"><?php the_title(); ?></a></div>
   <div class="sp detailnameex">
-    <div class="detailrate"><p class="rankno<?php echo $rank; ?>"><span><?php echo $rank; ?></span>位</p><p class="ratesp<?php echo $i; ?> marbo0"><span></span></p><p style="color:#000;font-style:normal;font-weight:normal;">(<?php echo $ex; ?> / 5.0)</p></div>
+    <div class="detailrate">
+        <!-- <p class="rankno<?php echo $rank; ?>"><span><?php echo $rank; ?></span>位</p> -->
+    <p class="ratesp<?php echo $i; ?> marbo0"><span></span></p>
+    <p style="color:#000;font-style:normal;font-weight:normal;">(<?php echo $ex; ?> / 5.0)</p>
+</div>
   </div>
   <div class="sp" style="clear:both"></div>
     <div class="detail">
-      <div class="detailrate pc"><p class="rankno<?php echo $i; ?>"><span><?php echo $i; ?></span>位</p><p class="ratesp<?php echo $i; ?>"><span></span></p><p style="color:#000;font-style:normal;font-weight:normal;">(<?php echo $ex; ?> / 5.0)</p></div>
+      <div class="detailrate pc">
+          <!-- <p class="rankno<?php echo $i; ?>"><span><?php echo $i; ?></span>位</p> -->
+      <p class="ratesp<?php echo $i; ?>"><span></span></p><p style="color:#000;font-style:normal;font-weight:normal;">(<?php echo $ex; ?> / 5.0)</p></div>
       <div class="detailprice"><div class="sp dtitle2">初回価格</div>￥<?php echo $price; ?></div>
       <div class="detailreguprice"><div class="sp dtitle2">定期価格</div>￥<?php echo $regularly; ?></div>
       <div class="detailonedayprice"><div class="sp dtitle2">1日あたりの<br>価格(税込)</div>￥<?php echo $onedayprice; ?></div>
@@ -463,10 +471,10 @@ jQuery(".sortvolume").click(function(){
       }else{ 
       echo $jenre;
       } ?></div>
-      <div class="detailurl pc"><a href="https://xn--eckalq1hua9ak9609eoj6a.com<?php echo $url; ?><?php echo $query2; ?>" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/searchlinkbutton.png" width="100%"></a></div>
+      <div class="detailurl pc"><a href="https://bi-navi.com<?php echo $url; ?><?php echo $query2; ?>" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/searchlinkbutton.png" width="100%"></a></div>
      <p style="clear:both"></p>
       <div class="detailcomment"><p style="border-bottom:1px solid #ccc;padding:0 0 5px;margin:0 0 5px;"><?php echo $copy; ?></p><?php the_content(); ?></div>
-      <div class="detailurl sp"><a href="https://xn--eckalq1hua9ak9609eoj6a.com<?php echo $url; ?><?php echo $query2; ?>" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/spsearchlinkbutton.png" width="100%"></a></div>
+      <div class="detailurl sp"><a href="https://bi-navi.com<?php echo $url; ?><?php echo $query2; ?>" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/spsearchlinkbutton.png" width="100%"></a></div>
     </div><!--detail-->
 
  <p style="clear:both"></p>
@@ -489,7 +497,7 @@ background:url(<?php print get_template_directory_uri(); ?>/img/on.png) no-repea
 }
 </style>
 
-
+<?php endif; ?>
   <?php endwhile; endif; wp_reset_query(); ?>
 
 

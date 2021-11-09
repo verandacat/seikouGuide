@@ -53,7 +53,9 @@
             class="bold">脂っこい食事やご飯、パン、ケーキ等の糖分が多い食べ物が好きな方</span>はぜひこのチャンスに試してみましょう♪</p>
 
     <a target="_blank" href="./links/easytablet.php<?php echo "?" . $query2; ?>" target="_blank">
-        <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+    <p class="link_txt">
+                        <span class="link font-link">→ 特別キャンペーンページはこちら</span>
+                    </p>
     </a>
 
 </div>

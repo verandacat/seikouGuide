@@ -143,7 +143,7 @@
     });
     
     </script>
-    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_SERVER['REQUEST_URI']=="/" ) : ?>
+    <?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_SERVER['REQUEST_URI']=="/" || $_SERVER['REQUEST_URI']=="/index_c-test.php" ) : ?>
 
     <script>
     $(function() {

@@ -52,7 +52,10 @@
 
       
       <a target="_blank" href="./links/vita.php<?php echo "?".$_SERVER['QUERY_STRING']; ?>" target="_blank">
-          <span class="link_txt">初回1500円で試せるお得なキャンペーンはこちら</span>
+          <p class="link_txt">
+            <span class="link font-link">→ 初回1500円で試せるお得なキャンペーンはこちら</span>
+        </p>
+
       </a>
   
     </div>

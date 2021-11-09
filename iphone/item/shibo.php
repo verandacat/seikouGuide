@@ -66,13 +66,15 @@
                 </p>
 
                 <p>
-                    <span class="bold">本格的なダイエタリーライフサポートサプリに挑戦したい方には１番おすすめです。</span>
+                    <span class="bold">本格的な<?php if($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_GET['pat'] == "c") : ?>脂肪対策サポートサプリ<?php else : ?>ダイエタリーライフサポートサプリ<?php endif; ?>に挑戦したい方には１番おすすめです。</span>
                 </p>
 
-                <a target="_blank"
-                    href="./links/sibo.php<?php echo "?" . $query2; ?>"
-                    target="_blank">
-                    <span class="link_txt">一日たった93円！<sup>※2</sup><br><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+                <a target="_blank" href="./links/sibo.php<?php echo "?" . $query2; ?>" target="_blank">
+                    <p class="link_txt">
+                        <span class="link">→ 一日たった約93円！</span>
+                        <sup>※2</sup><br>
+                        <span class="link font-link">特別キャンペーンページはこちら</span>
+                    </p>
                 </a>
 
             </div>

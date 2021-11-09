@@ -65,7 +65,10 @@
 
                         
                         <a target="_blank" href="./links/urara.php<?php echo "?".$_SERVER['QUERY_STRING']; ?>" target="_blank">
-                            <span class="link_txt">初回300円！<?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+                            <p class="link_txt">
+                              <span class="link">初回300円！</span>
+                              <span class="link font-link">→ 初回1500円で試せるお得なキャンペーンはこちら</span>
+                            </p>
                         </a>
                     
                       </div>

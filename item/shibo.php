@@ -64,16 +64,19 @@
                 加齢と共に落ちづらくなっていくお腹の脂肪にしっかりアプローチ！値段も<span class="bold">一日たったの約93円<sup>※2</sup></span>だから続けやすい！
             </p>
 
+           
+
             <p>
-                <span class="bold">本格的なダイエタリーライフサポートサプリに挑戦したい方には１番おすすめです。</span>
+                <span class="bold">本格的な<?php if($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_GET['pat'] == "c") : ?>脂肪対策サポートサプリ<?php else : ?>ダイエタリーライフサポートサプリ<?php endif; ?>に挑戦したい方には１番おすすめです。</span>
             </p>
 
-
-            <a target="_blank"
+                <a target="_blank"
                 href="./links/sibo.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
                 target="_blank">
-                <span class="link_txt">一日たった約93円！<sup>※2</sup><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
-            </a>
+                    <p class="link_txt">
+                        <span class="link">→ 一日たった約93円！</span><sup>※2</sup><br><span class="link font-link">特別キャンペーンページはこちら</span>
+                    </p>
+                </a>
 
         </div>
 

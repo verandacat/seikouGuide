@@ -72,7 +72,11 @@
 <a target="_blank"
     href="./links/meta.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
     target="_blank">
-    <span class="link_txt">初回540円(税込)　<?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+    
+    <p class="link_txt">
+    <span class="link">初回540円(税込)</span>
+    <span class="link font-link">→ 特別キャンペーンページはこちら</span>
+    </p>
 </a>
 
 </div>

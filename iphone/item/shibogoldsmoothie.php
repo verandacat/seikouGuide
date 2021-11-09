@@ -61,7 +61,9 @@
                     <p>他にも<span class="bold bg-y">「生きた酵素」を含む239種の植物発酵エキス</span>など栄養もしっかり補給できますので、置き換えダイエットにもおすすめです。</p>
 
                     <a target="_blank" href="links/gold.php<?php echo "?" . $query2; ?>" target="_blank">
-                        <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+                        <p class="link_txt">
+                            <span class="link font-link">→ 特別キャンペーンページはこちら</span>
+                        </p>
                     </a>
 
                 </div>

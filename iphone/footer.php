@@ -142,8 +142,8 @@ $(function() {
     var accordion1 = new Accordion1($('.menu-list-wrap'), false);
 });
 
-</script>
-<?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_SERVER['REQUEST_URI']=="/" ) : ?>
+</script> 
+<?php if($_GET['pat'] == "a" || $_GET['pat'] == "c" || $_SERVER['REQUEST_URI']=="/"|| $_SERVER['REQUEST_URI']=="index_c-test.php"  ) : ?>
 
 <script>
 $(function() {

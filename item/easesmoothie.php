@@ -53,7 +53,9 @@
                 に混ぜてアレンジもOK♪楽しみながらキレイを目指せる！</p>
 
             <a target="_blank" href="links/ease.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
-                <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+                <p class="link_txt">
+                    <span class="link font-link">→ 特別キャンペーンページはこちら</span>
+                </p>
             </a>
 
         </div>

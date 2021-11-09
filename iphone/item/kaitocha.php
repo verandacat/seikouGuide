@@ -48,7 +48,9 @@
     快糖茶は<span class="red">初回限定1,000（税込）、定期購入の縛りもない</span>ので、<span class="bold">今飲んでいるお茶を「快糖茶」に試しに替えてみるのもおすすめ</span>です！
   </p>
   <a target="_blank" href="./links/kaitocha.php<?php echo $query; ?>" target="_blank">
-    <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+  <p class="link_txt">
+                        <span class="link font-link">→ 特別キャンペーンページはこちら</span>
+                    </p>
   </a>
 
 </div>

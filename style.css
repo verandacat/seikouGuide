@@ -28,12 +28,23 @@ ol {
 
 .link_txt {
     display: block;
-    margin: 15px 0;
+    margin: 20px 0;
     text-align: right;
     font-size: 1.7em;
-    color: orangered;
-    font-weight: bold;
 }
+.link_txt .link {
+    color: #4887d9;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.link_txt .font-link {
+    font-size: 0.9em;
+}
+.link_txt sup {
+    color: #4887d9;
+    text-decoration: none;
+}
+
 
 #wrapper {
     width: 900px;
@@ -319,6 +330,7 @@ table.r-r-table td {
 .img-btn {
     text-align: center;
     padding-top: 20px;
+    margin-bottom: 60px;
 }
 .img-btn img {
     width: 600px;

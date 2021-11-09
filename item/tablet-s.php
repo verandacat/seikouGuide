@@ -46,7 +46,9 @@
         class="bold red">「食事の前に1粒」の手軽な血糖値対策</span>をぜひ普段の食生活に取り入れましょう。
         
     <a target="_blank" href="./links/tablet-s.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
-        <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+        <p class="link_txt">
+            <span class="link font-link">→ 特別キャンペーンページはこちら</span>
+        </p>
     </a>
 
 </div>
