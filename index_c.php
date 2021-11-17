@@ -132,14 +132,14 @@
                     <th>
                         <p>
                             <a class="link-img" target="_blank"
-                                href="./links/slilin.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                                <img src="./img/slilin.jpg" alt="" />
+                                href="./links/slilinF.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+                                <img src="./img/slilinF.jpg" alt="" />
                             </a>
                         </p>
                         <p>
                             <span class="lbg">
                                 <a target="_blank"
-                                    href="./links/slilin.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">スリリンW</a>
+                                    href="./links/slilinF.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">スリリンファイア</a>
                             </span>
                         </p>
                     </th>
@@ -201,7 +201,8 @@
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                         <p>
-                        ターミナリアベリリカ由来没食子酸
+                            アムラ由来”エラグ酸”<br>
+                            ブラックジンジャー由来"ポリメトキシフラボン“
                         </p>
                     </td>
 
@@ -248,8 +249,8 @@
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>7,980円（定期）</p>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>3,980円（定期）</p>
 
                     </td>
                 </tr>
@@ -313,7 +314,7 @@
                     </td>
 
                     <td>
-                        <p>・乳酸菌１億個・活性炭<br>・手ごろな価格で体内フローラサプリを試したい<br>・食べる前に２粒ダケ！脂肪や糖の吸収も抑えたい</p>
+                        <p>血流を上げたい人<br>・体温を上げたい人<br>・おなかまわりの脂肪が気になる人</p>
                     </td>
 
                 </tr>
@@ -341,7 +342,7 @@
 
                     <td>
                         <a target="_blank"
-                            href="./links/eg.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+                            href="./links/slilinF.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>

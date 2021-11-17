@@ -73,11 +73,8 @@
       <td>定期初回500円（税込） 定期3,990円（税込）</td>
       <td>定期初回30粒（10日分）/ 定期90粒（30日分）</td>
       <td>
-      <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php") : ?>
         <img alt="" src="./img/review_4.gif" />
-      <?php else : ?>
-        <img alt="" src="./img/review_45.gif" />
-      <?php endif; ?>
+     
       </td>
     </tr>
     <tr>

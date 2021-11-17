@@ -13,6 +13,7 @@
   </div>
 
 
+
   <section id="section-01">
 
     <div class="title-wrap">
@@ -21,7 +22,7 @@
 
       <h1 class="right">とお悩みの方へ</span></h1>
 
-      <h1 class="center">本当におすすめ！<br>厳選！酵素サプリ人気ランキングベスト３を大公開</span></h1>
+      <h1 class="center">本当におすすめ！<br>厳選！酵素サプリ5選！</span></h1>
 
     </div>
     <!--.title-wrap end-->
@@ -45,7 +46,6 @@
 
 
 
-
   <section id="section-02">
 
     <!--比較表START-->
@@ -56,85 +56,71 @@
 
         <tr>
 
-          <th class="crown">
-
+          <th class="crown table-title">
           </th>
 
           <th class="crown">
-            <p>
-              <img src="./img/n_img/crown_icon_01.png" width="100" alt="" />
-            </p>
-
-          </th>
-
-          <th class="crown">
-            <p>
-              <img src="./img/n_img/crown_icon_02.png" width="100" alt="" />
+            <p class="center">
+              <span class="red bg-y" style="font-size: 1.2em">人気No.1！</span>
             </p>
           </th>
 
           <th class="crown">
-            <p>
-              <img src="./img/n_img/crown_icon_03.png" width="100" alt="" />
-            </p>
           </th>
 
+          <th class="crown">
+          </th>
 
         </tr>
-
-
-        <!-- 1行目 商品名-->
+        
 
         <tr>
+
           <th class="table-title">
             <h6>商品名</h6>
+          </th>
+
+          <th>
+            <p>
+              <a class="link-img" target="_blank"
+                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/maarui.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+                <img src="./img/maarui.jpg" alt="" />
+              </a>
+            </p>
+            <p>
+              <span class="lbg">
+                <a target="_blank"
+                  href="https://xn--eckalq1hua9ak9609eoj6a.com/links/maarui.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">旬の実酵素</a>
+              </span>
             </p>
           </th>
 
           <th>
-            
-                <p>
-                 <a class="link-img" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/maarui.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
-                    <img src="./img/maarui.jpg" alt="" />
-                  </a>
-                </p>
-                
-                <p>
-                  <span class="lbg">
-                  <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/maarui.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">旬の実酵素</a>
-                  </span>
-                </p>
-
-          </th>
-
-
-
-          <th>
             <p>
-              <a class="link-img" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/berunama.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+              <a class="link-img" target="_blank"
+                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/berunama.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
                 <img src="./img/belta.jpg" alt="" />
               </a>
             </p>
             <p>
               <span class="lbg">
-                <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/berunama.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">ベルタこうじ生酵素</a>
+                <a target="_blank"
+                  href="https://xn--eckalq1hua9ak9609eoj6a.com/links/berunama.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">ベルタこうじ生酵素</a>
               </span>
             </p>
           </th>
 
-
-
-
           <th>
-
             <p>
-              <a class="link-img" target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yoku.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+              <a class="link-img" target="_blank"
+                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yoku.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
                 <img src="./img/yoku.jpg" alt="">
               </a>
             </p>
             <p>
               <span class="lbg">
-                <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yoku.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">よくばりキレイの生酵素</a>
+                <a target="_blank"
+                  href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yoku.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">よくばりキレイの生酵素</a>
               </span>
             </p>
           </th>
@@ -142,68 +128,35 @@
         </tr>
 
 
-        <!-- 2行目 -->
-
         <tr>
+
           <td class="table-title">
-            <h6>ユーザー評価</h6>
-
+            <h6>おすすめ度</h6>
           </td>
 
           <td>
             <p>
               <img src="./img/review_45.gif" alt="" />
             </p>
-
             <p class="f-15">4.4/5.0</p>
-
           </td>
-
 
           <td>
             <p>
               <img src="./img/review_45.gif" alt="" />
             </p>
-
             <p class="f-15">4.3/5.0</p>
-
           </td>
 
           <td>
             <p>
               <img src="./img/review_4.gif" alt="" />
             </p>
-
             <p class="f-15">4.0/5.0</p>
-
           </td>
 
         </tr>
 
-
-
-        <!-- 3行目 -->
-
-        <!-- <tr>
-              <td class="table-title">
-                  <h6 class="table-title">サプリタイプ</h6>
-              </td>
-
-              <td>
-                  <img src="./img/n_img/r_check_01.png" alt="" />                        
-              </td>
-
-              <td>
-                  <img src="./img/n_img/r_check_02.png" alt="" />
-              </td>
-
-              <td>
-                  <img src="./img/n_img/r_check_02.png" alt="" />
-              </td>
-            </tr>-->
-
-
-        <!-- 4行目 -->
 
         <tr>
 
@@ -212,23 +165,22 @@
           </td>
 
           <td>
-          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
             <p>315種類の植物発酵エキス</p>
           </td>
+
           <td>
             <img class="small" src="./img/n_img/r_check_01.png" alt="" />
             <p>麹菌・乳酸菌</p>
           </td>
+
           <td>
             <img class="small" src="./img/n_img/r_check_01.png" alt="" />
             <p>野菜発酵エキスを含む563種の酵素</p>
-
           </td>
 
         </tr>
-
-
-        <!-- 5行目 -->
+        
 
         <tr>
 
@@ -249,9 +201,76 @@
           </td>
 
         </tr>
+        
+
+        <tr>
+
+          <td class="table-title">
+            <h6 class="table-title">通常価格</h6>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+            <p>3,218円</p>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+            <p>4,298円</p>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+            <p>4,298円</p>
+          </td>
+
+        </tr>
+        
+
+        <tr>
+
+          <td class="table-title">
+            <h6>特別オファー</h6>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+            <p>980円</p>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+            <p>初回2,138円</p>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+            <p>初回680円（送料として）</p>
+          </td>
+
+        </tr>
 
 
-        <!-- 6行目 -->
+        <tr>
+
+          <td class="table-title width">
+            <h6>返金保証</h6>
+          </td>
+
+          <td>
+            <p>15日間返金保証付き</p>
+          </td>
+
+          <td>
+            <p>なし</p>
+          </td>
+
+          <td>
+            <p>90日間の全額返金保証</p>
+          </td>
+
+        </tr>
+
 
         <tr>
 
@@ -272,67 +291,7 @@
           </td>
 
         </tr>
-
-
-        <!-- 7行目 -->
-
-        <tr>
-
-          <td class="table-title">
-            <h6 class="table-title">通常価格</h6>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-            <p>3,218円</p>
-
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-            <p>4,298円</p>
-
-
-
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-            <p>4,298円</p>
-
-          </td>
-
-        </tr>
-
-
-        <!-- 8行目 -->
-
-        <tr>
-
-          <td class="table-title">
-            <h6>特別オファー</h6>
-          </td>
-
-          <td>
-          <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>980円</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>初回2,138円</p>
-
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>初回680円（送料として）</p>
-          </td>
-
-        </tr>
-
-
-        <!-- 9行目 -->
+        
 
         <tr class="btn" style="height: 50px;">
 
@@ -341,19 +300,22 @@
           </td>
 
           <td>
-            <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/maarui.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+            <a target="_blank"
+              href="https://xn--eckalq1hua9ak9609eoj6a.com/links/maarui.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
               <img src="./img/n_img/btn_site_go_s.png" width="100%">
             </a>
           </td>
 
           <td>
-            <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/berunama.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+            <a target="_blank"
+              href="https://xn--eckalq1hua9ak9609eoj6a.com/links/berunama.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
               <img src="./img/n_img/btn_site_go_s.png" width="100%">
             </a>
           </td>
 
           <td>
-            <a target="_blank" href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yoku.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
+            <a target="_blank"
+              href="https://xn--eckalq1hua9ak9609eoj6a.com/links/yoku.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
               <img src="./img/n_img/btn_site_go_s.png" width="100%">
             </a>
           </td>
@@ -467,20 +429,20 @@
   <!----------------------------SEARCH-------------------------->
 
   <script>
-    $(function() {
+  $(function() {
 
-      $(".tab_content").hide();
-      $(".tab_content:nth-of-type(5)").show();
+    $(".tab_content").hide();
+    $(".tab_content:nth-of-type(5)").show();
 
-      $("ul.tabs li").click(function() {
-        $("ul.tabs li").removeClass("active").css("color", "#333");
-        //$(this).addClass("active").css({"color": "darkred","font-weight": "bolder"});
-        $(this).addClass("active").css("color", "white");
-        $(".tab_content").hide()
-        var activeTab = $(this).attr("rel");
-        $("#" + activeTab).fadeIn()
-      });
+    $("ul.tabs li").click(function() {
+      $("ul.tabs li").removeClass("active").css("color", "#333");
+      //$(this).addClass("active").css({"color": "darkred","font-weight": "bolder"});
+      $(this).addClass("active").css("color", "white");
+      $(".tab_content").hide()
+      var activeTab = $(this).attr("rel");
+      $("#" + activeTab).fadeIn()
     });
+  });
   </script>
 
 

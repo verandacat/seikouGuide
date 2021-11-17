@@ -86,6 +86,12 @@
     <?php endif; ?>
     <?php if($_SERVER['REQUEST_URI'] == "/index_a-test.php") : ?>
     <p>本当におすすめのダイエタリーライフサポートサプリ5選をご紹介します！！</p>
+    <?php elseif($_GET['pat'] == 'e') : ?>
+    <p>本当におすすめの酵素サプリ5選をご紹介します！！</p>  
+    <?php elseif($_GET['pat'] == 'f') : ?>
+    <p>本当におすすめの酵素ドリンク5選をご紹介します！！</p> 
+    <?php elseif($_GET['pat'] == 'g') : ?>
+    <p>本当におすすめのダイエットスムージー3選をご紹介します！！</p>  
     <?php else : ?>
     <p>ランキング形式で発表します！！</p>
     <?php endif; ?>

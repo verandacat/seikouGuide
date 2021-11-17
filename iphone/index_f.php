@@ -23,7 +23,7 @@
 
             <h1 class="right">とお悩みの方へ</span></h1><br>
 
-            <h1 class="center">本当におすすめ！<br>厳選！酵素ドリンク人気ランキングベスト5を大公開</span></h1>
+            <h1 class="center">本当におすすめ！<br>厳選！酵素ドリンク5選！</span></h1>
 
         </div>
         <!--.title-wrap end-->
@@ -61,62 +61,45 @@
                 <tr>
 
                     <th class="crown">
-
                     </th>
 
                     <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_01.png" width="80" alt="" />
-                        </p>
-
-                    </th>
-
-                    <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_02.png" width="80" alt="" />
+                        <p class="center">
+                            <span class="red bg-y" style="font-size: 1.2em">人気No.1！</span>
                         </p>
                     </th>
 
                     <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_03.png" width="80" alt="" />
-                        </p>
                     </th>
 
+                    <th class="crown">
+                    </th>
 
                 </tr>
-
-
-                <!-- 1行目 商品名-->
+                
 
                 <tr>
+
                     <th class="table-title width">
                         <h6>商品名</h6>
-                        </p>
                     </th>
 
                     <th>
-
                         <p>
                             <a class="link-img" target="_blank"
                                 href="https://xn--eckalq1hua9ak9609eoj6a.com/links/gold.php<?php echo "?".$query2; ?>">
                                 <img src="./img/gold.jpg" alt="" />
                             </a>
                         </p>
-
                         <p>
                             <span class="lbg">
                                 <a target="_blank"
                                     href="https://xn--eckalq1hua9ak9609eoj6a.com/links/gold.php<?php echo "?".$query2; ?>">シボヘールGOLDスムージー</a>
                             </span>
                         </p>
-
                     </th>
 
-
-
                     <th>
-
                         <p>
                             <a class="link-img" target="_blank"
                                 href="https://xn--eckalq1hua9ak9609eoj6a.com/links/dark.php<?php echo "?".$query2; ?>">
@@ -130,9 +113,6 @@
                             </span>
                         </p>
                     </th>
-
-
-
 
                     <th>
                         <p>
@@ -149,25 +129,20 @@
                         </p>
                     </th>
 
-
                 </tr>
-
-
-                <!-- 2行目 -->
+                
 
                 <tr>
+
                     <td class="table-title width">
-                        <h6>ユーザー評価</h6>
-
+                        <h6>おすすめ度</h6>
                     </td>
 
                     <td>
                         <p>
                             <img src="./img/review_45.gif" alt="" />
                         </p>
-
                         <p class="f-13">4.4/5.0</p>
-
                     </td>
 
 
@@ -175,25 +150,18 @@
                         <p>
                             <img src="./img/review_45.gif" alt="" />
                         </p>
-
                         <p class="f-13">4.3/5.0</p>
-
                     </td>
 
                     <td>
                         <p>
                             <img src="./img/review_4.gif" alt="" />
                         </p>
-
                         <p class="f-13">4.0/5.0</p>
-
                     </td>
 
                 </tr>
-
-
-
-                <!-- 4行目 -->
+                
 
                 <tr>
 
@@ -205,19 +173,20 @@
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>グルコマンナン、アフリカマンゴノキ、乳酸菌、食物繊維、アミノ酸、239種の植物発酵エキス</p>
                     </td>
+
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <!-- <p>野菜、果物、野草などを含む165種の酵素</p> -->
                         <p>チャコール、乳酸菌</p>
                     </td>
+
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>60種類以上の国産野菜</p>
                     </td>
+
                 </tr>
-
-
-                <!-- 5行目 -->
+                
 
                 <tr>
 
@@ -242,31 +211,6 @@
 
                 </tr>
 
-                <!-- 6行目 -->
-
-                <tr>
-
-                    <td class="table-title width">
-                        <h6>こんな人に<br>おすすめ</h6>
-                    </td>
-
-                    <td>
-                        <p style="text-align: left">・空腹のストレスを抑えたい人<br>・自然と食べる量を減らしたい人</p>
-                    </td>
-
-                    <td>
-                        <p style="text-align: left">・体の内側からキレイになりたい<br>・食事サポート成分で健康になりたい<br>・乳酸菌のチカラでスッキリしたい</p>
-                        <!-- <p style="text-align: left">・低カロリーで済ませたい<br>・美容成分も一緒に摂りたい</p> -->
-                    </td>
-
-                    <td>
-                        <p style="text-align: left">・ファスティングダイエットをしたい人<br>・完全無添加の酵素でファスティングをしたい人</p>
-                    </td>
-
-                </tr>
-
-
-                <!-- 7行目 -->
 
                 <tr>
 
@@ -281,7 +225,6 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <!-- <p>10,200円</p> -->
                         <p>5,751円</p>
                     </td>
 
@@ -292,8 +235,6 @@
 
                 </tr>
 
-
-                <!-- 8行目 -->
 
                 <tr>
 
@@ -318,8 +259,48 @@
 
                 </tr>
 
+                
+                <tr>
 
-                <!-- 9行目 -->
+                    <td class="table-title width">
+                        <h6>こんな人に<br>おすすめ</h6>
+                    </td>
+
+                    <td>
+                        <p style="text-align: left">・空腹のストレスを抑えたい人<br>・自然と食べる量を減らしたい人</p>
+                    </td>
+
+                    <td>
+                        <p style="text-align: left">・体の内側からキレイになりたい<br>・食事サポート成分で健康になりたい<br>・乳酸菌のチカラでスッキリしたい</p>
+                    </td>
+
+                    <td>
+                        <p style="text-align: left">・ファスティングダイエットをしたい人<br>・完全無添加の酵素でファスティングをしたい人</p>
+                    </td>
+
+                </tr>
+
+
+                <tr>
+
+                    <td class="table-title">
+                        <h6 class="table-title">返金保証</h6>
+                    </td>
+
+                    <td>
+                        <p>初回全額返金保証付き</p>
+                    </td>
+
+                    <td>
+                        <p>なし</p>
+                    </td>
+
+                    <td>
+                        <p>返金保証付き</p>
+                    </td>
+
+                </tr>
+                
 
                 <tr class="btn" style="height: 50px;">
 

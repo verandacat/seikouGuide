@@ -23,16 +23,16 @@
 
             <h1 class="right">とお悩みの方へ</span></h1>
 
-            <h1 class="center">本当におすすめ！<br>厳選！体内フローラサプリ人気ランキングベスト３を大公開</span></h1>
+            <h1 class="center">本当におすすめ！<br>厳選！体内フローラサポートサプリ3選！</span></h1>
 
         </div>
         <!--.title-wrap end-->
 
         <div class="txt-wrap">
 
-            <p>当サイトでは数多くの体内フローラサプリの成分や利用者の口コミを徹底調査！</p><br>
+            <p>当サイトでは数多くの体内フローラサポートサプリの成分や利用者の口コミを徹底調査！</p><br>
 
-            <p><span class="bold bg-y">【失敗しない体内フローラサプリの選び方】</span>をご紹介します。
+            <p><span class="bold bg-y">【失敗しない体内フローラサポートサプリの選び方】</span>をご紹介します。
             </p><br>
 
             <p>「体の内側からスッキリしたい！」とお考えの方は是非参考にしてみてください。</p><br>
@@ -61,35 +61,25 @@
                 <tr>
 
                     <th class="crown">
-
                     </th>
 
                     <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_01.png" width="80" alt="" />
-                        </p>
-
-                    </th>
-
-                    <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_02.png" width="80" alt="" />
+                        <p class="center">
+                            <span class="red bg-y" style="font-size: 1.2em">人気No.1！</span>
                         </p>
                     </th>
 
                     <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_03.png" width="80" alt="" />
-                        </p>
                     </th>
 
+                    <th class="crown">
+                    </th>
 
                 </tr>
 
 
-                <!-- 1行目 商品名-->
-
                 <tr>
+
                     <th class="table-title width">
                         <h6>商品名</h6>
                         </p>
@@ -140,103 +130,62 @@
                         </p>
                     </th>
 
-
-
-
                 </tr>
-
-
-                <!-- 2行目 -->
+                
 
                 <tr>
-                    <td class="table-title width">
-                        <h6>ユーザー評価</h6>
 
+                    <td class="table-title width">
+                        <h6>おすすめ度</h6>
                     </td>
 
                     <td>
                         <p>
                             <img src="./img/review_5.gif" alt="" />
                         </p>
-
                         <p class="f-13">4.9/5.0</p>
-
                     </td>
-
 
                     <td>
                         <p>
                             <img src="./img/review_45.gif" alt="" />
                         </p>
-
                         <p class="f-13">4.4/5.0</p>
-
                     </td>
 
                     <td>
                         <p>
                             <img src="./img/review_4.gif" alt="" />
                         </p>
-
                         <p class="f-13">4.0/5.0</p>
-
                     </td>
 
                 </tr>
 
-
-
-
-                <!-- 3行目 -->
-
-                <!--<tr>
-                          <td class="table-title width">
-                              <h6>サプリタイプ</h6>
-                          </td>
-          
-                          <td>
-                              <p>燃焼・カット系</p>                    
-                          </td>
-          
-                          <td>
-                             <p>乳酸菌・体内フローラ系</p>                    
-                          </td>
-          
-                          <td>
-                             <p>燃焼・カット系</p>                    
-                          </td>
-                        </tr>-->
-
-
-
-                <!-- 4行目 -->
 
                 <tr>
 
                     <td class="table-title width">
                         <h6>配合成分</h6>
                     </td>
-
                     
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>スポルス、植物性ナノ型乳酸菌SNK、ヘルパー乳酸菌、オリゴ糖、ホリデキストロース</p>
                     </td>
+
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                         <p>ユーグレナ・ビフィズス菌B-3、酪酸菌など</p>
                     </td>
+
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                         <p>短鎖脂肪酸、植物性乳酸菌、有胞子性乳酸菌、ナノ型乳酸菌</p>
                     </td>
-                    
-
 
                 </tr>
-
-
-                <!-- 5行目 -->
+                
 
                 <tr>
 
@@ -257,32 +206,7 @@
                     </td>
 
                 </tr>
-
-                <!-- 6行目 -->
-
-                <tr>
-
-                    <td class="table-title width">
-                        <h6>こんな人に<br>おすすめ</h6>
-                    </td>
-
-                    <td>
-                        <p>・菌活したい人</p>
-                    </td>
-                    <td>
-                        <p>・実感力の高い菌を複数摂りたい</p>
-                    </td>
-                    <td>
-                        <p>・一緒にユーグレナを摂りたい方</p>
-                    </td>
-
-                   
-
-
-                </tr>
-
-
-                <!-- 7行目 -->
+                
 
                 <tr>
 
@@ -293,26 +217,20 @@
                     <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
                         <p>4,980円（税込）</p>
-
                     </td>
+
                     <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
                         <p>3,960円（税込）</p>
-
                     </td>
+
                     <td>
                         <img class="small" src="./img/n_img/r_check_03.png" alt="" />
                         <p>4,730円（税込）</p>
-
                     </td>
-
-                   
-
 
                 </tr>
 
-
-                <!-- 8行目 -->
 
                 <tr>
 
@@ -323,33 +241,69 @@
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>初回498円（税込）</p>
-
                     </td>
+
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>初回465円（税込）</p>
-
                     </td>
+
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>初回2,365円（税込）</p>
-
                     </td>
 
-                  
                 </tr>
 
 
-                <!-- 9行目 -->
+                <tr>
+
+                    <td class="table-title">
+                        <h6>返金保証</h6>
+                    </td>
+
+                    <td>
+                        <p><span class="red">永久返金保証付き</span></p>
+                    </td>
+
+                    <td>
+                        <p>30日間返金保証付き</p>
+                    </td>
+
+                    <td>
+                        <p>なし</p>
+                    </td>
+
+                </tr>
+
+
+                <tr>
+
+                    <td class="table-title width">
+                        <h6>こんな人に<br>おすすめ</h6>
+                    </td>
+
+                    <td>
+                        <p>・菌活したい人</p>
+                    </td>
+
+                    <td>
+                        <p>・実感力の高い菌を複数摂りたい</p>
+                    </td>
+
+                    <td>
+                        <p>・一緒にユーグレナを摂りたい方</p>
+                    </td>
+
+                </tr>
+                
 
                 <tr class="btn" style="height: 50px;">
 
                     <td class="table-title">
                         <h6>公式サイト</h6>
                     </td>
-
-                   
-
+                    
                     <td style="width:28%">
                         <a target="_blank"
                             href="https://xn--eckalq1hua9ak9609eoj6a.com/links/llulu.php<?php echo "?" . $query2; ?>">
@@ -370,6 +324,7 @@
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>
+
                 </tr>
 
             </tbody>
@@ -386,13 +341,15 @@
     <section id="section-03">
 
 
-        <h1 class="midashi">体内フローラサプリ選びで<br>失敗しないための５つのポイント</h1>
+        <h1 class="midashi">体内フローラサポートサプリ選びで<br>失敗しないための５つのポイント</h1>
 
-        <div class="txt-wrap center">
+        <div class="txt-wrap">
 
-
-            <p>特に最近は詐欺まがいの悪徳サプリもたくさん流通しており<br><span class="bold">「高いお金を払ったのに、全く効果がなかった」
-                    「それどころか、体調まで悪くした」</span>なんてことも。。</p><br>
+            <p>特に最近は詐欺まがいの悪徳サプリもたくさん流通しており</p>
+            <br>
+            <p>
+            <span class="bold">「高いお金を払ったのに、全く効果がなかった」
+            「それどころか、体調まで悪くした」</span><br>なんてことも。。</p><br>
 
             <p>そこで、正しい選び方のポイントをまとめました。</p>
 
@@ -423,7 +380,7 @@
 
             <p>当サイトでは、上記ポイントを元にサプリを徹底的に調査しました！</p>
 
-            <p>ランキング形式で発表します！！</p>
+            <p>本当におすすめの体内フローラサポートサプリ3選をご紹介します！！</p>
 
 
             <div class="img-wrap arrow">
@@ -493,11 +450,11 @@
 
       <div class="last-txt bg-wh border-r">
 
-        <p>当サイトでご紹介している体内フローラサプリは、効果はもちろんですが、
+        <p>当サイトでご紹介している体内フローラサポートサプリは、効果はもちろんですが、
           <span class="bold">できるかぎり多くの「ダイエットしたい」「毎朝すっきりしたい」とお悩みの方に試していただきたい</span>という気持ちから、
           <span class="bold red">お得に試せるかどうか</span>、という点も重要視して選ばせていただきました。</p><br>
 
-        <p>体内フローラサプリランキング第１位の<span class="bold">Lakubi</span>は今なら
+        <p>体内フローラサポートサプリランキング第１位の<span class="bold">Lakubi</span>は今なら
           <span class="bold blue">初回５００円モニター募集中！</span>なんと、 １日わずか１０円 で試すことが出来ちゃいます。</p><br>
 
         <p>このめっちゃお得な特別オファーは、 <span class="bold">今だけの特別オファーなのですぐに募集が終了してしまう可能性が高い</span>です。</p><br>
@@ -516,11 +473,11 @@
 
       <div class="last-txt bg-wh border-r">
 
-        <p>当サイトでご紹介している体内フローラサプリは、効果はもちろんですが、
+        <p>当サイトでご紹介している体内フローラサポートサプリは、効果はもちろんですが、
           <span class="bold">できるかぎり多くの「ダイエットしたい」「毎朝すっきりしたい」とお悩みの方に試していただきたい</span>という気持ちから、
           <span class="bold red">お得に試せるかどうか</span>、という点も重要視して選ばせていただきました。</p><br>
 
-        <p>体内フローラサプリランキング第１位の<span class="bold">Lakubi</span>は今なら
+        <p>体内フローラサポートサプリランキング第１位の<span class="bold">Lakubi</span>は今なら
           <span class="bold blue">初回５００円モニター募集中！</span>なんと、 １日わずか１０円 で試すことが出来ちゃいます。</p><br>
 
         <p>このめっちゃお得な特別オファーは、 <span class="bold">今だけの特別オファーなのですぐに募集が終了してしまう可能性が高い</span>です。</p><br>

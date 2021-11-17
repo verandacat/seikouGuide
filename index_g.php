@@ -22,9 +22,9 @@
 
             <h1 class="left"><span class="red">「空腹のストレスに我慢できずいつも失敗…」<br>「置き換えダイエットの後、ついつい食べすぎちゃう…」</span></h1>
 
-            <h1 class="right">とお悩みの方へ</span></h1>
+            <h1 class="right">とお悩みの方へ</h1>
 
-            <h1 class="center">本当におすすめ！<br>厳選！ダイエットスムージー人気ランキング<br>ベスト３を大公開</span></h1>
+            <h1 class="center">本当におすすめ！<br>本当におすすめ！ダイエットスムージー3選！</h1>
 
         </div>
         <!--.title-wrap end-->
@@ -60,33 +60,22 @@
                 <tr>
 
                     <th class="crown">
-
                     </th>
 
                     <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_01.png" width="100" alt="" />
-                        </p>
-
-                    </th>
-
-                    <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_02.png" width="100" alt="" />
+                        <p class="center">
+                            <span class="red bg-y" style="font-size: 1.2em">人気No.1！</span>
                         </p>
                     </th>
 
                     <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_03.png" width="100" alt="" />
-                        </p>
                     </th>
 
+                    <th class="crown">
+                    </th>
 
                 </tr>
 
-
-                <!-- 1行目 商品名-->
 
                 <tr>
                     <th class="table-title">
@@ -95,24 +84,19 @@
                     </th>
 
                     <th>
-
                         <p>
                             <a class="link-img" target="_blank"
                                 href="https://xn--eckalq1hua9ak9609eoj6a.com/links/gold.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">
                                 <img src="./img/gold.jpg" alt="" />
                             </a>
                         </p>
-
                         <p>
                             <span class="lbg">
                                 <a target="_blank"
                                     href="https://xn--eckalq1hua9ak9609eoj6a.com/links/gold.php<?php echo "?" . $_SERVER['QUERY_STRING'] ?>">シボヘールGOLDスムージー</a>
                             </span>
                         </p>
-
                     </th>
-
-
 
                     <th>
                         <p>
@@ -128,8 +112,6 @@
                             </span>
                         </p>
                     </th>
-
-
 
                     <th>
                         <p>
@@ -147,49 +129,37 @@
                     </th>
 
                 </tr>
-
-
-                <!-- 2行目 -->
+                
 
                 <tr>
+
                     <td class="table-title">
-                        <h6>ユーザー評価</h6>
-
+                        <h6>おすすめ度</h6>
                     </td>
 
                     <td>
                         <p>
                             <img src="./img/review_45.gif" alt="" />
                         </p>
-
                         <p class="f-15">4.4/5.0</p>
-
                     </td>
-
 
                     <td>
                         <p>
                             <img src="./img/review_45.gif" alt="" />
                         </p>
-
                         <p class="f-15">4.3/5.0</p>
-
                     </td>
 
                     <td>
                         <p>
                             <img src="./img/review_4.gif" alt="" />
                         </p>
-
                         <p class="f-15">4.0/5.0</p>
-
                     </td>
 
                 </tr>
-
-
-
-                <!-- 4行目 -->
+                
 
                 <tr>
 
@@ -201,18 +171,18 @@
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>グルコマンナン、アフリカマンゴノキ、乳酸菌、食物繊維、アミノ酸、239種の植物発酵エキス</p>
                     </td>
+
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
                         <p>大豆イソフラボン、ワイルドヤム配合、10種のビタミン、レタス1.2個分の食物繊維</p>
                     </td>
+
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                         <p>40種類以上の植物発酵エキス、国内製造米、ジンジャースープ</p>
                     </td>
                 </tr>
-
-
-                <!-- 5行目 -->
+                
 
                 <tr>
 
@@ -235,9 +205,57 @@
                     </td>
 
                 </tr>
+                
 
+                <tr>
 
-                <!-- 6行目 -->
+                    <td class="table-title">
+                        <h6>通常価格</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>4,212円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+                        <!-- <p>7,452円</p> -->
+                        <p>7,020円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+                        <!-- <p>10,200円</p> -->
+                        <p>6,458円</p>
+                    </td>
+
+                </tr>
+                
+
+                <tr>
+
+                    <td class="table-title">
+                        <h6>特別オファー</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>初回1,980円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>初回980円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>初回2,138円</p>
+                    </td>
+
+                </tr>
+
 
                 <tr>
 
@@ -260,64 +278,26 @@
                 </tr>
 
 
-                <!-- 7行目 -->
-
                 <tr>
 
                     <td class="table-title">
-                        <h6>通常価格</h6>
+                        <h6 class="table-title">返金保証</h6>
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>4,212円</p>
-                    </td>
-
-                  
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <!-- <p>7,452円</p> -->
-                        <p>7,020円</p>
+                        <p>初回全額返金保証付き</p>
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <!-- <p>10,200円</p> -->
-                        <p>6,458円</p>
+                        <p>なし</p>
+                    </td>
+
+                    <td>
+                        <p>なし</p>
                     </td>
 
                 </tr>
-
-
-                <!-- 8行目 -->
-
-                <tr>
-
-                    <td class="table-title">
-                        <h6>特別オファー</h6>
-                    </td>
-
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回1,980円</p>
-                    </td>
-
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>初回980円</p>
-                    </td>
-
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>初回2,138円</p>
-
-                    </td>
-
-                </tr>
-
-
-
-                <!-- 9行目 -->
+                
 
                 <tr class="btn" style="height: 50px;">
 

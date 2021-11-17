@@ -23,7 +23,7 @@
 
             <h1 class="right">とお悩みの方へ</span></h1><br>
 
-            <h1>本当におすすめ！<br>厳選糖質ケアサプリキング<br>ベスト４を大公開！</span></h1>
+            <h1>本当におすすめ！<br>厳選糖質ケアサプリキング<br>ベスト2を大公開！</span></h1>
 
         </div>
         <!--.title-wrap end-->
@@ -78,9 +78,9 @@
                     </th>
 
                     <th class="crown">
-                        <p>
+                        <!-- <p>
                             <img src="./img/n_img/crown_icon_03.png" width="80" alt="" />
-                        </p>
+                        </p> -->
                     </th>
 
 
@@ -126,16 +126,7 @@
                     </th>
 
                     <th>
-                        <p>
-                            <a class="link-img" target="_blank" href="./links/slilin.php<?php echo "?".$query2; ?>">
-                                <img src="./img/slilin.jpg" alt="" />
-                            </a>
-                        </p>
-                        <p>
-                            <span class="lbg">
-                                <a target="_blank" href="./links/slilin.php<?php echo "?".$query2; ?>">スリリンW</a>
-                            </span>
-                        </p>
+                       
                     </th>
 
                 </tr>
@@ -170,11 +161,11 @@
                     </td>
 
                     <td>
-                        <p>
+                        <!-- <p>
                             <img src="./img/review_45.gif" alt="" />
                         </p>
 
-                        <p class="f-13">4.4/5.0</p>
+                        <p class="f-13">4.4/5.0</p> -->
 
                     </td>
 
@@ -201,8 +192,9 @@
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>ターミナリアベリリカ由来没食子酸</p>
+                        <!-- <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>アムラ由来”エラグ酸”<br>
+                ブラックジンジャー由来"ポリメトキシフラボン“</p> -->
                     </td>
 
                 </tr>
@@ -226,7 +218,7 @@
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <!-- <img class="small" src="./img/n_img/r_check_02.png" alt="" /> -->
                     </td>
 
                 </tr>
@@ -253,9 +245,9 @@
                     </td>
 
                     <td>
-                        <p style="text-align: left">
-                            乳酸菌１億個・活性炭<br>・手ごろな価格で体内フローラサプリを試したい<br>・食べる前に２粒ダケ！脂肪や糖の吸収も抑えたい
-                        </p>
+                        <!-- <p style="text-align: left">
+                        ・血流を上げたい人<br>・体温を上げたい人<br>・おなかまわりの脂肪が気になる人
+                        </p> -->
                     </td>
 
 
@@ -281,8 +273,8 @@
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>7,980円（定期）</p>
+                        <!-- <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>3,990円（定期）</p> -->
                     </td>
 
                 </tr>
@@ -308,8 +300,8 @@
                     </td>
 
                     <td style="width:27%">
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回500円（税込）</p>
+                        <!-- <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>初回500円（税込）</p> -->
                     </td>
 
                 </tr>
@@ -337,9 +329,9 @@
 
 
                     <td>
-                        <a target="_blank" href="./links/slilin.php<?php echo "?".$query2; ?>">
+                        <!-- <a target="_blank" href="./links/slilinF.php<?php echo "?".$query2; ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
-                        </a>
+                        </a> -->
                     </td>
 
                 </tr>

@@ -21,9 +21,9 @@
 
             <h1 class="left"><span class="red">「空腹のストレスに我慢できずいつも失敗…」<br>「置き換えダイエットの後、ついつい食べすぎちゃう…」</span></h1>
 
-            <h1 class="right">とお悩みの方へ</span></h1>
+            <h1 class="right">とお悩みの方へ</h1>
 
-            <h1 class="center">本当におすすめ！<br>厳選！ダイエットスムージー人気ランキングベスト３を大公開</span></h1>
+            <h1 class="center">本当におすすめ！<br>ダイエットスムージー3選！</h1>
         </div>
         <!--.title-wrap end-->
 
@@ -60,42 +60,29 @@
                 <tr>
 
                     <th class="crown">
-
                     </th>
 
                     <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_01.png" width="80" alt="" />
-                        </p>
-
-                    </th>
-
-                    <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_02.png" width="80" alt="" />
+                        <p class="center">
+                            <span class="red bg-y" style="font-size: 1.2em">人気No.1！</span>
                         </p>
                     </th>
 
                     <th class="crown">
-                        <p>
-                            <img src="./img/n_img/crown_icon_03.png" width="80" alt="" />
-                        </p>
                     </th>
 
+                    <th class="crown">
+                    </th>
 
                 </tr>
-
-
-                <!-- 1行目 商品名-->
+                
 
                 <tr>
                     <th class="table-title width">
                         <h6>商品名</h6>
-                        </p>
                     </th>
 
                     <th>
-
                         <p>
                             <a class="link-img" target="_blank" href="links/gold.php<?php echo "?" . $query2; ?>">
                                 <img src="./img/gold.jpg" alt="" />
@@ -107,9 +94,7 @@
                                 <a target="_blank" href="links/gold.php<?php echo "?" . $query2; ?>">シボヘールGOLDスムージー</a>
                             </span>
                         </p>
-
                     </th>
-
 
                     <th>
                         <p>
@@ -139,26 +124,20 @@
                         </p>
                     </th>
 
-
-
                 </tr>
 
 
-                <!-- 2行目 -->
-
                 <tr>
+
                     <td class="table-title width">
                         <h6>ユーザー評価</h6>
-
                     </td>
 
                     <td>
                         <p>
                             <img src="./img/review_45.gif" alt="" />
                         </p>
-
                         <p class="f-13">4.4/5.0</p>
-
                     </td>
 
 
@@ -166,25 +145,18 @@
                         <p>
                             <img src="./img/review_45.gif" alt="" />
                         </p>
-
                         <p class="f-13">4.3/5.0</p>
-
                     </td>
 
                     <td>
                         <p>
                             <img src="./img/review_4.gif" alt="" />
                         </p>
-
                         <p class="f-13">4.0/5.0</p>
-
                     </td>
 
                 </tr>
-
-
-
-                <!-- 4行目 -->
+                
 
                 <tr>
 
@@ -206,10 +178,9 @@
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
                         <p>40種類以上の植物発酵エキス、国内製造米、ジンジャースープ</p>
                     </td>
+
                 </tr>
-
-
-                <!-- 5行目 -->
+                
 
                 <tr>
 
@@ -230,8 +201,54 @@
                     </td>
 
                 </tr>
+                
 
-                <!-- 6行目 -->
+                <tr>
+
+                    <td class="table-title">
+                        <h6>通常価格</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>4,212円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+                        <p>7,020円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+                        <p>6,458円</p>
+                    </td>
+                </tr>
+                
+
+                <tr>
+
+                    <td class="table-title">
+                        <h6>特別オファー</h6>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>初回1,980円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+                        <p>初回980円</p>
+                    </td>
+
+                    <td>
+                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+                        <p>初回2,138円</p>
+                    </td>
+
+                </tr>
+
 
                 <tr>
 
@@ -250,65 +267,30 @@
                     <td>
                         <p style="text-align: left">・ファスティングダイエットをしたい人<br>・お手軽にファスティングを行いたい人</p>
                     </td>
+
                 </tr>
 
-
-                <!-- 7行目 -->
 
                 <tr>
 
                     <td class="table-title">
-                        <h6>通常価格</h6>
+                        <h6>返金保証</h6>
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>4,212円</p>
-
+                        <p>初回全額返金保証付き</p>
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <!-- <p>7,452円</p> -->
-                        <p>7,020円</p>
+                        <p>なし</p>
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
-                        <p>6,458円</p>
-                    </td>
-                </tr>
-
-
-                <!-- 8行目 -->
-
-                <tr>
-
-                    <td class="table-title">
-                        <h6>特別オファー</h6>
-                    </td>
-
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回1,980円</p>
-                    </td>
-
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <!-- <p>初回6,372円<br>（ハーフボトル2本）</p> -->
-                        <p>初回980円</p>
-                    </td>
-
-                    <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <!-- <p>10,200円<br>（ドリンク2本、サプリ1袋）</p> -->
-                        <p>初回2,138円</p>
+                        <p>なし</p>
                     </td>
 
                 </tr>
-
-
-                <!-- 9行目 -->
+                
 
                 <tr class="btn" style="height: 50px;">
 
