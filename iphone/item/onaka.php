@@ -56,8 +56,8 @@
 
   <a target="_blank" href="./links/onaka.php<?php echo $query; ?>" target="_blank">
   <p class="link_txt">
-                        <span class="link font-link">→ 特別キャンペーンページはこちら</span>
-                    </p>
+        <span class="link font-link">→ 特別キャンペーンページはこちら</span>
+    </p>
   </a>
 
 </div>
@@ -67,7 +67,7 @@
     <tr>
       <th>価格</th>
       <th>容量</th>
-      <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
+      <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test2.php" || $_SERVER['REQUEST_URI']=="/index_c-test2.php") : ?>
         <th>おすすめ度</th>
         <?php else : ?>
         <th>ユーザー評価</th>
