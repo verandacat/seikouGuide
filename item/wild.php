@@ -71,7 +71,7 @@
     <tr>
         <th>価格</th>
         <th>容量</th>
-        <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
+        <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test2.php" || $_SERVER['REQUEST_URI']=="/index_c-test2.php") : ?>
         <th>おすすめ度</th>
         <?php else : ?>
         <th>ユーザー評価</th>
@@ -81,9 +81,7 @@
         <td>980円（初回税込）定期: 3,808円（税込）</td>
         <td>60粒（1ヶ月分）</td>
         <td>
-            
             <img alt="" src="./img/review_45.gif" />
-          
         </td>
     </tr>
     <tr>

@@ -85,7 +85,7 @@
                 <tr>
                     <th>価格</th>
                     <th>容量</th>
-                    <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
+                    <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test2.php" || $_SERVER['REQUEST_URI']=="/index_c-test2.php") : ?>
                     <th>おすすめ度</th>
                     <?php else : ?>
                     <th>ユーザー評価</th>
@@ -96,11 +96,7 @@
                     <td>2,808円(税込)</td>
                     <td>120粒</td>
                     <td>
-                    <?php if ($_GET['pat'] == "a" || $_GET['pat'] == "" || $_GET['pat'] == "c") : ?>
                         <img alt="" src="./img/review_5.gif" />
-                        <?php else : ?>
-                        <img alt="" src="./img/review_4.gif" />
-                        <?php endif; ?>
                     </td>
                 </tr>
                 <tr>
@@ -109,20 +105,14 @@
                         配合成分
                     </th>
                     <th>
-                    <?php if ($_GET['pat'] == "l") : ?>
-                    <?php else : ?>
                         1日あたりの価格
-                    <?php endif; ?>
                     </th>
                 </tr>
                 <tr>
                     <td>機能性表示食品</td>
                     <td>葛の花由来イソフラボン配合</td>
                     <td>
-                    <?php if ($_GET['pat'] == "l") : ?>
-                    <?php else : ?>
                         約93円<sup>※2</sup>
-                    <?php endif; ?>
                     </td>
                 </tr>
 

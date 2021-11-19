@@ -216,6 +216,10 @@ th .link-img img {
     table-layout: fixed;
 }
 
+#section-02 .table-over.table-rank7 {
+    width: 200%;
+}
+
 #section-02 .table-over tbody {
     position: relative;
 }
@@ -1006,7 +1010,7 @@ sup {
     margin: 0 !important;
     text-indent: -1em;
     padding-left: 1em;
-    font-size: 0.9em;
+    font-size: 0.7rem;
 }
 
 /* footer-new */

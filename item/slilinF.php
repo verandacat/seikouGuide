@@ -63,7 +63,7 @@
     <tr>
       <th>価格</th>
       <th>容量</th>
-      <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
+      <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test2.php" || $_SERVER['REQUEST_URI']=="/index_c-test2.php") : ?>
       <th>おすすめ度</th>
       <?php else : ?>
         <th>ユーザー評価</th>
@@ -73,8 +73,7 @@
       <td>定期初回500円（税込） 定期3,990円（税込）</td>
       <td>定期初回30粒（10日分）/ 定期90粒（30日分）</td>
       <td>
-        <img alt="" src="./img/review_4.gif" />
-     
+        <img alt="" src="./img/review_4.gif" />    
       </td>
     </tr>
     <tr>

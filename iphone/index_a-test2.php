@@ -4,7 +4,7 @@
 
   <header>
     <div class="img-wrap">
-      <img src="./img/fv/seikou_topBn_sp-a-test.png" width="100%" />
+      <img src="./img/fv/seikou_topBn_sp-a-test2.png" width="100%" />
     </div>
   </header>
 
@@ -21,7 +21,7 @@
 
       <h1 class="right">とお悩みの方へ</span></h1><br>
 
-      <h1>本当におすすめ！<br>厳選！<br>ダイエタリーライフサポートサプリ7選！</h1>
+      <h1>本当におすすめ！<br>厳選！ダイエタリーライフ<br>サポートサプリ7選！</h1>
 
     </div>
     <!--.title-wrap end-->
@@ -53,7 +53,7 @@
 
       <!--比較表START-->
 
-      <table class="table-01 table-over" cellspacing="1">
+      <table class="table-01 table-over table-rank7" cellspacing="1">
 
         <colgroup width="50px">
         <colgroup width="20%">
@@ -61,6 +61,9 @@
         <colgroup width="20%">
         <colgroup width="20%">
         <colgroup width="20%">
+        <colgroup width="20%">
+        <colgroup width="20%">
+
 
           <tbody>
 
@@ -77,19 +80,21 @@
                   </th>
 
                   <th class="crown">
-
                   </th>
 
                   <th class="crown">
-
                   </th>
 
                   <th class="crown">
-
                   </th>
 
                   <th class="crown">
+                  </th>
 
+                  <th class="crown">
+                  </th>
+
+                  <th class="crown">
                   </th>
                 </tr>
 
@@ -109,7 +114,14 @@
                     </a>
                   </p>
                 </th>
-
+                
+                <th style="border-bottom: none;">
+                  <p style="margin-top: 10px">
+                    <a class="link-img" target="_blank" href="./links/meta.php<?php echo $query; ?>">
+                      <img src="./img/meta.jpg" alt="" />
+                    </a>
+                  </p>
+                </th>
 
                 <th style="border-bottom: none;">
                   <p style="margin-top: 10px">
@@ -117,7 +129,14 @@
                       <img src="./img/wild.jpg" alt="" />
                     </a>
                   </p>
+                </th>
 
+                <th style="border-bottom: none;">
+                  <p style="margin-top: 10px">
+                    <a class="link-img" target="_blank" href="./links/meta_pre.php<?php echo $query; ?>">
+                      <img src="./img/meta_pre.png" alt="" />
+                    </a>
+                  </p>
                 </th>
 
                 <th style="border-bottom: none;">
@@ -126,7 +145,6 @@
                       <img src="./img/slilinF.jpg" alt="" />
                     </a>
                   </p>
-
                 </th>
 
                 <th style="border-bottom: none;">
@@ -135,7 +153,6 @@
                       <img src="./img/osaeru.jpg" alt="" />
                     </a>
                   </p>
-
                 </th>
 
                 <th style="border-bottom: none;">
@@ -144,10 +161,10 @@
                       <img src="./img/chuihou.jpg" alt="" />
                     </a>
                   </p>
-
                 </th>
 
               </tr>
+
 
             <tr>
               <th style="border-top: none;">
@@ -160,7 +177,21 @@
               <th style="border-top: none;">
                 <p>
                   <span class="lbg">
+                    <a target="_blank" href="./links/meta.php<?php echo $query; ?>">メタバリアEX</a>
+                  </span>
+                </p>
+              </th>
+              <th style="border-top: none;">
+                <p>
+                  <span class="lbg">
                     <a target="_blank" href="./links/wild.php<?php echo $query; ?>">ワイルドマンゴーの力A</a>
+                  </span>
+                </p>
+              </th>
+              <th style="border-top: none;">
+                <p>
+                  <span class="lbg">
+                    <a target="_blank" href="./links/meta.php<?php echo $query; ?>">メタバリアEXプレミアム</a>
                   </span>
                 </p>
               </th>
@@ -188,12 +219,9 @@
             </tr>
 
 
-            <!-- 2行目 -->
-
           <tr>
             <td class="table-title width">
               <h6>おすすめ度</h6>
-
             </td>
 
             <td>
@@ -202,8 +230,6 @@
               </p>
               <p class="f-13">4.9/5.0</p>
             </td>
-
-
             <td>
               <p>
                 <img src="./img/review_45.gif" alt="" />
@@ -218,25 +244,34 @@
               <p class="f-13">4.5/5.0</p>
             </td>
 
-
             <td>
               <p>
                 <img src="./img/review_4.gif" alt="" />
               </p>
-
               <p class="f-13">4.3/5.0</p>
-
             </td>
 
             <td>
               <p>
                 <img src="./img/review_4.gif" alt="" />
               </p>
-
               <p class="f-13">4.0/5.0</p>
 
             </td>
 
+            <td>
+              <p>
+                <img src="./img/review_35.gif" alt="" />
+              </p>
+              <p class="f-13">3.8/5.0</p>
+            </td>
+
+            <td>
+              <p>
+                <img src="./img/review_35.gif" alt="" />
+              </p>
+              <p class="f-13">3.5/5.0</p>
+            </td>
           </tr>
 
 
@@ -254,19 +289,32 @@
 
           <td>
             <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+            <p>サラシノール
+            </p>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
             <p>
               エラグ酸
             </p>
           </td>
 
           <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" width="35" />
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+            <p>サラシノール
+            </p>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
             <p>
               アムラ由来”エラグ酸”<br>
               ブラックジンジャー由来"ポリメトキシフラボン“
             </p>
           </td>
 
+          <!-- osaeru -->
           <td>
             <img class="small" src="./img/n_img/r_check_02.png" alt="" />
             <p>
@@ -274,6 +322,7 @@
             </p>
           </td>
 
+          <!-- tsuihou -->
           <td>
             <img class="small" src="./img/n_img/r_check_02.png" alt="" />
             <p>
@@ -314,9 +363,17 @@
             <p>機能性表示食品</p>
           </td>
 
+          <td>
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+            <p>機能性表示食品</p>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+            <p>機能性表示食品</p>
+          </td>
+
         </tr>
-
-
 
 
         <tr>
@@ -331,8 +388,18 @@
           </td>
 
           <td>
+            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
+            <p>4,441円（定期）</p>
+          </td>
+
+          <td>
             <img class="small" src="./img/n_img/r_check_02.png" alt="" width="35" />
             <p>3,808円（定期）</p>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+            <p>5,364円</p>
           </td>
 
           <td>
@@ -360,30 +427,39 @@
 
 
           <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" width="35" />
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
             <p>初回980円</p>
           </td>
 
           <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" width="35" />
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+            <p>14日分(初回限定・お一人様1回1個限り) 540円</p>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
             <p>初回980円</p>
           </td>
 
           <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" width="35" />
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
+            <p>初回540円</p>
+          </td>
+
+          <td>
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
             <p>初回限定500円</p>
           </td>
 
           <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" width="35" />
+            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
             <p>初回980円</p>
           </td>
 
           <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" width="35" />
+            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
             <p>初回限定1,980円</p>
           </td>
-
 
         </tr>
 
@@ -398,11 +474,19 @@
           </td>
 
           <td>
-            <p>30日間返金保証付き</p>
+            <p>なし</p>
           </td>
 
           <td>
-            <p>30日間返金保証付き</p>
+            <p>30日間全額返金保証</p>
+          </td>
+
+          <td>
+            <p>なし</p>
+          </td>
+
+          <td>
+            <p>30日間全額返金保証</p>
           </td>
 
           <td>
@@ -422,23 +506,33 @@
           </td>
 
 
-          <td style="width:27%">
+          <td>
             <p>・お腹の脂肪が気になる<br>・ダイエタリーライフサポートサプリを手軽に試したい<br>・機能性表示食品を試したい</p>
           </td>
 
-          <td style="width:27%">
-            <p>・体脂肪、血中中性脂肪を減らしたい人<br>・まだワイルドマンゴーを試したことがない<br>・機能性表示食品を試したい</p>
+          <td>
+            <p>・サラシノールが糖の吸収を抑える<br>・サラシノールの継続摂取により腸内環境を整える<sup>（※1）</sup><br>・継続摂取により高めのBMIを改善する<sup>（※2）</sup></p>
           </td>
 
-          <td style="width:27%">
+          <td>
+            <p>
+              ・体脂肪、血中中性脂肪を減らしたい人<br>・まだワイルドマンゴーを試したことがない<br>・機能性表示食品を試したい
+            </p>
+          </td>
+
+          <td>
+            <p>・お腹の脂肪（体脂肪・内臓脂肪・皮下脂肪）を減らしたい人<br>・機能性表示食品を試したい人</p>
+          </td>
+
+          <td>
             <p>・血流を上げたい人<br>・体温を上げたい人<br>・おなかまわりの脂肪が気になる人</p>
           </td>
 
-          <td style="width:27%">
+          <td>
             <p>・内臓脂肪・BMIが気になる人<br>・血糖値が気になる人<br>・中性脂肪が気になる人</p>
           </td>
 
-          <td style="width:27%">
+          <td>
             <p>お腹の脂肪（内臓脂肪・皮下脂肪）を減らしたい人<br>・機能性表示食品を試したい人<br>・手軽に飲みたい人</p>
           </td>
 
@@ -458,7 +552,19 @@
           </td>
 
           <td>
+            <a target="_blank" href="./links/meta.php<?php echo $query; ?>">
+              <img src="./img/n_img/btn_site_go_s.png" width="100%">
+            </a>
+          </td>
+
+          <td>
             <a target="_blank" href="./links/wild.php<?php echo $query; ?>">
+              <img src="./img/n_img/btn_site_go_s.png" width="100%">
+            </a>
+          </td>
+
+          <td>
+            <a target="_blank" href="./links/meta_pre.php<?php echo $query; ?>">
               <img src="./img/n_img/btn_site_go_s.png" width="100%">
             </a>
           </td>
@@ -505,7 +611,7 @@
 
 
   <div class="img-wrap">
-    <img id="rank_bn" src="./img/ranking/ranking-banner-sp-a-test.png" width="100%" />
+    <img id="rank_bn" src="./img/ranking/ranking-banner-sp-a-test2.png" width="100%" />
   </div>
 
   <!----------------------------RANKING-------------------------->
@@ -535,7 +641,7 @@
     </div>
     <div class="swiper-pagination"></div>
 
-    <?php include('ranking-test.php'); ?>
+    <?php include('ranking-test2.php'); ?>
 
 
   </section>

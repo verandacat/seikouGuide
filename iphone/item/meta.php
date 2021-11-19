@@ -73,6 +73,7 @@
                     href="./links/meta.php<?php echo "?" . $query2; ?>"
                     target="_blank">
                     <p class="link_txt">
+                        <span class="link">初回540円(税込)</span><br>
                         <span class="link font-link">→ 特別キャンペーンページはこちら</span>
                     </p>
                 </a>
@@ -84,18 +85,18 @@
                     <tr>
                         <th>価格</th>
                         <th>容量</th>
-                        <th>ユーザー評価</th>
+                        <th>おすすめ度</th>
                     </tr>
                     <tr>
                         <td>4,441円(税込)</td>
-                        <td>240粒</td>
+                        <td>112粒（14日分）</td>
                         <td>
-                        <?php if ($_GET['pat'] == "a" || $_GET['pat'] == "c") : ?>
-                        <img alt="" src="./img/review_4.gif" />
-                        <?php elseif ($_GET['pat'] == "l") : ?>
+                        <?php if ($_SERVER['REQUEST_URI']=="/index_a-test2.php") : ?>
+                        <img alt="" src="./img/review_45.gif" />
+                        <?php elseif($_SERVER['REQUEST_URI']=="/index_c-test2.php") : ?>
                         <img alt="" src="./img/review_4.gif" />
                         <?php else : ?>
-                        <img alt="" src="./img/review_5.gif" />
+                        <img alt="" src="./img/review_4.gif" />
                         <?php endif; ?>
                         </td>
                     </tr>
@@ -104,24 +105,15 @@
                         <th>
                             配合成分
                         </th>
-                        
                         <th>
-                        <?php if ($_GET['pat'] == "l") : ?>
-                        <?php else : ?>
                             1日あたりの価格
-                        <?php endif; ?>
-
                         </th>
                     </tr>
                     <tr>
-                        <td>糖質ケアサプリ</td>
+                        <td>機能性表示食品</td>
                         <td>サラシノール</td>
                         <td>
-                        <?php if ($_GET['pat'] == "l") : ?>
-                        <?php else : ?>
                             148円
-                        <?php endif; ?>
-                        
                         </td>
                     </tr>
 
