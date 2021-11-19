@@ -53,9 +53,9 @@
     <p>メタバリアプレミアムEXは、日本で初めて※2サプリメントで<span class="bold">4つ</span>の機能を届け出た機能性表示食品です。</p>
     
     <p>
-    ①サラシノールが<span class="bold red bg-y">「糖の吸収を抑える。<sup>※1</sup>」</span>
-    ②本品の継続摂取により<span class="bold red bg-y">「脂の吸収を抑える<sup>※2</sup>」</span>
-    ②サラシノールの継続摂取により<span class="bold red bg-y">「腸内環境を整える<sup>※1</sup>」</span>
+    ①サラシノールが<span class="bold red bg-y">「糖の吸収を抑える。<sup>※1</sup>」</span><br>
+    ②本品の継続摂取により<span class="bold red bg-y">「脂の吸収を抑える<sup>※2</sup>」</span><br>
+    ②サラシノールの継続摂取により<span class="bold red bg-y">「腸内環境を整える<sup>※1</sup>」</span><br>
     ③本品の継続摂取により<span class="bold red bg-y">「おなかの脂肪・体重・ウエスト周囲経を減らす<sup>※4</sup>」</span>
     </p>
     

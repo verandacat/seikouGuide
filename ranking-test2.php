@@ -188,8 +188,8 @@
     <div id="tab3" class="tab_content">
 
         <!--
-                  ★★★★★★★★★★★★★★★★★★★★★★★★★★
-                  #tab3 1位-->
+        ★★★★★★★★★★★★★★★★★★★★★★★★★★
+        #tab3 1位-->
 
         <table class="r-table" cellspacing="0">
 
@@ -204,66 +204,87 @@
                         <?php include "item/shibo.php"; ?>
 
 
-                        <!--
-                  ★★★★★★★★★★★★★★★★★★★★★★★★★★
-                  #tab3 2位-->
+        <!--
+        ★★★★★★★★★★★★★★★★★★★★★★★★★★
+        #tab3 2位-->
 
 
-                        <table class="r-table" cellspacing="0">
+        <table class="r-table" cellspacing="0">
 
-                            <tbody>
+            <tbody>
 
-                                <tr>
-                                    <th class="r-title no-ranking" colspan="2">
-                                       
+                <tr>
+                    <th class="r-title no-ranking" colspan="2">
+                        
+                        <?php include "item/onaka.php"; ?>
 
-                                        <?php include "item/wild.php"; ?>
-
-
-
-                                        <!--
+        <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab3 3位-->
 
-    <table class="r-table" cellspacing="0">
+        <table class="r-table" cellspacing="0">
 
-        <tbody>
+            <tbody>
 
-            <tr>
-                <th class="r-title no-ranking" colspan="2">
-                   
+                <tr>
+                    <th class="r-title no-ranking" colspan="2">
+                    
+                        <?php include "item/meta_pre.php"; ?>
 
-                    <?php include "item/onaka.php"; ?>
 
-                                            <!--
+        <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab3 4位-->
 
-    <table class="r-table" cellspacing="0">
+        <table class="r-table" cellspacing="0">
 
-        <tbody>
+            <tbody>
 
-            <tr>
-                <th class="r-title no-ranking" colspan="2">
-                   
+                <tr>
+                    <th class="r-title no-ranking" colspan="2">
+                        
+                        <?php include "item/wild.php"; ?>
 
-                    <?php include "item/slilinF.php"; ?>
-
-                                            <!--
+        <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab3 5位-->
 
-    <table class="r-table" cellspacing="0">
+        <table class="r-table" cellspacing="0">
 
-        <tbody>
+            <tbody>
 
-            <tr>
-                <th class="r-title no-ranking" colspan="2">
+                <tr>
+                    <th class="r-title no-ranking" colspan="2">
+                        
+                        <?php include "item/meta.php"; ?>
+
+        <!--
+        ★★★★★★★★★★★★★★★★★★★★★★★★★★
+        #tab3 6位-->
+
+        <table class="r-table" cellspacing="0">
+
+            <tbody>
+
+                <tr>
+                    <th class="r-title no-ranking" colspan="2">
                     
+                        <?php include "item/slilinF.php"; ?>
 
-                    <?php include "item/chuihou.php"; ?>
+        <!--
+        ★★★★★★★★★★★★★★★★★★★★★★★★★★
+        #tab3 7位-->
 
-    </div>
+        <table class="r-table" cellspacing="0">
+
+            <tbody>
+
+                <tr>
+                    <th class="r-title no-ranking" colspan="2">
+                    
+                        <?php include "item/chuihou.php"; ?>
+
+        </div>
 
     <!--#tab3 end-->
 
@@ -274,7 +295,6 @@
         <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab4 1位-->
-
 
         <table class="r-table" cellspacing="0">
 
@@ -290,7 +310,7 @@
 
 
 
-                        <!--
+        <!--
         ★★★★★★★★★★★★★★★★★★★★★★★★★★
         #tab4 2位-->
 
