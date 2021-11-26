@@ -63,12 +63,7 @@
     <tr>
       <th>価格</th>
       <th>容量</th>
-      <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php") : ?>
-        <th>おすすめ度</th>
-        <?php else : ?>
-        <th>ユーザー評価</th>
-        <?php endif; ?>
-
+      <th>おすすめ度</th>
     </tr>
     <tr>
       <td>定期初回980円（税込）<br>定期2回目以降3,980円（税込）<br>通常4,600円（税込）</td>

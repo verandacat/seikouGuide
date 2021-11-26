@@ -107,7 +107,7 @@
         <th style="border-bottom: none;">
 
           <p style="margin-top: 10px">
-            <a class="link-img" target="_blank" href="./links/sibo.php<?php echo $query; ?>">
+            <a class="link-img" target="_blank" href="./links/sibo.php<?php echo "?" . $query2; ?>">
               <img src="./img/shiboh.jpg" alt="" />
             </a>
           </p>
@@ -115,7 +115,7 @@
 
         <th style="border-bottom: none;">
           <p style="margin-top: 10px">
-            <a class="link-img" target="_blank" href="./links/onaka.php<?php echo $query; ?>">
+            <a class="link-img" target="_blank" href="./links/onaka.php<?php echo "?" . $query2; ?>">
               <img src="./img/onaka.jpg" alt="" />
             </a>
           </p>
@@ -123,7 +123,7 @@
 
         <th style="border-bottom: none;">
           <p style="margin-top: 10px">
-            <a class="link-img" target="_blank" href="./links/meta_pre.php<?php echo $query; ?>">
+            <a class="link-img" target="_blank" href="./links/meta_pre.php<?php echo "?" . $query2; ?>">
               <img src="./img/meta_pre.png" alt="" />
             </a>
           </p>
@@ -131,7 +131,7 @@
 
         <th style="border-bottom: none;">
           <p style="margin-top: 10px">
-            <a class="link-img" target="_blank" href="./links/wild.php<?php echo $query; ?>">
+            <a class="link-img" target="_blank" href="./links/wild.php<?php echo "?" . $query2; ?>">
               <img src="./img/wild.jpg" alt="" />
             </a>
           </p>
@@ -139,7 +139,7 @@
 
         <th style="border-bottom: none;">
           <p style="margin-top: 10px">
-            <a class="link-img" target="_blank" href="./links/meta.php<?php echo $query; ?>">
+            <a class="link-img" target="_blank" href="./links/meta.php<?php echo "?" . $query2; ?>">
               <img src="./img/meta.jpg" alt="" />
             </a>
           </p>
@@ -147,7 +147,7 @@
 
         <th style="border-bottom: none;">
           <p style="margin-top: 10px">
-            <a class="link-img" target="_blank" href="./links/slilinF.php<?php echo $query; ?>">
+            <a class="link-img" target="_blank" href="./links/slilinF.php<?php echo "?" . $query2; ?>">
               <img src="./img/slilinF.jpg" alt="" />
             </a>
           </p>
@@ -155,7 +155,7 @@
 
         <th style="border-bottom: none;">
           <p style="margin-top: 10px">
-            <a class="link-img" target="_blank" href="./links/chuihou.php<?php echo $query; ?>">
+            <a class="link-img" target="_blank" href="./links/chuihou.php<?php echo "?" . $query2; ?>">
               <img src="./img/chuihou.jpg" alt="" />
             </a>
           </p>
@@ -169,7 +169,7 @@
         <th style="border-top: none;">
           <p>
             <span class="lbg">
-              <a target="_blank" href="./links/sibo.php<?php echo $query; ?>">シボヘール</a>
+              <a target="_blank" href="./links/sibo.php<?php echo "?" . $query2; ?>">シボヘール</a>
             </span>
           </p>
         </th>
@@ -178,7 +178,7 @@
           <p>
             <span class="lbg">
               <a target="_blank"
-                href="./links/onaka.php<?php echo $query; ?>">おなかの脂肪が気になる方のためのタブレット<small>（粒タイプ）</small></a>
+                href="./links/onaka.php<?php echo "?" . $query2; ?>">おなかの脂肪が気になる方のためのタブレット<small>（粒タイプ）</small></a>
             </span>
           </p>
         </th>
@@ -187,7 +187,7 @@
           <p>
             <span class="lbg">
               <a target="_blank"
-                href="./links/meta_pre.php<?php echo $query; ?>">メタバリアEXプレミアム</a>
+                href="./links/meta_pre.php<?php echo "?" . $query2; ?>">メタバリアEXプレミアム</a>
             </span>
           </p>
         </th>
@@ -195,7 +195,7 @@
         <th style="border-top: none;">
         <p>
             <span class="lbg">
-              <a target="_blank" href="./links/wild.php<?php echo $query; ?>">ワイルドマンゴーの力A</a>
+              <a target="_blank" href="./links/wild.php<?php echo "?" . $query2; ?>">ワイルドマンゴーの力A</a>
             </span>
           </p>
         </th>
@@ -204,7 +204,7 @@
           <p>
             <span class="lbg">
               <a target="_blank"
-                href="./links/meta.php<?php echo $query; ?>">メタバリアEX</a>
+                href="./links/meta.php<?php echo "?" . $query2; ?>">メタバリアEX</a>
             </span>
           </p>
         </th>
@@ -212,14 +212,14 @@
         <th style="border-top: none;">
           <p>
             <span class="lbg">
-              <a target="_blank" href="./links/slilinF.php<?php echo $query; ?>">スリリンファイア</a>
+              <a target="_blank" href="./links/slilinF.php<?php echo "?" . $query2; ?>">スリリンファイア</a>
             </span>
           </p>
         </th>
         <th style="border-top: none;">
           <p>
               <span class="lbg">
-                <a target="_blank" href="./links/chuihou.php<?php echo $query; ?>">脂肪注意報</a>
+                <a target="_blank" href="./links/chuihou.php<?php echo "?" . $query2; ?>">脂肪注意報</a>
               </span>
           </p>
         </th>
@@ -538,43 +538,43 @@
         </td>
 
         <td style="width:27%;">
-          <a target="_blank" href="./links/sibo.php<?php echo $query; ?>">
+          <a target="_blank" href="./links/sibo.php<?php echo "?" . $query2; ?>">
             <img src="./img/n_img/btn_site_go_s.png" width="100%">
           </a>
         </td>
 
         <td style="width:27%;">
-          <a target="_blank" href="./links/onaka.php<?php echo $query; ?>">
+          <a target="_blank" href="./links/onaka.php<?php echo "?" . $query2; ?>">
             <img src="./img/n_img/btn_site_go_s.png" width="100%">
           </a>
         </td>
 
         <td style="width:27%;">
-          <a target="_blank" href="./links/meta_pre.php<?php echo $query; ?>">
+          <a target="_blank" href="./links/meta_pre.php<?php echo "?" . $query2; ?>">
             <img src="./img/n_img/btn_site_go_s.png" width="100%">
           </a>
         </td>
 
         <td style="width:27%;">
-          <a target="_blank" href="./links/wild.php<?php echo $query; ?>">
+          <a target="_blank" href="./links/wild.php<?php echo "?" . $query2; ?>">
             <img src="./img/n_img/btn_site_go_s.png" width="100%">
           </a>
         </td>
 
         <td style="width:27%;">
-          <a target="_blank" href="./links/meta.php<?php echo $query; ?>">
+          <a target="_blank" href="./links/meta.php<?php echo "?" . $query2; ?>">
             <img src="./img/n_img/btn_site_go_s.png" width="100%">
           </a>
         </td>
 
         <td style="width:27%;">
-          <a target="_blank" href="./links/slilinF.php<?php echo $query; ?>">
+          <a target="_blank" href="./links/slilinF.php<?php echo "?" . $query2; ?>">
             <img src="./img/n_img/btn_site_go_s.png" width="100%">
           </a>
         </td>
 
         <td style="width:27%;">
-          <a target="_blank" href="./links/chuihou.php<?php echo $query; ?>">
+          <a target="_blank" href="./links/chuihou.php<?php echo "?" . $query2; ?>">
             <img src="./img/n_img/btn_site_go_s.png" width="100%">
           </a>
         </td>
@@ -747,7 +747,7 @@
 
         </div>
 
-        <a target="_blank" href="./links/sibo.php<?php echo $query; ?>" target="_blank">
+        <a target="_blank" href="./links/sibo.php<?php echo "?" . $query2; ?>" target="_blank">
           <img alt="" src="./img/n_img/btn_site_go_last_s.png" width="100%" />
         </a>
 

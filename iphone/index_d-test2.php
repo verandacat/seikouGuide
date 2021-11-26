@@ -4,7 +4,7 @@
 
     <header>
         <div class="img-wrap">
-            <img src="./img/fv/seikou_topBn_sp-d.png" />
+            <img src="./img/fv/seikou_topBn_sp-d-test2.png" />
         </div>
     </header>
 
@@ -604,7 +604,7 @@
 
 
     <div class="img-wrap">
-        <img id="rank_bn" src="./img/ranking/ranking-banner-sp-d.png" />
+        <img id="rank_bn" src="./img/ranking/ranking-banner-sp-d-test2.png" />
     </div>
 
     <!----------------------------RANKING-------------------------->
@@ -614,13 +614,13 @@
         <div class="swiper-container">
             <ul class="swiper-wrapper tabs">
                 <li class="tab1 swiper-slide"><a href="#tab1"
-                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-a.png'">総合<br>人気ランキング</a></li>
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-a-test2.png'">総合<br>人気ランキング</a></li>
                 <li class="tab2 swiper-slide"><a href="#tab2"
                         onclick="rank_bn.src='./img/ranking/ranking-banner-sp-b.png'">体内フローラ<br>サプリ</a></li>
                 <li class="tab3 swiper-slide"><a href="#tab3"
-                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-c.png'">脂肪対策<br>サプリ</a></li>
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-c-test2.png'">脂肪対策<br>サプリ</a></li>
                 <li class="tab4 swiper-slide active"><a href="#tab4"
-                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-d.png'">糖質ケア<br>サプリ</a></li>
+                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-d-test2.png'">糖質ケア<br>サプリ</a></li>
                 <li class="tab5 swiper-slide"><a href="#tab5"
                         onclick="rank_bn.src='./img/ranking/ranking-banner-sp-e.png'">酵素<br>サプリ</a></li>
                 <li class="tab6 swiper-slide"><a href="#tab6"
@@ -633,7 +633,7 @@
             </ul>
         </div>
         <div class="swiper-pagination"></div>
-        <?php include('ranking.php');?>
+        <?php include('ranking-test2.php');?>
 
 
     </section>

@@ -75,30 +75,24 @@
                     <tr>
                         <th>価格</th>
                         <th>容量</th>
-                        <th>ユーザー評価</th>
+                        <th>おすすめ度</th>
                     </tr>
                     <tr>
                         <td>5,400円(税込)</td>
                         <td>31粒</td>
                         <td>
-                            <img alt="" src="./img/review_35.gif" />
+                            <img alt="" src="./img/review_45.gif" />
                         </td>
                     </tr>
                     <tr>
                         <th>サプリの種類</th>
-                        <th>
+                        <th colspan="2">
                             配合成分
-                        </th>
-                        <th>
-                            <!-- 1日あたりの価格 -->
                         </th>
                     </tr>
                     <tr>
-                        <td>体内フローラサプリ</td>
-                        <td>ユーグレナ・ビフィズス菌B-3、酪酸菌など</td>
-                        <td>
-                        <!-- 174円 -->
-                        </td>
+                        <td>体内フローラサポートサプリ</td>
+                        <td colspan="2">ユーグレナ・ビフィズス菌B-3、酪酸菌など</td>
                     </tr>
                 </tbody>
             </table>

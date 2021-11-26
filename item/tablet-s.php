@@ -38,13 +38,18 @@
 
 <div class="r-txtbox">
 
+    <p>
     食後の血糖値が気になる方のタブレットは、<span class="bold red">大正製薬が自信を持ってお届けする機能性表示食品</span>です。
-    <br><br>
+    </p>
+
+    <p>
     <span class="bold red">糖の吸収を抑え、食後の血糖値上昇をゆるやかにする</span>機能があることが報告されているサラシア由来サラシノールが配合されています。
-    <br><br>
+    </p>
+    
+    <p>
     今なら<span class="bold red">定期購入初回限定77%OFF送料無料、2回目以降も毎回10%OFF</span>と続けやすくなっていますので、食後の血糖値が気になる方は<span
         class="bold red">「食事の前に1粒」の手軽な血糖値対策</span>をぜひ普段の食生活に取り入れましょう。
-        
+    </p>
     <a target="_blank" href="./links/tablet-s.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
         <p class="link_txt">
             <span class="link font-link">→ 特別キャンペーンページはこちら</span>
@@ -58,7 +63,7 @@
         <tr>
             <th>価格</th>
             <th>容量</th>
-            <th>ユーザー評価</th>
+            <th>おすすめ度</th>
         </tr>
         <tr>
             <td>3,888円（税込）</td>
@@ -77,7 +82,7 @@
             </th>
         </tr>
         <tr>
-            <td>糖質ケアサプリ</td>
+            <td>機能性表示食品</td>
             <td>サラシノール</td>
             <td>130円</td>
         </tr>

@@ -91,10 +91,12 @@
                         <td>4,441円(税込)</td>
                         <td>112粒（14日分）</td>
                         <td>
-                        <?php if ($_SERVER['REQUEST_URI']=="/index_a-test2.php") : ?>
+                        <?php if ($_GET['pat'] == "a" || $_SERVER['REQUEST_URI']=="/") : ?>
                         <img alt="" src="./img/review_45.gif" />
                         <?php elseif($_SERVER['REQUEST_URI']=="/index_c-test2.php") : ?>
                         <img alt="" src="./img/review_4.gif" />
+                        <?php elseif($_GET['pat'] == "d" ) : ?>
+                        <img alt="" src="./img/review_5.gif" />
                         <?php else : ?>
                         <img alt="" src="./img/review_4.gif" />
                         <?php endif; ?>

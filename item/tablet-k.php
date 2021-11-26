@@ -39,10 +39,11 @@
 
 <div class="r-txtbox">
 
-    <span class="bold red">日本唯一！</span>機能性関与成分ナリンジンを含有した機能性表示食品です。<br><br>
-    ナリンジンには<span class="bold red">高めの空腹時血糖値を下げる</span>機能が報告されており、空腹時の血糖値が気になる方におすすめの粒タイプのタブレットです。<br><br>
-    <span class="bold red">健康診断で測定するのは空腹時血糖値</span>なので、食後血糖値だけではなく、空腹時血糖値の値を気にすることも大切です。<br><br>
-    定期購入は<span class="bold red">初回限定79%OFF</span>とお手頃価格なので、大正製薬が提案する空腹時の血糖値対策をお試しください！
+    <p><span class="bold red">日本唯一！</span>機能性関与成分ナリンジンを含有した機能性表示食品です。<br><br>
+        ナリンジンには<span class="bold red">高めの空腹時血糖値を下げる</span>機能が報告されており、空腹時の血糖値が気になる方におすすめの粒タイプのタブレットです。</p>
+    <p><span class="bold red">健康診断で測定するのは空腹時血糖値</span>なので、食後血糖値だけではなく、空腹時血糖値の値を気にすることも大切です。</p>
+    <p>定期購入は<span class="bold red">初回限定79%OFF</span>とお手頃価格なので、大正製薬が提案する空腹時の血糖値対策をお試しください！</p>
+    
 
     <a target="_blank" href="./links/tablet-k.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
         <p class="link_txt">
@@ -57,13 +58,17 @@
         <tr>
             <th>価格</th>
             <th>容量</th>
-            <th>ユーザー評価</th>
+            <th>おすすめ度</th>
         </tr>
         <tr>
             <td>4,374円（税込）</td>
             <td>120粒</td>
             <td>
+                <?php if ($_GET["pat"] == "d") : ?>
+                <img alt="" src="./img/review_45.gif" />
+                <?php else : ?>
                 <img alt="" src="./img/review_5.gif" />
+                <?php endif; ?>
             </td>
         </tr>
         <tr>
@@ -76,7 +81,7 @@
             </th>
         </tr>
         <tr>
-            <td>糖質ケアサプリ</td>
+            <td>機能性表示食品</td>
             <td>サラシノール</td>
             <td>146円</td>
         </tr>

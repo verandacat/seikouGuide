@@ -5,7 +5,7 @@
 
   <header>
     <div class="img-wrap">
-      <img src="./img/fv/seikou_topBn_pc-d.png" />
+      <img src="./img/fv/seikou_topBn_pc-d-test2.png" />
     </div>
   </header>
 
@@ -602,7 +602,7 @@
 
 
   <div class="img-wrap">
-    <img id="rank_bn" src="./img/ranking/ranking-banner-pc-d.png" />
+    <img id="rank_bn" src="./img/ranking/ranking-banner-pc-d-test2.png" />
   </div>
 
 
@@ -613,10 +613,10 @@
   <section id="section-04">
 
     <ul class="tabs">
-      <li rel="tab1" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-a.png'">総合<br>人気ランキング</li>
+      <li rel="tab1" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-a-test2.png'">総合<br>人気ランキング</li>
       <li rel="tab2" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-b.png'">体内フローラ<br>サプリ</li>
-      <li rel="tab3" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-c.png'">脂肪対策<br>サプリ</li>
-      <li class="active" rel="tab4" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-d.png'">糖質ケア<br>サプリ</li>
+      <li rel="tab3" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-c-test2.png'">脂肪対策<br>サプリ</li>
+      <li class="active" rel="tab4" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-d-test2.png'">糖質ケア<br>サプリ</li>
       <li rel="tab5" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-e.png'">酵素<br>サプリ</li>
       <li rel="tab6" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-f.png'">酵素<br>ドリンク</li>
       <li rel="tab7" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-g.png'">ダイエット<br>スムージー</li>
@@ -625,7 +625,7 @@
 
     </ul>
 
-    <?php include 'ranking.php';?>
+    <?php include 'ranking-test2.php';?>
 
 
 

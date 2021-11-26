@@ -73,12 +73,12 @@
                         <tr>
                             <th>価格</th>
                             <th>容量</th>
-                            <th>ユーザー評価</th>
+                            <th>おすすめ度</th>
                         </tr>
                         <tr>
                             <td>4,212円(税込)</td>
                             <td>180g</td>
-                            <td><img alt="4.5" src="./img/review_5.gif"></td>
+                            <td><img alt="4.5" src="./img/review_45.gif"></td>
                         </tr>
                         <tr>
                             <th>サプリの種類</th>

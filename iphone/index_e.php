@@ -23,7 +23,7 @@
 
       <h1 class="right">とお悩みの方へ</h1><br>
 
-      <h1 class="center">本当におすすめ！<br>厳選！酵素サプリ5選！</h1>
+      <h1 class="center">本当におすすめ！<br>厳選！酵素サプリ3選！</h1>
 
     </div>
     <!--.title-wrap end-->

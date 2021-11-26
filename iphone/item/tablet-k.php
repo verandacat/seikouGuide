@@ -60,13 +60,17 @@
         <tr>
             <th>価格</th>
             <th>容量</th>
-            <th>ユーザー評価</th>
+            <th>おすすめ度</th>
         </tr>
         <tr>
             <td>4,374円（税込）</td>
             <td>120粒</td>
             <td>
+                <?php if ($_GET['pat'] == "d") : ?>
+                <img alt="" src="./img/review_45.gif" />
+                <?php else : ?>
                 <img alt="" src="./img/review_5.gif" />
+                <?php endif; ?>
             </td>
         </tr>
         <tr>
@@ -79,7 +83,7 @@
             </th>
         </tr>
         <tr>
-            <td>糖質ケアサプリ</td>
+            <td>機能性表示食品</td>
             <td>サラシノール</td>
             <td>146円</td>
         </tr>

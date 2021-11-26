@@ -60,13 +60,17 @@
     <tr>
       <th>価格</th>
       <th>容量</th>
-      <th>ユーザー評価</th>
+      <th>おすすめ度</th>
     </tr>
     <tr>
       <td>定期初回1,000円（税込）<br>定期2回目以降4,980円（税込）</td>
       <td>定期初回14袋（14日分）定期2回目以降30袋（30日分）</td>
       <td>
+      <?php if ($_GET['pat'] == "d") : ?>
+        <img alt="" src="./img/review_35.gif" />
+        <?php else : ?>
         <img alt="" src="./img/review_3.gif" />
+        <?php endif; ?>
       </td>
     </tr>
     <tr>
@@ -79,7 +83,7 @@
       </th>
     </tr>
     <tr>
-      <td>糖質ケアサプリ</td>
+      <td>機能性表示食品</td>
       <td>難消化性デキストリン</td>
       <td>
         166円

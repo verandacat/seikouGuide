@@ -77,13 +77,17 @@
                 <tr>
                     <th>価格</th>
                     <th>容量</th>
-                    <th>ユーザー評価</th>
+                    <th>おすすめ度</th>
                 </tr>
                 <tr>
                     <td>2,138円（初回税込）定期：6,458円(税込)</td>
                     <td>スムージー11袋、スープ2包、おかゆ1包（1週間分）</td>
                     <td>
+                        <?php if($_GET['pat'] == "f") : ?>
+                        <img alt="" src="./img/review_35.gif" />
+                        <?php else : ?>
                         <img alt="" src="./img/review_4.gif" />
+                        <?php endif; ?>
                     </td>
                 </tr>
                 <tr>

@@ -61,18 +61,14 @@
     <tr>
       <th>価格</th>
       <th>容量</th>
-      <?php if ($_SERVER['REQUEST_URI']=="/index_c-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test.php" || $_SERVER['REQUEST_URI']=="/index_a-test2.php" || $_SERVER['REQUEST_URI']=="/index_c-test2.php") : ?>
-        <th>おすすめ度</th>
-        <?php else : ?>
-        <th>ユーザー評価</th>
-        <?php endif; ?>
+      <th>おすすめ度</th>
 
     </tr>
     <tr>
       <td>定期初回1,980円（税込）<br>定期2回目以降4,082円（税込）</td>
       <td>定期124粒（31日分）</td>
       <td>
-        <?php if($_SERVER['REQUEST_URI']=="/index_a-test2.php" || $_SERVER['REQUEST_URI']=="/index_c-test2.php") : ?>
+        <?php if($_SERVER['REQUEST_URI']=="/index_a-test2.php" || $_SERVER['REQUEST_URI']=="/index_c-test2.php" || $_GET["pat"] == "a" || $_SERVER['REQUEST_URI']=="/") : ?>
         <img alt="" src="./img/review_35.gif" />
         <?php else : ?>
         <img alt="" src="./img/review_4.gif" />

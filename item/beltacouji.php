@@ -77,13 +77,17 @@
                 <tr>
                     <th>価格</th>
                     <th>容量</th>
-                    <th>ユーザー評価</th>
+                    <th>おすすめ度</th>
                 </tr>
                 <tr>
                     <td>4,298円(税込)</td>
                     <td>60粒</td>
                     <td>
+                        <?php if($_GET['pat'] == 'e') : ?>
+                        <img alt="" src="./img/review_45.gif" />
+                        <?php else : ?>
                         <img alt="" src="./img/review_4.gif" />
+                        <?php endif; ?>
                     </td>
                 </tr>
                 <tr>

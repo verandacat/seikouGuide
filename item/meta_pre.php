@@ -85,7 +85,7 @@
         <td>初回 540円（税込）<br>定期 5,364円（税込）<br>※通常5,961円（税込）</td>
         <td>112粒（14日分）</td>
         <td>
-        <?php if ($_SERVER['REQUEST_URI']=="/index_a-test2.php") : ?>
+        <?php if ($_GET["pat"] == "a") : ?>
         <img alt="" src="./img/review_4.gif" />
         <?php elseif($_SERVER['REQUEST_URI']=="/index_c-test2.php") : ?>
         <img alt="" src="./img/review_45.gif" />

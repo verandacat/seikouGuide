@@ -84,7 +84,7 @@
                 <tr>
                     <th>価格</th>
                     <th>容量</th>
-                    <th>ユーザー評価</th>
+                    <th>おすすめ度</th>
                 </tr>
                 <tr>
                     <td>3980円(税込)</td>
@@ -99,20 +99,14 @@
                         配合成分
                     </th>
                     <th>
-                    <?php if ($_GET['pat'] == "l") : ?>
-                    <?php else : ?>
                         1日あたりの価格
-                    <?php endif; ?>
                     </th>
                 </tr>
                 <tr>
                     <td>酵素サプリ</td>
                     <td>310種類の植物発酵エキス</td>
                     <td>
-                    <?php if ($_GET['pat'] == "l") : ?>
-                    <?php else : ?>
                         107円
-                    <?php endif; ?>
                     </td>
                 </tr>
 

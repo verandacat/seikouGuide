@@ -23,7 +23,7 @@
 
 
     <script type="text/javascript" src="http://img.accesstrade.net/m/ilisting/atlex.min.js"></script>
-    <meta http-equiv="refresh" content="1; URL=https://h.accesstrade.net/sp/cc?rk=0100nzr6006pd3">
+    <meta http-equiv="refresh" content="1; URL=https://s.mbh-online.com/lp?u=osaeru_14_m93_listing_yahoo_aa_1">
     <script>
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;

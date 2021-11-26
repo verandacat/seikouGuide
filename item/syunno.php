@@ -74,17 +74,13 @@
                 <tr>
                     <th>価格</th>
                     <th>容量</th>
-                    <th>ユーザー評価</th>
+                    <th>おすすめ度</th>
                 </tr>
                 <tr>
                     <td>初回980円（税込） 定期：3219円（税込）（2ヶ月毎に２袋6437円で届く）</td>
                     <td>60粒／1袋</td>
                     <td>
-                        <?php if($_GET['pat'] == "a") : ?>
-                            <img alt="" src="./img/review_35.gif" />
-                        <?php else : ?>
-                            <img alt="" src="./img/review_5.gif" />
-                        <?php endif; ?>
+                        <img alt="" src="./img/review_45.gif" />
                     </td>
                 </tr>
                 <tr>

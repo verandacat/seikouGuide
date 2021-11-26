@@ -86,13 +86,13 @@
                     <tr>
                         <th>価格</th>
                         <th>容量</th>
-                        <th>ユーザー評価</th>
+                        <th>おすすめ度</th>
                     </tr>
                     <tr>
                         <td>5,751円(税込)</td>
                         <td>710ml</td>
                         <td>
-                            <img alt="" src="./img/review_4.gif" />
+                            <img alt="" src="./img/review_45.gif" />
                         </td>
                     </tr>
                     <tr>
