@@ -603,6 +603,91 @@
                 </div> 
                 <!--#tab8 end-->
 
+
+                <!-- #tab9 中身 -->
+                <div id="tab4" class="swiper-slide">
+                    
+                    <!--
+                    ★★★★★★★★★★★★★★★★★★★★★★★★★★
+                    #tab9 1位-->
+
+                    <table class="r-table" cellspacing="0">
+
+                        <tbody>
+
+                            <tr>
+                                <th class="r-title no-ranking" colspan="2">
+                                    <div class="img-center badge" style="position: absolute; top:0px; left:10px;">
+                                        <img src="./img/no1__badge.png" width="50" />
+                                    </div>
+                                    <?php include "item/tablet-k.php"; ?>
+
+                    <!--
+                    ★★★★★★★★★★★★★★★★★★★★★★★★★★
+                    #tab9 2位-->
+
+                    <table class="r-table" cellspacing="0">
+
+                        <tbody>
+
+                            <tr>
+                                <th class="r-title no-ranking" colspan="2">
+                                    <?php include "item/tablet-s.php"; ?>
+
+                    <!--
+                    ★★★★★★★★★★★★★★★★★★★★★★★★★★
+                    #tab9 3位-->
+
+                    <table class="r-table" cellspacing="0">
+
+                        <tbody>
+
+                            <tr>
+                                <th class="r-title no-ranking" colspan="2">
+                                    <?php include "item/meta.php"; ?>
+
+                    <!--
+                    ★★★★★★★★★★★★★★★★★★★★★★★★★★
+                    #tab9 4位-->
+
+                    <table class="r-table" cellspacing="0">
+
+                        <tbody>
+
+                            <tr>
+                                <th class="r-title no-ranking" colspan="2">
+
+                                    <?php include "item/meta_pre.php"; ?>
+
+                    <!--
+                    ★★★★★★★★★★★★★★★★★★★★★★★★★★
+                    #tab9 5位-->
+
+                    <table class="r-table" cellspacing="0">
+
+                        <tbody>
+
+                            <tr>
+                                <th class="r-title no-ranking" colspan="2">
+                                    <?php include "item/osaeru.php"; ?>
+
+
+                    <!--
+                    ★★★★★★★★★★★★★★★★★★★★★★★★★★
+                    #tab9 6位-->
+
+                    <table class="r-table" cellspacing="0">
+
+                        <tbody>
+
+                            <tr>
+                                <th class="r-title no-ranking" colspan="2">
+                                    <?php include "item/kaitocha.php"; ?>
+
+
+                </div>
+                <!--#tab9 end-->
+
     </div>
     <!-- .swiper-wrapper end-->
 
