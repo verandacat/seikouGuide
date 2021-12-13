@@ -138,6 +138,9 @@ th .link-img img {
     table-layout: fixed;
     width: 140%;
 }
+#section-02 .table-over.table-rank4 {
+    width: 115%;
+}
 #section-02 .table-over.table-rank6 {
     width: 180%;
 }

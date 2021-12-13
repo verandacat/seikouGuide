@@ -215,6 +215,9 @@ th .link-img img {
     width: 170%;
     table-layout: fixed;
 }
+#section-02 .table-over.table-rank4 {
+    width: 120%;
+}
 
 #section-02 .table-over.table-rank7 {
     width: 200%;

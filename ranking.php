@@ -637,7 +637,7 @@
 
           <tr>
               <th class="r-title no-ranking" colspan="2">
-                  <?php include "item/meta.php"; ?>
+                  <?php include "item/osaeru.php"; ?>
 
   <!--
   ★★★★★★★★★★★★★★★★★★★★★★★★★★
@@ -649,34 +649,9 @@
 
           <tr>
               <th class="r-title no-ranking" colspan="2">
-                  <?php include "item/meta_pre.php"; ?>
-
-  <!--
-  ★★★★★★★★★★★★★★★★★★★★★★★★★★
-  #tab9 5位-->
-
-  <table class="r-table" cellspacing="0">
-
-      <tbody>
-
-          <tr>
-              <th class="r-title no-ranking" colspan="2">
-                  <?php include "item/osaeru.php"; ?>
-
-
-  <!--
-  ★★★★★★★★★★★★★★★★★★★★★★★★★★
-  #tab9 6位-->
-
-  <table class="r-table" cellspacing="0">
-
-      <tbody>
-
-          <tr>
-              <th class="r-title no-ranking" colspan="2">
                   <?php include "item/kaitocha.php"; ?>
 
-
+  
                   
   </div>
   <!--#tab4 end-->

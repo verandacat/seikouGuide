@@ -23,7 +23,7 @@
 
       <h1 class="right">とお悩みの方へ</span></h1><br>
 
-      <h1>本当におすすめ！<br>厳選！血糖値ケアサプリ6選！</h1>
+      <h1>本当におすすめ！<br>厳選！血糖値ケアサプリ4選！</h1>
 
 
     </div>
@@ -53,15 +53,13 @@
     <!--比較表START-->
     <div id="overBox">
 
-      <table class="table-01 table-over table-rank6" cellspacing="1">
+      <table class="table-01 table-over table-rank4" cellspacing="1">
 
         <colgroup width="50px">
           <colgroup width="20%">
             <colgroup width="20%">
               <colgroup width="20%">
                 <colgroup width="20%">
-                  <colgroup width="20%">
-                    <colgroup width="20%">
 
                     <tbody>
 
@@ -74,12 +72,6 @@
                       <p class="center">
                         <span class="red bg-y" style="font-size: 1.2em">人気No.1！</span>
                       </p>
-                    </th>
-
-                    <th class="crown">
-                    </th>
-
-                    <th class="crown">
                     </th>
 
                     <th class="crown">
@@ -119,22 +111,6 @@
 
                   <th>
                     <p>
-                      <a class="link-img" target="_blank" href="./links/meta.php<?php echo "?" . $query2; ?>">
-                        <img src="./img/meta.jpg" alt="" />
-                      </a>
-                    </p>
-                  </th>
-
-                  <th>
-                    <p>
-                      <a class="link-img" target="_blank" href="./links/meta_pre.php<?php echo "?" . $query2; ?>">
-                        <img src="./img/meta_pre.png" alt="" />
-                      </a>
-                    </p>
-                  </th>
-
-                  <th>
-                    <p>
                       <a class="link-img" target="_blank" href="./links/osaeru.php<?php echo "?" . $query2; ?>">
                         <img src="./img/osaeru.jpg" alt="" />
                       </a>
@@ -166,20 +142,7 @@
                     </span>
                   </p>
                 </td>
-                <td>
-                  <p>
-                    <span class="lbg">
-                      <a target="_blank" href="./links/meta.php<?php echo "?" . $query2; ?>">メタバリアEX</a>
-                    </span>
-                  </p>
-                </td>
-                <td>
-                  <p>
-                    <span class="lbg">
-                      <a target="_blank" href="./links/meta_pre.php<?php echo "?" . $query2; ?>">メタバリアEXプレミアム</a>
-                    </span>
-                  </p>
-                </td>
+               
                 <td>
                   <p>
                     <span class="lbg">
@@ -230,20 +193,6 @@
                 <p class="f-13">4.3/5.0</p>
               </td>
 
-              <td>
-                <p>
-                  <img src="./img/review_4.gif" alt="" />
-                </p>
-                <p class="f-13">4.0/5.0</p>
-              </td>
-
-              <td>
-                <p>
-                  <img src="./img/review_35.gif" alt="" />
-                </p>
-                <p class="f-13">3.8/5.0</p>
-              </td>
-
             </tr>
 
 
@@ -273,32 +222,12 @@
               <p>サラシノール</p>
             </td>
 
-            <td>
-              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-              <p>ターミナリアベリリカ由来没食子酸</p>
-            </td>
-
-            <td>
-              <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-              <p>難消化性デキストリン</p>
-            </td>
-
           </tr>
 
 
         <tr>
           <td class="table-title">
             <h6>サプリタイプ</h6>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>機能性表示食品</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>機能性表示食品</p>
           </td>
 
           <td>
@@ -345,14 +274,6 @@
             <img class="small" src="./img/n_img/r_check_02.png" alt="" />
           </td>
 
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-          </td>
-
         </tr>
 
 
@@ -370,16 +291,6 @@
           <td>
             <img class="small" src="./img/n_img/r_check_02.png" alt="" />
             <p>3,888円（税込）</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-            <p>4,441円（定期）</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-            <p>5,364円</p>
           </td>
 
           <td>
@@ -413,16 +324,6 @@
 
           <td style="width:27%">
             <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>初回540円</p>
-          </td>
-
-          <td style="width:27%">
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>初回540円</p>
-          </td>
-
-          <td style="width:27%">
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
             <p>初回980円（税込）</p>
           </td>
 
@@ -437,14 +338,6 @@
         <tr>
           <td class="table-title">
             <h6>返金保証</h6>
-          </td>
-
-          <td>
-            <p>なし</p>
-          </td>
-
-          <td>
-            <p>なし</p>
           </td>
 
           <td>
@@ -485,16 +378,6 @@
 
           <td>
             <p class="left ml-5">
-              ・サラシノールが糖の吸収を抑える<br>・サラシノールの継続摂取により腸内環境を整える<sup>（※1）</sup><br>・継続摂取により高めのBMIを改善する<sup>（※2）</sup>
-            </p>
-          </td>
-
-          <td>
-            <p class="left ml-5">・お腹の脂肪（体脂肪・内臓脂肪・皮下脂肪）を減らしたい人<br>・機能性表示食品を試したい人</p>
-          </td>
-
-          <td>
-            <p class="left ml-5">
               ・内臓脂肪・BMIが気になる人<br>・血糖値が気になる人<br>・中性脂肪が気になる人
             </p>
           </td>
@@ -527,18 +410,6 @@
           </td>
 
           <td>
-            <a target="_blank" href="./links/meta.php<?php echo "?" . $query2; ?>">
-              <img src="./img/n_img/btn_site_go_s.png" width="100%">
-            </a>
-          </td>
-
-          <td>
-            <a target="_blank" href="./links/meta_pre.php<?php echo "?" . $query2; ?>">
-              <img src="./img/n_img/btn_site_go_s.png" width="100%">
-            </a>
-          </td>
-
-          <td>
             <a target="_blank" href="./links/osaeru.php<?php echo "?" . $query2; ?>">
               <img src="./img/n_img/btn_site_go_s.png" width="100%">
             </a>
@@ -558,7 +429,7 @@
 
     </div>
 
-    <div class="meta-notes">
+    <!-- <div class="meta-notes">
       <span class="grad-trigger"></span>
       <div class="grad-item">
         <p>
@@ -574,7 +445,7 @@
           ※3 継続摂取により BMIが高めの方のおなかの脂肪(体脂肪・内臓脂肪)・体重を減らすことで高めのBMIを改善する機能は、最終製品を用いた臨床試裝
         </p>
       </div>
-    </div>
+    </div> -->
     <!--比較表END-->
 
   </section>

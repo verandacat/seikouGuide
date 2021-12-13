@@ -69,7 +69,7 @@
       <td>定期初回980円（税込）<br>定期2回目以降3,980円（税込）<br>通常4,600円（税込）</td>
       <td>定期初回56粒（14日分）/ 定期2回目以降120粒（30日分）</td>
       <td>
-        <img alt="" src="./img/review_4.gif" />
+        <img alt="" src="./img/review_45.gif" />
       </td>
     </tr>
     <tr>

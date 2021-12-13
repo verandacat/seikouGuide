@@ -23,7 +23,7 @@
 
       <h1 class="right">とお悩みの方へ</span></h1>
 
-      <h1 class="center">本当におすすめ！<br>厳選！血糖値ケアサプリ6選！</span></h1>
+      <h1 class="center">本当におすすめ！<br>厳選！血糖値ケアサプリ4選！</span></h1>
 
     </div>
     <!--.title-wrap end-->
@@ -53,17 +53,15 @@
 
     <div id="overBox">
 
-      <table class="table-01 table-over table-rank6" cellspacing="1">
+      <table class="table-01 table-over table-rank4" cellspacing="1">
 
-        <colgroup width="130">
+          <colgroup width="130">
           <colgroup width="40%">
-            <colgroup width="40%">
-              <colgroup width="40%">
-                <colgroup width="40%">
-                  <colgroup width="40%">
-                    <colgroup width="40%">
+          <colgroup width="40%">
+          <colgroup width="40%">
+          <colgroup width="40%">
 
-                    <tbody>
+             <tbody>
 
                   <tr>
 
@@ -74,12 +72,6 @@
                       <p class="center">
                         <span class="red bg-y" style="font-size: 1.2em">人気No.1！</span>
                       </p>
-                    </th>
-
-                    <th class="crown">
-                    </th>
-
-                    <th class="crown">
                     </th>
 
                     <th class="crown">
@@ -116,26 +108,6 @@
                       <a class="link-img" target="_blank"
                         href="./links/tablet-s.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
                         <img src="./img/tablet-s.jpg" alt="" />
-                      </a>
-                    </p>
-
-                  </th>
-
-                  <th style="vertical-align: top">
-                    <p>
-                      <a class="link-img" target="_blank"
-                        href="./links/meta.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
-                        <img src="./img/meta.jpg" alt="" />
-                      </a>
-                    </p>
-
-                  </th>
-
-                  <th style="vertical-align: top">
-                    <p>
-                      <a class="link-img" target="_blank"
-                        href="./links/meta_pre.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
-                        <img src="./img/meta_pre.png" alt="" />
                       </a>
                     </p>
 
@@ -181,21 +153,6 @@
                   </p>
                 </td>
 
-                <td>
-                  <p>
-                    <span class="lbg">
-                      <a target="_blank" href="./links/meta.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">メタバリアEX</a>
-                    </span>
-                  </p>
-                </td>
-                <td>
-                  <p>
-                    <span class="lbg">
-                      <a target="_blank"
-                        href="./links/meta_pre.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">メタバリアEXプレミアム</a>
-                    </span>
-                  </p>
-                </td>
                 <td>
                   <p>
                     <span class="lbg">
@@ -247,19 +204,6 @@
                 <p class="f-13">4.3/5.0</p>
               </td>
 
-              <td>
-                <p>
-                  <img src="./img/review_4.gif" alt="" />
-                </p>
-                <p class="f-13">4.0/5.0</p>
-              </td>
-
-              <td>
-                <p>
-                  <img src="./img/review_35.gif" alt="" />
-                </p>
-                <p class="f-13">3.8/5.0</p>
-              </td>
 
             </tr>
 
@@ -273,16 +217,6 @@
             <td>
               <img class="small" src="./img/n_img/r_check_02.png" alt="" />
               <p>ナリンジン</p>
-            </td>
-
-            <td>
-              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-              <p>サラシノール</p>
-            </td>
-
-            <td>
-              <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-              <p>サラシノール</p>
             </td>
 
             <td>
@@ -305,16 +239,6 @@
         <tr>
           <td class="table-title">
             <h6>サプリタイプ</h6>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>機能性表示食品</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>機能性表示食品</p>
           </td>
 
           <td>
@@ -361,13 +285,6 @@
             <img class="small" src="./img/n_img/r_check_02.png" alt="" />
           </td>
 
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-          </td>
         </tr>
 
 
@@ -386,16 +303,6 @@
           <td>
             <img class="small" src="./img/n_img/r_check_02.png" alt="" />
             <p>3,888円（税込）</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-            <p>4,441円（定期）</p>
-          </td>
-
-          <td>
-            <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-            <p>5,364円</p>
           </td>
 
           <td>
@@ -424,16 +331,6 @@
           <td style="width:27%">
             <img class="small" src="./img/n_img/r_check_01.png" alt="" />
             <p>初回980円（税込）</p>
-          </td>
-
-          <td style="width:27%">
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>初回540円</p>
-          </td>
-
-          <td style="width:27%">
-            <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-            <p>初回540円</p>
           </td>
 
           <td style="width:27%">
@@ -468,13 +365,6 @@
             <p>なし</p>
           </td>
 
-          <td>
-            <p>なし</p>
-          </td>
-
-          <td>
-            <p>なし</p>
-          </td>
         </tr>
 
         <tr>
@@ -494,16 +384,6 @@
             <p class="left ml-5">
               ・健康診断で血糖値が高めの人<br>・今の血糖値対策に満足していない人
             </p>
-          </td>
-
-          <td>
-            <p class="left ml-5">
-              ・サラシノールが糖の吸収を抑える<br>・サラシノールの継続摂取により腸内環境を整える<sup>（※1）</sup><br>・継続摂取により高めのBMIを改善する<sup>（※2）</sup>
-            </p>
-          </td>
-
-          <td>
-            <p class="left ml-5">・お腹の脂肪（体脂肪・内臓脂肪・皮下脂肪）を減らしたい人<br>・機能性表示食品を試したい人</p>
           </td>
 
           <td>
@@ -540,18 +420,6 @@
           </td>
 
           <td>
-            <a target="_blank" href="./links/meta.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
-              <img src="./img/n_img/btn_site_go_s.png" width="100%">
-            </a>
-          </td>
-
-          <td>
-            <a target="_blank" href="./links/meta_pre.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
-              <img src="./img/n_img/btn_site_go_s.png" width="100%">
-            </a>
-          </td>
-
-          <td>
             <a target="_blank" href="./links/osaeru.php<?php echo "?".$_SERVER['QUERY_STRING'] ?>">
               <img src="./img/n_img/btn_site_go_s.png" width="100%">
             </a>
@@ -571,7 +439,7 @@
 
     </div>
 
-    <div class="meta-notes">
+    <!-- <div class="meta-notes">
       <p>
         ※1 糖の吸収を抑える機能性と、継続摂取により腸内環境を整える(おなかの中のビフィズス菌を増やす)機能性は機能性関与成分サラシノールによる研究レビュー<br>
         2019年4月 消費者庁届出情報 錠剤型サプリメントの剤形で以下の3つの機能性を届出した機能性表示食品は日本初。当社調べ。
@@ -584,7 +452,7 @@
       <p>
         ※3 継続摂取により BMIが高めの方のおなかの脂肪(体脂肪・内臓脂肪)・体重を減らすことで高めのBMIを改善する機能は、最終製品を用いた臨床試裝
       </p>
-    </div>
+    </div> -->
 
 
     <!--比較表END-->
