@@ -316,6 +316,7 @@ th .link-img img {
 }
 #section-04 .r-img a img {
     max-width: 200px;
+    height: auto;
 }
 #section-04 .img-btn a img {
     width: 95%;

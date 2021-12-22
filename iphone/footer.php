@@ -1,4 +1,10 @@
 
+
+  <div style="padding:10px 0 0;">
+    <?php get_search_form(); ?>
+  </div>
+
+
 <div id="menu">
 
 <div class="content-menu">

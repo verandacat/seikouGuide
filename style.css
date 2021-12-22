@@ -62,6 +62,9 @@ ol {
 #section-04 {
     margin-bottom: 15px;
 }
+#section-01 {
+    padding-top: 30px;
+}
 #section-01 h1 {
     color: #302f2f;
 }
@@ -199,6 +202,7 @@ th .link-img img {
 }
 #section-04 .r-img a img {
     max-width: 240px;
+    height: auto;
 }
 #section-04 .r-img .big-img {
     width: 130px;

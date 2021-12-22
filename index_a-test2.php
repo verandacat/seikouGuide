@@ -652,7 +652,7 @@
     </ul>
 
 
-    <?php include 'ranking-test2.php'; ?>
+    <?php include 'ranking-test.php'; ?>
 
 
   </section>

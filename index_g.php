@@ -10,10 +10,6 @@
         </div>
     </header>
 
-    <div style="padding:50px 0 0;">
-        <?php get_search_form(); ?>
-    </div>
-
 
 
     <section id="section-01">

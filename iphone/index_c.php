@@ -8,12 +8,6 @@
     </div>
   </header>
 
-  <div style="padding:10px 0 0;">
-    <?php get_search_form(); ?>
-  </div>
-
-
-
   <section id="section-01">
 
     <div class="title-wrap center">
@@ -838,4 +832,4 @@
 
 
 
-  <?php include('footer-test.php'); ?>
+  <?php include('footer.php'); ?>

@@ -10,10 +10,6 @@
     </div>
   </header>
 
-  <div style="padding:50px 0 0;">
-    <?php get_search_form(); ?>
-  </div>
-
 
 
   <section id="section-01">
@@ -469,10 +465,6 @@
 
   </section>
  -->
-
-  <div id="pagetop">
-    <a target="_blank" href="./#top">このページの先頭へ戻る</a>
-  </div>
 
 
   <!----------------------------SEARCH-------------------------->

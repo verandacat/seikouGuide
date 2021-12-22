@@ -641,7 +641,7 @@
     </div>
     <div class="swiper-pagination"></div>
 
-    <?php include('ranking-test2.php'); ?>
+    <?php include('ranking-test.php'); ?>
 
 
   </section>
