@@ -604,29 +604,31 @@
 
     <section id="section-04">
 
+        
         <div class="swiper-container">
             <ul class="swiper-wrapper tabs">
                 <li class="tab1 swiper-slide"><a href="#tab1"
-                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-a.png'">総合<br>人気ランキング</a></li>
+                    onclick="rank_bn.src='./img/ranking/ranking-banner-sp-a.png'">総合<br>人気ランキング</a></li>
                 <li class="tab2 swiper-slide"><a href="#tab2"
-                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-b.png'">体内フローラ<br>サプリ</a></li>
-                <li class="tab3 swiper-slide"><a href="#tab3"
-                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-c.png'">脂肪対策<br>サプリ</a></li>
-                <li class="tab4 swiper-slide active"><a href="#tab4"
-                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-d.png'">糖質ケア<br>サプリ</a></li>
+                    onclick="rank_bn.src='./img/ranking/ranking-banner-sp-c.png'">脂肪対策<br>サプリ</a></li>
+                <li class="tab3 swiper-slide active"><a href="#tab3"
+                    onclick="rank_bn.src='./img/ranking/ranking-banner-sp-d.png'">糖質ケア<br>サプリ</a></li>
+                <li class="tab4 swiper-slide"><a href="#tab4"
+                    onclick="rank_bn.src='./img/ranking/ranking-banner-sp-h.png'">防風通聖散</a></li>            
                 <li class="tab5 swiper-slide"><a href="#tab5"
-                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-e.png'">酵素<br>サプリ</a></li>
+                    onclick="rank_bn.src='./img/ranking/ranking-banner-sp-b.png'">体内フローラ<br>サプリ</a></li>
                 <li class="tab6 swiper-slide"><a href="#tab6"
-                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-f.png'">酵素<br>ドリンク</a></li>
+                    onclick="rank_bn.src='./img/ranking/ranking-banner-sp-e.png'">酵素<br>サプリ</a></li>
                 <li class="tab7 swiper-slide"><a href="#tab7"
-                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-g.png'">ダイエット<br>スムージー</a></li>
+                    onclick="rank_bn.src='./img/ranking/ranking-banner-sp-f.png'">酵素<br>ドリンク</a></li>
                 <li class="tab8 swiper-slide"><a href="#tab8"
-                        onclick="rank_bn.src='./img/ranking/ranking-banner-sp-h.png'">防風通聖散</a></li>
+                    onclick="rank_bn.src='./img/ranking/ranking-banner-sp-g.png'">ダイエット<br>スムージー</a></li>
                 <li class="swiper-slide"></li>
             </ul>
         </div>
         <div class="swiper-pagination"></div>
-        <?php include('ranking.php');?>
+
+        <?php include('ranking-new.php'); ?>
 
 
     </section>
@@ -686,10 +688,6 @@
 
     <script>
     $(function() {
-
-        $(".tab_content").hide();
-        $(".tab_content:nth-of-type(4)").show();
-
         $("ul.tabs li").click(function() {
             $("ul.tabs li").removeClass("active").css("color", "#333");
             //$(this).addClass("active").css({"color": "darkred","font-weight": "bold"});
@@ -709,7 +707,7 @@
     <!-- Initialize Swiper -->
     <script>
     var swiper_1 = new Swiper('.swiper-container', {
-        initialSlide: 3,
+        initialSlide: 2,
         pagination: '.swiper-pagination',
         slidesPerView: 3,
         paginationClickable: true,
@@ -732,7 +730,7 @@
 
     /* 2016-05-13 수정 */
     var swiper_2 = new Swiper('.swiper-container-2', {
-        initialSlide: 3,
+        initialSlide: 2,
         autoHeight: true,
         slidesPerView: 1,
         spaceBetween: 0,

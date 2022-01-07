@@ -609,15 +609,13 @@
 
     <ul class="tabs">
       <li rel="tab1" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-a.png'">総合<br>人気ランキング</li>
-      <li rel="tab2" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-b.png'">体内フローラ<br>サプリ</li>
       <li rel="tab3" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-c.png'">脂肪対策<br>サプリ</li>
       <li class="active" rel="tab4" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-d.png'">糖質ケア<br>サプリ</li>
+      <li rel="tab8" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-h.png'">防風通聖散</li>
+      <li rel="tab2" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-b.png'">体内フローラ<br>サプリ</li>
       <li rel="tab5" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-e.png'">酵素<br>サプリ</li>
       <li rel="tab6" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-f.png'">酵素<br>ドリンク</li>
       <li rel="tab7" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-g.png'">ダイエット<br>スムージー</li>
-      <li rel="tab8" onclick="rank_bn.src='./img/ranking/ranking-banner-pc-h.png'">防風通聖散</li>
-
-
     </ul>
 
     <?php include 'ranking.php';?>

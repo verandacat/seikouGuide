@@ -618,25 +618,25 @@
         <li class="tab1 swiper-slide active"><a href="#tab1"
             onclick="rank_bn.src='./img/ranking/ranking-banner-sp-a.png'">総合<br>人気ランキング</a></li>
         <li class="tab2 swiper-slide"><a href="#tab2"
-            onclick="rank_bn.src='./img/ranking/ranking-banner-sp-b.png'">体内フローラ<br>サプリ</a></li>
-        <li class="tab3 swiper-slide"><a href="#tab3"
             onclick="rank_bn.src='./img/ranking/ranking-banner-sp-c.png'">脂肪対策<br>サプリ</a></li>
-        <li class="tab4 swiper-slide"><a href="#tab4"
+        <li class="tab3 swiper-slide"><a href="#tab3"
             onclick="rank_bn.src='./img/ranking/ranking-banner-sp-d.png'">糖質ケア<br>サプリ</a></li>
+        <li class="tab4 swiper-slide"><a href="#tab4"
+            onclick="rank_bn.src='./img/ranking/ranking-banner-sp-h.png'">防風通聖散</a></li>            
         <li class="tab5 swiper-slide"><a href="#tab5"
-            onclick="rank_bn.src='./img/ranking/ranking-banner-sp-e.png'">酵素<br>サプリ</a></li>
+            onclick="rank_bn.src='./img/ranking/ranking-banner-sp-b.png'">体内フローラ<br>サプリ</a></li>
         <li class="tab6 swiper-slide"><a href="#tab6"
-            onclick="rank_bn.src='./img/ranking/ranking-banner-sp-f.png'">酵素<br>ドリンク</a></li>
+            onclick="rank_bn.src='./img/ranking/ranking-banner-sp-e.png'">酵素<br>サプリ</a></li>
         <li class="tab7 swiper-slide"><a href="#tab7"
-            onclick="rank_bn.src='./img/ranking/ranking-banner-sp-g.png'">ダイエット<br>スムージー</a></li>
+            onclick="rank_bn.src='./img/ranking/ranking-banner-sp-f.png'">酵素<br>ドリンク</a></li>
         <li class="tab8 swiper-slide"><a href="#tab8"
-            onclick="rank_bn.src='./img/ranking/ranking-banner-sp-h.png'">防風通聖散</a></li>
+            onclick="rank_bn.src='./img/ranking/ranking-banner-sp-g.png'">ダイエット<br>スムージー</a></li>
         <li class="swiper-slide"></li>
       </ul>
     </div>
     <div class="swiper-pagination"></div>
 
-    <?php include('ranking.php'); ?>
+    <?php include('ranking-new.php'); ?>
 
 
   </section>
@@ -707,8 +707,6 @@
   <script>
   $(function() {
 
-    $(".tab_content").hide();
-    $(".tab_content:first").show();
 
     $("ul.tabs li").click(function() {
       $("ul.tabs li").removeClass("active").css("color", "#333");
@@ -736,9 +734,9 @@
     paginationClickable: true,
     spaceBetween: 0,
     freeMode: true,
-    pagination: { // 페이징 설정
+    pagination: { 
       el: '.swiper-pagination',
-      clickable: true, // 페이징을 클릭하면 해당 영역으로 이동, 필요시 지정해 줘야 기능 작동
+      clickable: true, 
     },
   });
 
@@ -751,7 +749,7 @@
 
   var tabLen = $('.tabs > li').length;
 
-  /* 2016-05-13 수정 */
+  /* 2016-05-13 */
   var swiper_2 = new Swiper('.swiper-container-2', {
     initialSlide: 0,
     autoHeight: true,
@@ -777,7 +775,7 @@
       }
     }
   });
-  /* //2016-05-13 수정 */
+  /* //2016-05-13 */
   </script>
 
 
