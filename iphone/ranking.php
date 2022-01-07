@@ -202,7 +202,7 @@
 
 
             </div>
-            <?php elseif($post->ID == 1391) : ?>
+            <?php elseif($post->ID == 1508) : ?>
             <div class="meta-notes">
                 <span class="grad-trigger"></span>
                 <div class="grad-item">
@@ -636,7 +636,7 @@
 
 
             </div>
-            <?php elseif($post->ID == 1391) : ?>
+            <?php elseif($post->ID == 1508) : ?>
             <div class="meta-notes">
                 <span class="grad-trigger"></span>
                 <div class="grad-item">
@@ -846,7 +846,7 @@
 
 
             </div>
-            <?php elseif($post->ID == 1391) : ?>
+            <?php elseif($post->ID == 1508) : ?>
             <div class="meta-notes">
                 <span class="grad-trigger"></span>
                 <div class="grad-item">
@@ -1788,7 +1788,7 @@
 
 
             </div>
-            <?php elseif($post->ID == 1391) : ?>
+            <?php elseif($post->ID == 1508) : ?>
             <div class="meta-notes">
                 <span class="grad-trigger"></span>
                 <div class="grad-item">
